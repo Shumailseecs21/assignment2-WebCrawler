@@ -86,12 +86,18 @@ class UrlQueue {
 
     // Crawl a URL with specified depth
     public function crawlUrl($url, $depth, $urlQueue) {
+        set_time_limit(120);
+
         $counterFileName = './counter.txt';
             
         $counter = (int)file_get_contents($counterFileName);
+        
         if($depth>1){
+            if($urlQueue->isEmpty()){ //if queue is empty then exit the crawling
+                exit();
+            }
 
-            $filenameHtmlExtract = 'results/result-' . $counter . '.html';
+            $filenameHtmlExtract = 'results/result-' . $counter . '.txt';
 
             // Read the first line from the file
             $firstLine = fgets(fopen($filenameHtmlExtract, 'r'));
@@ -105,7 +111,6 @@ class UrlQueue {
             }
         }
         
-        set_time_limit(120);
         // Check if the URL is allowed by robots.txt
         if (!isUrlAllowedByRobotsTxt($url)) {
             echo "URL not allowed by robots.txt: $url\n";
@@ -131,12 +136,11 @@ class UrlQueue {
                 echo "Error parsing HTML content from: $url\n";
                 return;
             }
-            
             $allowedTags = '<body>';
             $textContent = strip_tags($htmlContent, $allowedTags);
             
             $counter++;
-            $filenameHtml = 'results/result-' . $counter . '.html';
+            $filenameHtml = 'results/result-' . $counter . '.txt';
             
             file_put_contents($counterFileName, $counter);
             
