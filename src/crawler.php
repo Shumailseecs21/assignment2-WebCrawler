@@ -1,91 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Crawler/Spider</title>
+</head>
+<body>
 <?php
-    function isValidUrl($url) {
-        $filteredUrl = filter_var($url, FILTER_VALIDATE_URL);
-        return $filteredUrl;
-        if ($filteredUrl === false) {
-            return false; // Not a valid URL
-        }
-
-        // Check if the URL ends with .css or .js
-        return !preg_match('/\.(css|js)$/i', $url);
+// Function to check if a URL is valid and not ending with .css or .js
+function isValidUrl($url) {
+    $filteredUrl = filter_var($url, FILTER_VALIDATE_URL);
+    if ($filteredUrl === false) {
+        return false; // Not a valid URL
     }
-    class UrlQueue {
-        private $queue = [];
 
-        public function enqueue($url) {
-            $this->queue[] = $url;
+    // Check if the URL ends with .css or .js
+    return !preg_match('/\.(css|js)$/i', $url);
+}
+
+// Function to check if a URL is allowed based on rules in robots.txt
+function isUrlAllowedByRobotsTxt($url) {
+    $robotsTxtUrl = rtrim($url, '/') . '/robots.txt';
+
+    // Fetch the content of the robots.txt file
+    $robotsTxtContent = @file_get_contents($robotsTxtUrl);
+
+    // If unable to fetch the content, assume the URL is allowed
+    if ($robotsTxtContent === false) {
+        return true;
+    }
+
+    // Parse the robots.txt content
+    $lines = explode("\n", $robotsTxtContent);
+    $userAgent = '*'; // Assuming we are a generic user agent
+
+    foreach ($lines as $line) {
+        // Skip comments and empty lines
+        $line = trim($line);
+        if (empty($line) || $line[0] == '#') {
+            continue;
         }
 
-        public function dequeue() {
-            return array_shift($this->queue);
+        // Check if the line contains a user agent definition
+        if (strtolower(substr($line, 0, 12)) === 'user-agent:') {
+            $userAgent = trim(substr($line, 12));
+            continue;
         }
 
-        public function isEmpty() {
-            return empty($this->queue);
-        }
+        // Check if the rule applies to our user agent
+        if ($userAgent === '*' || stripos($line, $userAgent) !== false) {
+            // Extract the disallowed paths
+            if (strtolower(substr($line, 0, 10)) === 'disallow:') {
+                $disallowedPath = trim(substr($line, 10));
 
-        public function crawlUrl($url, $depth, $urlQueue) {
-            set_time_limit(120);
-            if ($depth <= MAX_DEPTH) {
-                $htmlContent = file_get_contents($url);
-                
-                $allowedTags = '<h1><h2><h3><h4><h5><h6><p><ul><ol><li><br><a><href>';
-                
-                $textData = strip_tags($htmlContent,$allowedTags);
-                
-                $counterFileName = './counter.txt';
-
-                // Read the current counter value from the file
-                $counter = (int)file_get_contents($counterFileName);
-                
-                // Create the filename using the updated counter
-                $counter++;
-                $filename = 'results/result-' . $counter . '.txt';
-                
-                // Write the updated counter value back to the file
-                file_put_contents($counterFileName, $counter);
-
-                // $filename = 'pages/' . md5($url) . '.txt';
-                file_put_contents($filename, "URL: $url"."\n\n".$textData);
-        
-                // Display or log information about the crawled URL.
-                echo "Crawled: $url\n";
-        
-
-                $urls = [];
-
-                // Create a DOMDocument instance
-                $dom = new DOMDocument;
-                
-                // Load HTML content into the DOMDocument
-                @$dom->loadHTML($htmlContent);
-
-                // Get all anchor tags (a) in the HTML
-                $anchors = $dom->getElementsByTagName('a');
-                // Extract href attribute from each anchor tag
-                foreach ($anchors as $anchor) {
-                    $href = $anchor->getAttribute('href');
-                    
-                    // Normalize URLs and filter out non-HTTP(s) links
-                    $url = isValidUrl($href);
-                    
-                    if ($url !== false) {
-                        $urls[] = $url;
-                    }
-                    
+                // If the URL starts with the disallowed path, it's not allowed
+                if (strpos($url, $disallowedPath) === 0) {
+                    return false;
                 }
-
-                // Extract all hyperlinks (URLs) from the crawled HTML and add them to the URL queue.
-                $links = $urls;
-                foreach ($links as $link) {
-                    $urlQueue->enqueue($link);
-                }
-                print_r($urlQueue);
-                // Call the function recursively with the remaining URL queue.
-                $nextUrl = $urlQueue->dequeue();
-                $this->crawlUrl($nextUrl, $depth + 1, $urlQueue);
             }
-            die();
         }
     }
+
+    // If no disallowed paths were found, the URL is allowed
+    return true;
+}
+
+// Class to manage a queue of URLs
+class UrlQueue {
+    private $queue = [];
+
+    // Enqueue a URL
+    public function enqueue($url) {
+        $this->queue[] = $url;
+    }
+
+    // Dequeue a URL
+    public function dequeue() {
+        return array_shift($this->queue);
+    }
+
+    // Check if the queue is empty
+    public function isEmpty() {
+        return empty($this->queue);
+    }
+
+    // Crawl a URL with specified depth
+    public function crawlUrl($url, $depth, $urlQueue) {
+        $counterFileName = './counter.txt';
+            
+        $counter = (int)file_get_contents($counterFileName);
+        if($depth>1){
+
+            $filenameHtmlExtract = 'results/result-' . $counter . '.html';
+
+            // Read the first line from the file
+            $firstLine = fgets(fopen($filenameHtmlExtract, 'r'));
+
+            // Extract the URL from the first line
+            $urlExtract = trim(str_replace('URL:', '', $firstLine));
+            if($urlExtract===$url){
+                $nextUrlExtract = $urlQueue->dequeue();            
+                $urlQueue->crawlUrl($nextUrlExtract, $depth, $urlQueue);
+
+            }
+        }
+        
+        set_time_limit(120);
+        // Check if the URL is allowed by robots.txt
+        if (!isUrlAllowedByRobotsTxt($url)) {
+            echo "URL not allowed by robots.txt: $url\n";
+            return;
+        }
+        
+        if ($depth <= MAX_DEPTH) {
+            // Fetch the content of the page
+            $htmlContent = file_get_contents($url);
+            
+            // Check if the page could be fetched
+            if ($htmlContent === false) {
+                echo "Error fetching content from: $url\n";
+                return;
+            }
+            
+            // Attempt to parse the HTML content
+            $dom = new DOMDocument();
+            $success = @$dom->loadHTML($htmlContent);
+            
+            // Check if the HTML parsing was successful
+            if (!$success) {
+                echo "Error parsing HTML content from: $url\n";
+                return;
+            }
+            
+            $allowedTags = '<body>';
+            $textContent = strip_tags($htmlContent, $allowedTags);
+            
+            $counter++;
+            $filenameHtml = 'results/result-' . $counter . '.html';
+            
+            file_put_contents($counterFileName, $counter);
+            
+            // Save the content to a file
+            file_put_contents($filenameHtml, "URL: $url"."\n\n".$textContent);
+            
+            echo "Crawled<br>";
+            
+            $urls = [];
+            
+            // Load modified HTML content into DOMDocument
+            $dom = new DOMDocument();
+            // $htmlContent__modified = file_get_contents("./results/result-".$counter.".html");
+            @$dom->loadHTML($htmlContent);
+            
+            $anchors = $dom->getElementsByTagName('a');
+            
+            foreach ($anchors as $anchor) {
+                $href = $anchor->getAttribute('href');
+                // Normalize URLs and filter out non-HTTP(s) links
+                if (isValidUrl($href)) {
+                    $url = $href;
+                };
+                
+                if ($url !== false) {
+                    $urls[] = $url;
+                }
+            }
+            $links = $urls;
+            foreach ($links as $link) {
+                $urlQueue->enqueue($link);
+            }
+            
+            $nextUrl = $urlQueue->dequeue();            
+            $urlQueue->crawlUrl($nextUrl, $depth + 1, $urlQueue);
+        } else {
+            exit();
+        }
+    }
+}
 ?>
+</body>
+</html>
