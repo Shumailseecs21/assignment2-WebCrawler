@@ -1,0 +1,1989 @@
+URL: https://onepiece.fandom.com/wiki/Category:Pirates
+
+
+
+
+
+Category:Pirates | One Piece Wiki | Fandom
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"1e824be82307585a4a358c88c2f1c9fc","wgCSPNonce":false,"wgCanonicalNamespace":"Category","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":14,"wgPageName":"Category:Pirates","wgTitle":"Pirates","wgCurRevisionId":1730818,"wgRevisionId":1730818,"wgArticleId":1736,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Characters by Occupation","Piracy"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Category:Pirates","wgRelevantArticleId":1736,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":[
+"autoconfirmed"],"wgNoExternals":false,"wgArticleInterlangList":[],"wikiaPageType":"article","isDarkTheme":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"egMapsScriptPath":"/extensions-ucp/mw139/Maps/","egMapsDebugJS":false,"egMapsAvailableServices":["leaflet","googlemaps3"],"egMapsLeafletLayersApiKeys":{"MapBox":"","MapQuestOpen":"","Thunderforest":"","GeoportailFrance":""},"wgIsTestModeEnabled":false,"wgEnableLightboxExt":true,"wgDisableCMSNotifications":false,"wgEditSubmitButtonLabelPublish":false,"mwAuthBaseUrl":"https://auth.fandom.com","wgPerformanceMonitoringSamplingFactor":10,"wgPerformanceMonitoringEndpointUrl":"https://beacon.wikia-services.com/__track/special/performance_metrics?w=1081\u0026lc=en\u0026d=onepiece\u0026s=ucp_desktop\u0026u=0\u0026i=sjc-prod\u0026a=0","wgSoftwareVersion":"release-717@release-717.002",
+"wgFandomQuizzesEnabled":false,"wgFandomQuizzesOnFepoEnabled":false,"wgFandomQuizzesGenAiQuizzesOnArticlesEnabled":false,"wgFandomQuizzesCommunityQuizzesOnArticlesEnabled":false,"wgPageLanguageHasWordBreaks":true,"egFacebookAppId":"112328095453510","wgDisableAnonymousEditing":true,"comscoreKeyword":"wikiacsid_anime","quantcastLabels":"Genre.hackandslash,Genre.live-action,Genre.rpg,Genre.openworld,Genre.storytelling,Genre.adventure,Genre.lightnovel,Genre.manga,Genre.thriller,Genre.shonen,Genre.anime,Genre.fantasy,Genre.drama,Genre.action,Genre.racing,Genre.comedy,Genre.fighting,Media.cards,Media.tv,Media.movies,Media.games,Media.anime,Media.comics,Media.lightnovel,Media.books,Theme.pirates,Theme.mecha,Theme.humor,Theme.military,Theme.monster,Theme.sword,Theme.japan,Theme.supernatural,Theme.gangster,Theme.robots,TV.netflix,TV.adult swim,TV.amazon,TV.cn,TV.funimation,TV.hulu,TV.crunchyroll,TV.fox","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category"},
+"wgEnableDiscussions":true,"viewTrackURL":"https://beacon.wikia-services.com/__track/view?a=1736\u0026n=14\u0026env=prod\u0026c=1081\u0026lc=en\u0026lid=75\u0026x=onepiece\u0026s=ucp_desktop\u0026mobile_theme=fandom-light\u0026rollout_tracking=mw139","viewTrackUrlPrefix":"https://beacon.wikia-services.com/__track/view?a=1736\u0026n=14\u0026env=prod\u0026c=1081\u0026lc=en\u0026lid=75\u0026x=onepiece\u0026s=ucp_desktop\u0026mobile_theme=fandom-light\u0026rollout_tracking=mw139","wgEnableHydraFeatures":false,"wgAmplitudeApiKey":"6765a55f49a353467fec981090f1ab6a","wgUserIdForTracking":-1,"wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["de","en","es","fr"],"wgRequestInWikiContext":true,"wgIsFancentralWiki":false,"wgRailModuleList":["Fandom\\FandomDesktop\\Rail\\PopularPagesModuleService"]};RLSTATE={"site.styles":"ready","user.styles":"ready","user.options":"loading","ext.fandom.CategoryPage.category-layout-selector.css":"ready",
+"ext.fandom.CategoryPage.category-page3.css":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.staffSig.css":"ready","vendor.tippy.css":"ready","ext.fandom.bannerNotifications.desktop.css":"ready","ext.fandom.quickBar.css":"ready","ext.fandom.Uncrawlable.css":"ready","ext.fandom.CreatePage.css":"ready","ext.fandom.Thumbnails.css":"ready","ext.fandom.ThumbnailsViewImage.css":"ready","ext.fandom.Experiments.TRFC147":"ready","skin.fandomdesktop.Math.css":"ready","skin.fandomdesktop.CargoTables-ext.css":"ready","ext.fandom.FandomEmbedVideo.css":"ready","ext.fandom.ArticleInterlang.css":"ready","ext.fandom.HighlightToAction.css":"ready","skin.fandomdesktop.styles":"ready","ext.fandomVideo.css":"ready","ext.fandom.GlobalComponents.GlobalNavigationTheme.light.css":"ready","ext.fandom.GlobalComponents.GlobalComponentsTheme.light.css":"ready","ext.fandom.GlobalComponents.GlobalNavigation.css":"ready",
+"ext.fandom.GlobalComponents.GlobalFooter.css":"ready","ext.fandom.GlobalComponents.CommunityHeader.css":"ready","ext.fandom.GlobalComponents.StickyNavigation.css":"ready","ext.fandom.GlobalComponents.CommunityHeaderBackground.css":"ready","ext.fandom.GlobalComponents.RegistrationButtons.css":"ready","skin.fandomdesktop.rail.popularPages.css":"ready","skin.fandomdesktop.rail.css":"ready"};RLPAGEMODULES=["ext.fandom.CategoryPage.CategoryLayoutSelector.js","site","mediawiki.page.ready","jquery.makeCollapsible","ext.fandom.mediaWikiMigrationHooks.js","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.fandom.performanceMonitoring.js","ext.fandom.Optimizely.js","ext.fandom.FacebookTags.js","ext.fandom.ae.babTracking.js","ext.fandom.ae.consentQueue.js","ext.fandom.AnalyticsEngine.comscore.js","ext.fandom.AnalyticsEngine.quantcast.js","ext.categorySelect.js","ext.categorySelectFandomDesktop.css","ext.fandom.bannerNotifications.js",
+"ext.fandom.bannerNotifications.messages","ext.fandom.Track.js","ext.fandom.wikiaBar.js","ext.fandom.ContentReview.legacyLoaders.js","ext.fandom.ContentReview.jsReload.js","ext.fandom.site","ext.fandom.ImportJs","ext.fandom.ContentReviewTestModeMessages","ext.fandom.UncrawlableUrl.anchors.js","ext.fandom.CreatePage.js","ext.fandom.TimeAgoMessaging.js","ext.fandom.ImageGalleryIconModuleInit.js","ext.fandom.Thumbnails.js","ext.fandom.Thumbnails.messages","ext.fandom.FandomEmbedVideo.js","ext.tabView.editor.js","ext.fandom.HighlightToAction.js","ext.fandom.HighlightToAction.messages","skin.fandomdesktop.js","skin.fandomdesktop.messages","ext.fandom.GlobalComponents.SearchModal.messages","ext.fandom.GlobalComponents.GlobalNavigationAnon.js","ext.fandom.GlobalComponents.GlobalFooter.js","ext.fandom.GlobalComponents.CommunityHeader.js","ext.fandom.GlobalComponents.StickyNavigation.js","ext.fandom.GlobalComponents.RegistrationButtons.js","skin.fandomdesktop.rail.toggle.js",
+"skin.fandomdesktop.rail.lazyRail.js","ext.fandom.nositenotice.js","ext.fandom.Lightbox.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+{"@context":"http://schema.org","@type":"Article","url":"https://onepiece.fandom.com/wiki/Category:Pirates","name":"Pirates","headline":"Pirates","mainEntity":{"@type":"Thing","url":"https://onepiece.fandom.com/wiki/Category:Pirates","name":"Pirates","image":"https://static.wikia.nocookie.net/onepiece/images/a/a8/Splash_and_Splatter_Anime_Infobox.png/revision/latest?cb=20130224020839"},"about":{"@type":"Thing","url":"https://onepiece.fandom.com/wiki/Category:Pirates","name":"Pirates","image":"https://static.wikia.nocookie.net/onepiece/images/a/a8/Splash_and_Splatter_Anime_Infobox.png/revision/latest?cb=20130224020839"},"author":{"@type":"Organization","url":"https://onepiece.fandom.com/wiki/Category:Pirates?action=credits","name":"Contributors to One Piece Wiki"},"publisher":{"@type":"Organization","name":"Fandom, Inc.","logo":{"@type":"ImageObject","url":"https://static.wikia.nocookie.net/750feb85-de88-4a4f-b294-8b48142ac182/thumbnail-down/width/1280/height/720"}},"abstract":"Many of the pirates who have previously made an appearance.","image":"https://static.wikia.nocookie.net/onepiece/images/a/a8/Splash_and_Splatter_Anime_Infobox.png/revision/latest?cb=20130224020839","thumbnailUrl":"https://static.wikia.nocookie.net/onepiece/images/a/a8/Splash_and_Splatter_Anime_Infobox.png/revision/latest?cb=20130224020839"}
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+	const useMaxDefaultContentWidth = Boolean();
+
+	const defaultContentWidth = useMaxDefaultContentWidth ? 'expanded' : 'collapsed';
+
+	let contentWidthPreference;
+
+	try {
+		contentWidthPreference = localStorage.getItem('contentwidth') || defaultContentWidth;
+	} catch (e) {
+		contentWidthPreference = defaultContentWidth;
+	}
+
+	if ( contentWidthPreference === 'expanded' ) {
+		document.documentElement.classList.add('is-content-expanded');
+	}
+
+
+
+
+var _userId=0;
+var _plc={"p":"mw","pVar":"fandomdesktop","pCat":"anime","pId":"1081","pg":"article","pgId":"1736","pgLang":"en","adTags":{"tv":["netflix","adult swim","amazon","cn","funimation","hulu","crunchyroll","fox"],"sex":["m","f"],"bundles":["sensitive","apple_sea_bundle","obi_wan_kenobi_bundle","alc21_bundle","video_tier_1_and_2_bundle","onepiece_franchise","25_bundle","21_bundle"],"fran":["one_piece"],"theme":["pirates","mecha","humor","military","monster","sword","japan","supernatural","gangster","robots"],"gnre":["hackandslash","live-action","rpg","openworld","storytelling","adventure","lightnovel","manga","thriller","shonen","anime","fantasy","drama","action","racing","comedy","fighting"],"media":["cards","tv","movies","games","anime","comics","lightnovel","books"],"pub":["namco","bandainamco"],"age":["35-44","teen","13-17","18-34","kids","45-54","yadult","25-34","under18","18-24"],"pform":["psp","pc","ps3","xboxone","psvita","mobile","ds","wii","3ds","ps2","ps4","switch"]},"time":0}; var _ulc={"id":"0","lang":"en"}; _plc.time=Date.now();
+
+
+var ads={"context":{"opts":{"enableNativeAds":true,"pageType":"all_ads","platformName":"fandomdesktop"},"targeting":{"enablePageCategories":true,"isUcp":true,"mappedVerticalName":"ent","newWikiCategories":["ent","comics","anime"],"pageArticleId":1736,"pageIsArticle":true,"pageName":"Category:Pirates","pageType":"article","wikiDbName":"onepiece","wikiId":1081,"wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"anime","adTagManagerTags":{"tv":["netflix","adult swim","amazon","cn","funimation","hulu","crunchyroll","fox"],"sex":["m","f"],"bundles":["sensitive","apple_sea_bundle","obi_wan_kenobi_bundle","alc21_bundle","video_tier_1_and_2_bundle","onepiece_franchise","25_bundle","21_bundle"],"fran":["one_piece"],"theme":["pirates","mecha","humor","military","monster","sword","japan","supernatural","gangster","robots"],"gnre":["hackandslash","live-action","rpg","openworld","storytelling","adventure","lightnovel","manga","thriller","shonen","anime","fantasy","drama","action","racing","comedy","fighting"],"media":["cards","tv","movies","games","anime","comics","lightnovel","books"],"pub":["namco","bandainamco"],"age":["35-44","teen","13-17","18-34","kids","45-54","yadult","25-34","under18","18-24"],"pform":["psp","pc","ps3","xboxone","psvita","mobile","ds","wii","3ds","ps2","ps4","switch"]}}},"consentQueue":[]};
+
+	// Install temporary stub until full CMP will be ready
+	if (typeof window.__tcfapi === 'undefined') {
+		// @iabtcf/stub v1.3.1
+		"use strict";function _typeof(t){return(_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t})(t)}!function(){var t=function(){var t,e,o="__tcfapiLocator",n=[],r=window,a=r;for(;a;){try{if(a.frames[o]){t=a;break}}catch(t){}if(a===r.top)break;a=r.parent}t||(!function t(){var e=r.document,n=!!r.frames[o];if(!n)if(e.body){var a=e.createElement("iframe");a.style.cssText="display:none",a.name=o,e.body.appendChild(a)}else setTimeout(t,5);return!n}(),r.__tcfapi=function(){for(var t=arguments.length,o=new Array(t),r=0;r3&&2===parseInt(o[1],10)&&"boolean"==typeof o[3]&&(e=o[3],"function"==typeof o[2]&&o[2]("set",!0)):"ping"===o[0]?"function"==typeof o[2]&&o[2]({gdprApplies:e,cmpLoaded:!1,cmpStatus:"stub"}):n.push(o)},r.addEventListener("message",(function(t){var e="string"==typeof t.data,o={};if(e)try{o=JSON.parse(t.data)}catch(t){}else o=t.data;var n="object"===_typeof(o)?o.__tcfapiCall:null;n&&window.__tcfapi(n.command,n.version,(function(o,r){var a={__tcfapiReturn:{returnValue:o,success:r,callId:n.callId}};t&&t.source&&t.source.postMessage&&t.source.postMessage(e?JSON.stringify(a):a,"*")}),n.parameter)}),!1))};"undefined"!=typeof module?module.exports=t:t()}();
+	}
+
+
+
+
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-14 ns-subject page-Category_Pirates rootpage-Category_Pirates skin-fandomdesktop action-view ooui-theme-fandomooui wiki-onepiece theme-fandomdesktop-light">
+	
+				
+			
+	
+
+		
+	
+
+		One Piece Wiki
+	
+
+	
+					
+			
+			
+				
+										Explore
+				
+							
+			
+					
+													
+			
+			
+								Main Page
+			
+		
+														
+			
+			
+								Discuss
+			
+		
+														
+			
+			
+								All Pages
+			
+		
+														
+			
+			
+								Community
+			
+		
+														
+			
+			
+								Interactive Maps
+			
+		
+														
+			
+			
+								Recent Blog Posts
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										World
+				
+							
+			
+					
+													
+			
+			
+								Characters
+							
+			
+				
+											
+			
+			
+								Straw Hat Pirates
+			
+		
+												
+			
+			
+								In Canon
+			
+		
+												
+			
+			
+								Non-Canon
+			
+		
+												
+			
+			
+								Pirates
+			
+		
+												
+			
+			
+								Marines
+			
+		
+												
+			
+			
+								Nobles
+			
+		
+												
+			
+			
+								By Race
+			
+		
+												
+			
+			
+								Antagonists
+			
+		
+										
+			
+		
+														
+			
+			
+								Locations
+							
+			
+				
+											
+			
+			
+								Grand Line
+			
+		
+												
+			
+			
+								East Blue
+			
+		
+												
+			
+			
+								New World
+			
+		
+												
+			
+			
+								Islands
+			
+		
+												
+			
+			
+								Towns and Cities
+			
+		
+										
+			
+		
+														
+			
+			
+								Organizations
+							
+			
+				
+											
+			
+			
+								Marines
+			
+		
+												
+			
+			
+								Pirate Crews
+			
+		
+												
+			
+			
+								Seven Warlords of the Sea
+			
+		
+												
+			
+			
+								Four Emperors
+			
+		
+												
+			
+			
+								World Government
+			
+		
+												
+			
+			
+								Revolutionary Army
+			
+		
+										
+			
+		
+														
+			
+			
+								Society
+							
+			
+				
+											
+			
+			
+								Occupations
+			
+		
+												
+			
+			
+								Races
+			
+		
+												
+			
+			
+								Technology
+			
+		
+												
+			
+			
+								Animal Species
+			
+		
+												
+			
+			
+								Plant and Fungi Species
+			
+		
+										
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Media
+				
+							
+			
+					
+													
+			
+			
+								Manga
+							
+			
+				
+											
+			
+			
+								Chapters and Volumes
+			
+		
+												
+			
+			
+								SBS Corners
+			
+		
+												
+			
+			
+								Story Arcs
+			
+		
+												
+			
+			
+								Cover Stories
+			
+		
+												
+			
+			
+								Volume Intros
+			
+		
+												
+			
+			
+								Books
+			
+		
+										
+			
+		
+														
+			
+			
+								Anime
+							
+			
+				
+											
+			
+			
+								Episode Guide
+			
+		
+												
+			
+			
+								Story Arcs
+			
+		
+												
+			
+			
+								One Piece Movies
+			
+		
+												
+			
+			
+								Filler
+			
+		
+												
+			
+			
+								Music
+			
+		
+										
+			
+		
+														
+			
+			
+								Merchandise
+							
+			
+				
+											
+			
+			
+								Spin-Offs
+			
+		
+												
+			
+			
+								Video Games
+			
+		
+										
+			
+		
+														
+			
+			
+								Other Media
+							
+			
+				
+											
+			
+			
+								Books
+			
+		
+												
+			
+			
+								Magazine
+			
+		
+												
+			
+			
+								Events
+			
+		
+												
+			
+			
+								Live Performances
+			
+		
+												
+			
+			
+								Live-Action Series
+			
+		
+												
+			
+			
+								Variety
+			
+		
+												
+			
+			
+								Mobile Apps
+			
+		
+										
+			
+		
+														
+			
+			
+								Mythbusters
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Community
+				
+							
+			
+					
+													
+			
+			
+								Discord Server
+			
+		
+														
+			
+			
+								Discussions
+			
+		
+														
+			
+			
+								Forums
+			
+		
+														
+			
+			
+								Recent Blogs
+			
+		
+														
+			
+			
+								Featured Articles
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Help
+				
+							
+			
+					
+													
+			
+			
+								Rules
+							
+			
+				
+											
+			
+			
+								Spoiler Rules
+			
+		
+												
+			
+			
+								Vandalism Rules
+			
+		
+												
+			
+			
+								Forum Rules
+			
+		
+												
+			
+			
+								Discussions, Blogs, and Discord Rules
+			
+		
+										
+			
+		
+														
+			
+			
+								Guidelines
+							
+			
+				
+											
+			
+			
+								Manual of Style
+			
+		
+												
+			
+			
+								Page Layouts
+			
+		
+												
+			
+			
+								Image Guidelines
+			
+		
+												
+			
+			
+								Trivia Guidelines
+			
+		
+										
+			
+		
+														
+			
+			
+								FAQ
+			
+		
+														
+			
+			
+								Referencing Information
+			
+		
+														
+			
+			
+								Administrators
+			
+		
+												
+			
+		
+				
+
+	
+			
+					
+			
+					
+			
+					
+		
+
+
+
+	
+		
+			
+								FANDOM
+			
+
+							
+								
+			
+			
+
+			
+			
+				
+
+	
+	
+	
+
+
+			
+			
+				Fan Central			
+							
+					BETA				
+					
+			
+			
+				
+	
+		
+	
+
+			
+			
+				Games			
+					
+			
+			
+				
+
+	
+
+
+			
+			
+				Anime			
+					
+			
+			
+				
+	
+		
+	
+
+			
+			
+				Movies			
+					
+			
+			
+				
+	
+		
+	
+
+			
+			
+				TV			
+					
+			
+			
+				
+	
+		
+	
+
+			
+			
+				Video			
+					
+	
+			
+			
+				
+					
+
+	
+
+
+				
+				
+					Wikis				
+			
+			
+				
+											
+							
+								Explore Wikis							
+						
+											
+							
+								Community Central							
+						
+									
+			
+		
+	
+			
+			
+							
+			
+				Start a Wiki			
+		
+	
+		
+	
+
+	
+							
+
+	
+		
+					
+	
+	
+		
+
+
+	Don&#039;t have an account?
+
+	Register
+
+
+	Sign In	
+
+			
+
+	
+		
+		
+	
+		
+		Advertisement
+	
+		
+		
+			
+	
+		
+			Sign In		
+		
+						Register		
+	
+			
+	
+					
+				
+			
+				
+			
+				
+					One Piece Wiki				
+											
+			
+				7,138pages			
+			
+			
+					
+			
+					
+			
+					
+		
+		
+		
+
+	
+					
+			
+			
+				
+										Explore
+				
+							
+			
+					
+													
+			
+			
+								Main Page
+			
+		
+														
+			
+			
+								Discuss
+			
+		
+														
+			
+			
+								All Pages
+			
+		
+														
+			
+			
+								Community
+			
+		
+														
+			
+			
+								Interactive Maps
+			
+		
+														
+			
+			
+								Recent Blog Posts
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										World
+				
+							
+			
+					
+													
+			
+			
+								Characters
+							
+			
+				
+											
+			
+			
+								Straw Hat Pirates
+			
+		
+												
+			
+			
+								In Canon
+			
+		
+												
+			
+			
+								Non-Canon
+			
+		
+												
+			
+			
+								Pirates
+			
+		
+												
+			
+			
+								Marines
+			
+		
+												
+			
+			
+								Nobles
+			
+		
+												
+			
+			
+								By Race
+			
+		
+												
+			
+			
+								Antagonists
+			
+		
+										
+			
+		
+														
+			
+			
+								Locations
+							
+			
+				
+											
+			
+			
+								Grand Line
+			
+		
+												
+			
+			
+								East Blue
+			
+		
+												
+			
+			
+								New World
+			
+		
+												
+			
+			
+								Islands
+			
+		
+												
+			
+			
+								Towns and Cities
+			
+		
+										
+			
+		
+														
+			
+			
+								Organizations
+							
+			
+				
+											
+			
+			
+								Marines
+			
+		
+												
+			
+			
+								Pirate Crews
+			
+		
+												
+			
+			
+								Seven Warlords of the Sea
+			
+		
+												
+			
+			
+								Four Emperors
+			
+		
+												
+			
+			
+								World Government
+			
+		
+												
+			
+			
+								Revolutionary Army
+			
+		
+										
+			
+		
+														
+			
+			
+								Society
+							
+			
+				
+											
+			
+			
+								Occupations
+			
+		
+												
+			
+			
+								Races
+			
+		
+												
+			
+			
+								Technology
+			
+		
+												
+			
+			
+								Animal Species
+			
+		
+												
+			
+			
+								Plant and Fungi Species
+			
+		
+										
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Media
+				
+							
+			
+					
+													
+			
+			
+								Manga
+							
+			
+				
+											
+			
+			
+								Chapters and Volumes
+			
+		
+												
+			
+			
+								SBS Corners
+			
+		
+												
+			
+			
+								Story Arcs
+			
+		
+												
+			
+			
+								Cover Stories
+			
+		
+												
+			
+			
+								Volume Intros
+			
+		
+												
+			
+			
+								Books
+			
+		
+										
+			
+		
+														
+			
+			
+								Anime
+							
+			
+				
+											
+			
+			
+								Episode Guide
+			
+		
+												
+			
+			
+								Story Arcs
+			
+		
+												
+			
+			
+								One Piece Movies
+			
+		
+												
+			
+			
+								Filler
+			
+		
+												
+			
+			
+								Music
+			
+		
+										
+			
+		
+														
+			
+			
+								Merchandise
+							
+			
+				
+											
+			
+			
+								Spin-Offs
+			
+		
+												
+			
+			
+								Video Games
+			
+		
+										
+			
+		
+														
+			
+			
+								Other Media
+							
+			
+				
+											
+			
+			
+								Books
+			
+		
+												
+			
+			
+								Magazine
+			
+		
+												
+			
+			
+								Events
+			
+		
+												
+			
+			
+								Live Performances
+			
+		
+												
+			
+			
+								Live-Action Series
+			
+		
+												
+			
+			
+								Variety
+			
+		
+												
+			
+			
+								Mobile Apps
+			
+		
+										
+			
+		
+														
+			
+			
+								Mythbusters
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Community
+				
+							
+			
+					
+													
+			
+			
+								Discord Server
+			
+		
+														
+			
+			
+								Discussions
+			
+		
+														
+			
+			
+								Forums
+			
+		
+														
+			
+			
+								Recent Blogs
+			
+		
+														
+			
+			
+								Featured Articles
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Help
+				
+							
+			
+					
+													
+			
+			
+								Rules
+							
+			
+				
+											
+			
+			
+								Spoiler Rules
+			
+		
+												
+			
+			
+								Vandalism Rules
+			
+		
+												
+			
+			
+								Forum Rules
+			
+		
+												
+			
+			
+								Discussions, Blogs, and Discord Rules
+			
+		
+										
+			
+		
+														
+			
+			
+								Guidelines
+							
+			
+				
+											
+			
+			
+								Manual of Style
+			
+		
+												
+			
+			
+								Page Layouts
+			
+		
+												
+			
+			
+								Image Guidelines
+			
+		
+												
+			
+			
+								Trivia Guidelines
+			
+		
+										
+			
+		
+														
+			
+			
+								FAQ
+			
+		
+														
+			
+			
+								Referencing Information
+			
+		
+														
+			
+			
+								Administrators
+			
+		
+												
+			
+		
+				
+
+	
+
+			
+				
+					
+						
+							
+																																
+															
+																	
+													
+					
+					
+	
+		
+			
+									
+
+	in:
+	Characters by Occupation, Piracy	
+								
+			
+								
+		
+			
+				
+					Pirates				
+															Category page
+												
+			
+				
+				
+									
+												View source					
+				
+				
+									
+						
+													
+						
+							
+																	
+										
+											View history										
+									
+																	
+										
+											Talk (0)										
+									
+															
+						
+					
+											
+		
+			
+					
+																		
+
+
+Many of the pirates who have previously made an appearance.
+
+[v · e · ?]PiracyOccupations:
+Captain (Admiral)
+Officer (First Mate
+Staff Superior)
+Combatant (Swordsman
+Sniper
+Martial Artist)
+Navigator
+Cook
+Musician
+Doctor
+Archaeologist
+Helmsman
+Shipwright
+Apprentice
+Pet
+Organization:
+Crews
+Alliance
+Fleet
+Designations:
+Super Rookie (Worst Generation)
+Seven Warlords (Former: Defunct)‡
+Four Emperors
+Culture:
+Treasure (One Piece)
+Jolly Roger
+Epithet
+Bounties
+Davy Back Fight
+Sakazuki
+Dead End Race (Non-Canon)≠
+Pirates Festival (Non-Canon)≠
+Related:
+Assassin
+Mercenary
+Underworld
+
+
+
+
+
+Trending pages
+
+			
+			
+				
+					
+					Bellett
+				
+			
+		
+			
+			
+				
+					
+					Byron
+				
+			
+		
+			
+			
+				
+					
+					Splash and Splatter
+				
+			
+		
+			
+			
+				
+					
+					Wellington
+				
+			
+		
+	
+
+		All items (9)
+
+			
+			#
+					
+			A
+					
+			B
+					
+			C
+					
+			D
+					
+			E
+					
+			F
+					
+			G
+					
+			H
+					
+			I
+					
+			J
+					
+			K
+					
+			L
+					
+			M
+					
+			N
+					
+			O
+					
+			P
+					
+			Q
+					
+			R
+					
+			S
+					
+			T
+					
+			U
+					
+			V
+					
+			W
+					
+			X
+					
+			Y
+					
+			Z
+					
+			Other
+			
+
+				
+						
+														
+						
+																																			
+						Category:Non-Canon Pirates					
+							
+		
+			
+							
+					B				
+						
+														
+						
+																						
+									
+									
+								
+													
+						Bellett					
+														
+						
+																						
+									
+									
+								
+													
+						Byron					
+							
+		
+			
+							
+					F				
+						
+														
+						
+																																			
+						Category:Former Pirates					
+							
+		
+			
+							
+					P				
+						
+														
+						
+																																			
+						Category:Pirate Groups					
+														
+						
+																																			
+						Category:Pirates by Group					
+														
+						
+																																			
+						Category:Pirates by Position					
+							
+		
+			
+							
+					S				
+						
+														
+						
+																						
+									
+									
+								
+													
+						Splash and Splatter					
+							
+		
+			
+							
+					W				
+						
+														
+						
+																						
+									
+									
+								
+													
+						Wellington					
+							
+		
+	
+					
+					
+						
+	
+		
+			Categories					
+		
+							
+
+	
+		
+			Categories: 
+						
+	Characters by Occupation
+	
+
+			
+	Piracy
+	
+
+	
+					
+			
+	
+					
+	
+						
+														
+		Community content is available under CC-BY-SA unless otherwise noted.	
+						
+						
+	
+	
+		More Fandoms
+	
+	
+		
+			Fantasy
+		
+	
+
+
+
+					
+				
+									
+
+		
+
+	
+				
+		
+
+
+							
+			
+	
+		
+		Advertisement
+	
+					
+					
+	
+		
+			
+				
+					
+				
+			
+			
+			Explore properties
+	
+	
+	
+			
+							
+					
+													Fandom											
+				
+							
+					
+													Muthead											
+				
+							
+					
+													Fanatical											
+				
+					
+	
+			
+			Follow Us
+	
+	
+	
+			
+							
+					
+																								
+				
+							
+					
+																								
+				
+							
+					
+																								
+				
+							
+					
+																								
+				
+							
+					
+																								
+				
+					
+	
+		
+		
+			
+			Overview
+	
+	
+	
+			
+							
+					
+													What is Fandom?											
+				
+							
+					
+													About											
+				
+							
+					
+													Careers											
+				
+							
+					
+													Press											
+				
+							
+					
+													Contact											
+				
+							
+					
+													Terms of Use											
+				
+							
+					
+													Privacy Policy											
+				
+							
+					
+													Global Sitemap											
+				
+							
+					
+													Local Sitemap											
+				
+					
+	
+		
+		
+			
+			Community
+	
+	
+	
+			
+							
+					
+													Community Central											
+				
+							
+					
+													Support											
+				
+							
+					
+													Help											
+				
+							
+					
+													Do Not Sell or Share My Personal Information											
+				
+					
+	
+			
+			Advertise
+	
+	
+	
+			
+							
+					
+													Media Kit											
+				
+							
+					
+													Contact											
+				
+					
+	
+		
+		
+			
+			Fandom Apps
+	
+			Take your favorite fandoms with you and never miss a beat.	
+	
+	
+			
+	
+	
+			
+	
+			
+							
+					
+													
+											
+				
+							
+					
+													
+											
+				
+					
+	
+		
+	
+	
+					One Piece Wiki is a FANDOM Anime Community.
+							
+				
+					View Mobile Site				
+			
+			
+
+			
+
+	
+		window.RLQ = window.RLQ || [];
+		window.RLQ.push(() => {
+			mw.config.set('wgPageActions', {"3":{"class":false,"text":"View history","href":"\/wiki\/Category:Pirates?action=history","id":"ca-history","accesskey":"h","data-tracking":"ca-history-dropdown"},"11":{"class":"new","text":"Talk (0)","href":"\/wiki\/Category_talk:Pirates?action=edit&redlink=1","exists":false,"primary":true,"context":"talk","rel":"discussion","id":"ca-talk","accesskey":"t","data-tracking":"ca-talk-dropdown"}});
+		})
+	
+
+	
+		
+				
+		Follow on IG
+	
+	
+		TikTok
+	
+	
+		Join Fan Lab
+	
+
+			
+							
+		
+	
+
+	
+		
+			
+				
+					
+				
+				
+					
+						
+					
+				
+			
+		
+	
+
+
+window.fandomContext = {"site":{"categories":["ent","comics","anime"],"directedAtChildren":false,"siteName":"onepiece","top1000":true,"tags":{"tv":["netflix","adult swim","amazon","cn","funimation","hulu","crunchyroll","fox"],"sex":["m","f"],"bundles":["sensitive","apple_sea_bundle","obi_wan_kenobi_bundle","alc21_bundle","video_tier_1_and_2_bundle","onepiece_franchise","25_bundle","21_bundle"],"fran":["one_piece"],"theme":["pirates","mecha","humor","military","monster","sword","japan","supernatural","gangster","robots"],"gnre":["hackandslash","live-action","rpg","openworld","storytelling","adventure","lightnovel","manga","thriller","shonen","anime","fantasy","drama","action","racing","comedy","fighting"],"media":["cards","tv","movies","games","anime","comics","lightnovel","books"],"pub":["namco","bandainamco"],"age":["35-44","teen","13-17","18-34","kids","45-54","yadult","25-34","under18","18-24"],"pform":["psp","pc","ps3","xboxone","psvita","mobile","ds","wii","3ds","ps2","ps4","switch"]},"taxonomy":["ent","anime"]},"page":{"articleId":1736,"lang":"en","pageId":1736,"pageName":"Category:Pirates","pageType":"article","tags":{},"wordCount":137}}
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.031","walltime":"0.036","ppvisitednodes":{"value":140,"limit":1000000},"postexpandincludesize":{"value":9624,"limit":2097152},"templateargumentsize":{"value":71,"limit":2097152},"expansiondepth":{"value":9,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   19.976      1 Template:Pirates_Navibox","100.00%   19.976      1 -total"," 90.14%   18.007      1 Template:Navbox"," 10.90%    2.178      3 Template:Status"]},"scribunto":{"limitreport-timeusage":{"value":"0.003","limit":"7.000"},"limitreport-memusage":{"value":768954,"limit":52428800}},"cachereport":{"timestamp":"20231206023859","ttl":1209600,"transientcontent":false}}});});
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":103});});
+</body>

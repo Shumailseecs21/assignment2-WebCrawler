@@ -1,0 +1,8883 @@
+URL: https://onepiece.fandom.com/wiki/List_of_Non-Canon_Characters
+
+
+
+
+
+List of Non-Canon Characters | One Piece Wiki | Fandom
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"2ff2edd479031c22e2423cd4a5db5de1","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_Non-Canon_Characters","wgTitle":"List of Non-Canon Characters","wgCurRevisionId":1976393,"wgRevisionId":1976393,"wgArticleId":27993,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Lists","Non-Canon Characters"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"List_of_Non-Canon_Characters","wgRelevantArticleId":27993,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"
+],"wgRestrictionMove":["autoconfirmed"],"wgNoExternals":false,"wgArticleInterlangList":["es:Lista de personajes no canon","pl:Lista niekanonicznych postaci"],"wikiaPageType":"article","isDarkTheme":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"egMapsScriptPath":"/extensions-ucp/mw139/Maps/","egMapsDebugJS":false,"egMapsAvailableServices":["leaflet","googlemaps3"],"egMapsLeafletLayersApiKeys":{"MapBox":"","MapQuestOpen":"","Thunderforest":"","GeoportailFrance":""},"wgIsTestModeEnabled":false,"wgEnableLightboxExt":true,"wgDisableCMSNotifications":false,"wgEditSubmitButtonLabelPublish":false,"mwAuthBaseUrl":"https://auth.fandom.com","personalizedRecommendationsMessage":"Recommended for you","wgPerformanceMonitoringSamplingFactor":10,"wgPerformanceMonitoringEndpointUrl":
+"https://beacon.wikia-services.com/__track/special/performance_metrics?w=1081\u0026lc=en\u0026d=onepiece\u0026s=ucp_desktop\u0026u=0\u0026i=sjc-prod\u0026a=0","wgSoftwareVersion":"master@release-718.001","wgFandomQuizzesEnabled":false,"wgFandomQuizzesOnFepoEnabled":false,"wgFandomQuizzesGenAiQuizzesOnArticlesEnabled":false,"wgFandomQuizzesCommunityQuizzesOnArticlesEnabled":false,"wgPageLanguageHasWordBreaks":true,"egFacebookAppId":"112328095453510","wgDisableAnonymousEditing":true,"comscoreKeyword":"wikiacsid_anime","quantcastLabels":
+"Genre.hackandslash,Genre.live-action,Genre.rpg,Genre.openworld,Genre.storytelling,Genre.adventure,Genre.lightnovel,Genre.manga,Genre.thriller,Genre.shonen,Genre.anime,Genre.fantasy,Genre.drama,Genre.action,Genre.racing,Genre.comedy,Genre.fighting,Media.cards,Media.tv,Media.movies,Media.games,Media.anime,Media.comics,Media.lightnovel,Media.books,Theme.pirates,Theme.mecha,Theme.humor,Theme.military,Theme.monster,Theme.sword,Theme.japan,Theme.supernatural,Theme.gangster,Theme.robots,TV.netflix,TV.adult swim,TV.amazon,TV.cn,TV.funimation,TV.hulu,TV.crunchyroll,TV.fox","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category"},"wgEnableDiscussions":true,"viewTrackURL":"https://beacon.wikia-services.com/__track/view?a=27993\u0026n=0\u0026env=prod\u0026c=1081\u0026lc=en\u0026lid=75\u0026x=onepiece\u0026s=ucp_desktop\u0026mobile_theme=fandom-light\u0026rollout_tracking=mw139","viewTrackUrlPrefix":
+"https://beacon.wikia-services.com/__track/view?a=27993\u0026n=0\u0026env=prod\u0026c=1081\u0026lc=en\u0026lid=75\u0026x=onepiece\u0026s=ucp_desktop\u0026mobile_theme=fandom-light\u0026rollout_tracking=mw139","wgEnableHydraFeatures":false,"wgAmplitudeApiKey":"6765a55f49a353467fec981090f1ab6a","wgUserIdForTracking":-1,"wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["de","en","es","fr"],"wgRequestInWikiContext":true,"wgIsFancentralWiki":false,"wgArticleFeaturedVideo":{"lang":"en","mediaId":"sXWp3rZ0","isDedicatedForArticle":false,"impressionsPerSession":3,"tier3Mapping":false,"metadata":{"name":"Attack On Titan Fans Take Fandom Wiki Quiz","thumbnailUrl":"https://cdn.jwplayer.com/v2/media/uKMfq9l1/poster.jpg?width=720","uploadDate":"2023-10-25T20:17:43+00:00","duration":"PT03M36S","description":"Cosplayers at New York Comic Con 2023 take our Attack on Titan Fandom Wiki Quiz. How many of these questions can you answer correctly?","contentUrl":
+"https://cdn.jwplayer.com/videos/uKMfq9l1-cSpmBcaY.mp4"},"feedid":"sXWp3rZ0","links":{"first":"https://cdn.jwplayer.com/v2/playlists/sXWp3rZ0?max_resolution=1280\u0026format=json\u0026internal=false\u0026page_offset=1\u0026page_limit=1","last":"https://cdn.jwplayer.com/v2/playlists/sXWp3rZ0?max_resolution=1280\u0026format=json\u0026internal=false\u0026page_offset=12\u0026page_limit=1","next":"https://cdn.jwplayer.com/v2/playlists/sXWp3rZ0?max_resolution=1280\u0026format=json\u0026internal=false\u0026page_offset=2\u0026page_limit=1"},"playlist":[{"title":"Attack On Titan Fans Take Fandom Wiki Quiz","mediaid":"uKMfq9l1","link":"https://cdn.jwplayer.com/previews/uKMfq9l1","image":"https://cdn.jwplayer.com/v2/media/uKMfq9l1/poster.jpg?width=720","feedid":"sXWp3rZ0","duration":216,"sources":[{"file":"https://cdn.jwplayer.com/manifests/uKMfq9l1.m3u8?max_resolution=1280","type":"application/vnd.apple.mpegurl"},{"file":"https://cdn.jwplayer.com/videos/uKMfq9l1-TI0yeHZW.mp4","type":"video/mp4",
+"height":180,"width":320,"label":"180p","bitrate":440247,"filesize":11886682,"framerate":30},{"file":"https://cdn.jwplayer.com/videos/uKMfq9l1-DnzUC89Y.mp4","type":"video/mp4","height":270,"width":480,"label":"270p","bitrate":618785,"filesize":16707218,"framerate":30},{"file":"https://cdn.jwplayer.com/videos/uKMfq9l1-xhZUqUI6.mp4","type":"video/mp4","height":406,"width":720,"label":"406p","bitrate":828085,"filesize":22358305,"framerate":30},{"file":"https://cdn.jwplayer.com/videos/uKMfq9l1-1lt3rSsE.mp4","type":"video/mp4","height":720,"width":1280,"label":"720p","bitrate":1855112,"filesize":50088031,"framerate":30},{"file":"https://cdn.jwplayer.com/videos/uKMfq9l1-LiJWxqIn.m4a","type":"audio/mp4","label":"AAC Audio","bitrate":113731,"filesize":3070754},{"file":"https://cdn.jwplayer.com/videos/uKMfq9l1-cSpmBcaY.mp4","type":"video/mp4","height":1080,"width":1920,"label":"1080p","bitrate":3699754,"filesize":99893383,"framerate":30}],"SourceID":"","mcold":"","IP":"Attack on Titan","Person"
+:"","Sponsored":"","Format":"","shouldAutoCaption":"","Duration":"5mins","Series":"","Vertical":"Anime","Endemic":"","WikiTargetedPlaylist":"Anime","Source":"","isSponsored":"","Language":"EN"}]},"wgJwPlayerUrl":null,"wgRailModuleList":["Fandom\\FandomDesktop\\Rail\\PopularPagesModuleService"]};RLSTATE={"site.styles":"ready","user.styles":"ready","user.options":"loading","jquery.tablesorter.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","skin.fandomdesktop.FanFeed.css":"ready","ext.staffSig.css":"ready","vendor.tippy.css":"ready","ext.fandom.bannerNotifications.desktop.css":"ready","ext.fandom.quickBar.css":"ready","ext.fandom.Uncrawlable.css":"ready","ext.fandom.CreatePage.css":"ready","ext.fandom.Thumbnails.css":"ready","ext.fandom.ThumbnailsViewImage.css":"ready","ext.fandom.Experiments.TRFC147":"ready","skin.fandomdesktop.Math.css":"ready","skin.fandomdesktop.CargoTables-ext.css":"ready","ext.fandom.FandomEmbedVideo.css":"ready",
+"ext.fandom.ArticleInterlang.css":"ready","ext.fandom.ArticleVideo.desktop.css":"ready","ext.fandom.HighlightToAction.css":"ready","skin.fandomdesktop.styles":"ready","ext.fandomVideo.css":"ready","ext.fandom.GlobalComponents.GlobalNavigationTheme.light.css":"ready","ext.fandom.GlobalComponents.GlobalComponentsTheme.light.css":"ready","ext.fandom.GlobalComponents.GlobalNavigation.css":"ready","ext.fandom.GlobalComponents.GlobalFooter.css":"ready","ext.fandom.GlobalComponents.CommunityHeader.css":"ready","ext.fandom.GlobalComponents.StickyNavigation.css":"ready","ext.fandom.GlobalComponents.CommunityHeaderBackground.css":"ready","ext.fandom.GlobalComponents.RegistrationButtons.css":"ready","skin.fandomdesktop.rail.popularPages.css":"ready","skin.fandomdesktop.rail.css":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","ext.fandom.mediaWikiMigrationHooks.js","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader",
+"skin.fandomdesktop.FanFeed.js","ext.fandom.performanceMonitoring.js","ext.fandom.Optimizely.js","ext.fandom.FacebookTags.js","ext.fandom.ae.babTracking.js","ext.fandom.ae.consentQueue.js","ext.fandom.AnalyticsEngine.comscore.js","ext.fandom.AnalyticsEngine.quantcast.js","ext.categorySelect.js","ext.categorySelectFandomDesktop.css","ext.fandom.bannerNotifications.js","ext.fandom.bannerNotifications.messages","ext.fandom.Track.js","ext.fandom.wikiaBar.js","ext.fandom.ContentReview.legacyLoaders.js","ext.fandom.ContentReview.jsReload.js","ext.fandom.site","ext.fandom.ImportJs","ext.fandom.ContentReviewTestModeMessages","ext.fandom.UncrawlableUrl.anchors.js","ext.fandom.CreatePage.js","ext.fandom.TimeAgoMessaging.js","ext.fandom.ImageGalleryIconModuleInit.js","ext.fandom.Thumbnails.js","ext.fandom.Thumbnails.messages","ext.fandom.FandomEmbedVideo.js","ext.tabView.editor.js","ext.fandom.ArticleVideo.desktop.js","ext.fandom.HighlightToAction.js","ext.fandom.HighlightToAction.messages",
+"skin.fandomdesktop.js","skin.fandomdesktop.messages","ext.fandom.GlobalComponents.SearchModal.messages","ext.fandom.GlobalComponents.GlobalNavigationAnon.js","ext.fandom.GlobalComponents.GlobalFooter.js","ext.fandom.GlobalComponents.CommunityHeader.js","ext.fandom.GlobalComponents.StickyNavigation.js","ext.fandom.GlobalComponents.RegistrationButtons.js","skin.fandomdesktop.rail.toggle.js","skin.fandomdesktop.rail.lazyRail.js","ext.fandom.nositenotice.js","ext.fandom.Lightbox.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+{"@context":"http://schema.org","@type":"Article","url":"https://onepiece.fandom.com/wiki/List_of_Non-Canon_Characters","name":"List of Non-Canon Characters","headline":"List of Non-Canon Characters","mainEntity":{"@type":"Thing","url":"https://onepiece.fandom.com/wiki/List_of_Non-Canon_Characters","name":"List of Non-Canon Characters","image":"https://static.wikia.nocookie.net/onepiece/images/e/e6/Site-logo.png/revision/latest?cb=20210522224219"},"about":{"@type":"Thing","url":"https://onepiece.fandom.com/wiki/List_of_Non-Canon_Characters","name":"List of Non-Canon Characters","image":"https://static.wikia.nocookie.net/onepiece/images/e/e6/Site-logo.png/revision/latest?cb=20210522224219"},"author":{"@type":"Organization","url":"https://onepiece.fandom.com/wiki/List_of_Non-Canon_Characters?action=credits","name":"Contributors to One Piece Wiki"},"publisher":{"@type":"Organization","name":"Fandom, Inc.","logo":{"@type":"ImageObject","url":"https://static.wikia.nocookie.net/750feb85-de88-4a4f-b294-8b48142ac182/thumbnail-down/width/1280/height/720"}},"abstract":"This is a list of every One Piece character that has ever appeared in One Piece anime, movies (with the exclusion of Strong World), specials, OVA's, games, featurettes and everything else which is considered as non-canon with regards to the manga. Note that some names have alternate spellings so this list has the most common spellings. List of Canon Characters","image":"https://static.wikia.nocookie.net/onepiece/images/e/e6/Site-logo.png/revision/latest?cb=20210522224219","thumbnailUrl":"https://static.wikia.nocookie.net/onepiece/images/e/e6/Site-logo.png/revision/latest?cb=20210522224219"}
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+	const useMaxDefaultContentWidth = Boolean();
+
+	const defaultContentWidth = useMaxDefaultContentWidth ? 'expanded' : 'collapsed';
+
+	let contentWidthPreference;
+
+	try {
+		contentWidthPreference = localStorage.getItem('contentwidth') || defaultContentWidth;
+	} catch (e) {
+		contentWidthPreference = defaultContentWidth;
+	}
+
+	if ( contentWidthPreference === 'expanded' ) {
+		document.documentElement.classList.add('is-content-expanded');
+	}
+
+
+
+
+var _userId=0;
+var _plc={"p":"mw","pVar":"fandomdesktop","pCat":"anime","pId":"1081","pg":"article","pgId":"27993","pgLang":"en","adTags":{"tv":["netflix","adult swim","amazon","cn","funimation","hulu","crunchyroll","fox"],"sex":["m","f"],"bundles":["sensitive","apple_sea_bundle","obi_wan_kenobi_bundle","alc21_bundle","video_tier_1_and_2_bundle","onepiece_franchise","25_bundle","21_bundle"],"fran":["one_piece"],"theme":["pirates","mecha","humor","military","monster","sword","japan","supernatural","gangster","robots"],"gnre":["hackandslash","live-action","rpg","openworld","storytelling","adventure","lightnovel","manga","thriller","shonen","anime","fantasy","drama","action","racing","comedy","fighting"],"media":["cards","tv","movies","games","anime","comics","lightnovel","books"],"pub":["namco","bandainamco"],"age":["35-44","teen","13-17","18-34","kids","45-54","yadult","25-34","under18","18-24"],"pform":["psp","pc","ps3","xboxone","psvita","mobile","ds","wii","3ds","ps2","ps4","switch"]},"time":0}; var _ulc={"id":"0","lang":"en"}; _plc.time=Date.now();
+
+
+var ads={"context":{"opts":{"enableNativeAds":true,"pageType":"all_ads","platformName":"fandomdesktop"},"targeting":{"enablePageCategories":true,"featuredVideo":{"mediaId":"sXWp3rZ0","videoTags":[""],"isDedicatedForArticle":false},"hasFeaturedVideo":true,"isUcp":true,"mappedVerticalName":"ent","newWikiCategories":["ent","comics","anime"],"pageArticleId":27993,"pageIsArticle":true,"pageName":"List_of_Non-Canon_Characters","pageType":"article","wikiDbName":"onepiece","wikiId":1081,"wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"anime","adTagManagerTags":{"tv":["netflix","adult swim","amazon","cn","funimation","hulu","crunchyroll","fox"],"sex":["m","f"],"bundles":["sensitive","apple_sea_bundle","obi_wan_kenobi_bundle","alc21_bundle","video_tier_1_and_2_bundle","onepiece_franchise","25_bundle","21_bundle"],"fran":["one_piece"],"theme":["pirates","mecha","humor","military","monster","sword","japan","supernatural","gangster","robots"],"gnre":["hackandslash","live-action","rpg","openworld","storytelling","adventure","lightnovel","manga","thriller","shonen","anime","fantasy","drama","action","racing","comedy","fighting"],"media":["cards","tv","movies","games","anime","comics","lightnovel","books"],"pub":["namco","bandainamco"],"age":["35-44","teen","13-17","18-34","kids","45-54","yadult","25-34","under18","18-24"],"pform":["psp","pc","ps3","xboxone","psvita","mobile","ds","wii","3ds","ps2","ps4","switch"]}}},"consentQueue":[]};
+
+	// Install temporary stub until full CMP will be ready
+	if (typeof window.__tcfapi === 'undefined') {
+		// @iabtcf/stub v1.3.1
+		"use strict";function _typeof(t){return(_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t})(t)}!function(){var t=function(){var t,e,o="__tcfapiLocator",n=[],r=window,a=r;for(;a;){try{if(a.frames[o]){t=a;break}}catch(t){}if(a===r.top)break;a=r.parent}t||(!function t(){var e=r.document,n=!!r.frames[o];if(!n)if(e.body){var a=e.createElement("iframe");a.style.cssText="display:none",a.name=o,e.body.appendChild(a)}else setTimeout(t,5);return!n}(),r.__tcfapi=function(){for(var t=arguments.length,o=new Array(t),r=0;r3&&2===parseInt(o[1],10)&&"boolean"==typeof o[3]&&(e=o[3],"function"==typeof o[2]&&o[2]("set",!0)):"ping"===o[0]?"function"==typeof o[2]&&o[2]({gdprApplies:e,cmpLoaded:!1,cmpStatus:"stub"}):n.push(o)},r.addEventListener("message",(function(t){var e="string"==typeof t.data,o={};if(e)try{o=JSON.parse(t.data)}catch(t){}else o=t.data;var n="object"===_typeof(o)?o.__tcfapiCall:null;n&&window.__tcfapi(n.command,n.version,(function(o,r){var a={__tcfapiReturn:{returnValue:o,success:r,callId:n.callId}};t&&t.source&&t.source.postMessage&&t.source.postMessage(e?JSON.stringify(a):a,"*")}),n.parameter)}),!1))};"undefined"!=typeof module?module.exports=t:t()}();
+	}
+
+
+
+
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-List_of_Non-Canon_Characters rootpage-List_of_Non-Canon_Characters skin-fandomdesktop action-view ooui-theme-fandomooui wiki-onepiece theme-fandomdesktop-light">
+	
+				
+			
+	
+
+		
+	
+
+		One Piece Wiki
+	
+
+	
+					
+			
+			
+				
+										Explore
+				
+							
+			
+					
+													
+			
+			
+								Main Page
+			
+		
+														
+			
+			
+								Discuss
+			
+		
+														
+			
+			
+								All Pages
+			
+		
+														
+			
+			
+								Community
+			
+		
+														
+			
+			
+								Interactive Maps
+			
+		
+														
+			
+			
+								Recent Blog Posts
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										World
+				
+							
+			
+					
+													
+			
+			
+								Characters
+							
+			
+				
+											
+			
+			
+								Straw Hat Pirates
+			
+		
+												
+			
+			
+								In Canon
+			
+		
+												
+			
+			
+								Non-Canon
+			
+		
+												
+			
+			
+								Pirates
+			
+		
+												
+			
+			
+								Marines
+			
+		
+												
+			
+			
+								Nobles
+			
+		
+												
+			
+			
+								By Race
+			
+		
+												
+			
+			
+								Antagonists
+			
+		
+										
+			
+		
+														
+			
+			
+								Locations
+							
+			
+				
+											
+			
+			
+								Grand Line
+			
+		
+												
+			
+			
+								East Blue
+			
+		
+												
+			
+			
+								New World
+			
+		
+												
+			
+			
+								Islands
+			
+		
+												
+			
+			
+								Towns and Cities
+			
+		
+										
+			
+		
+														
+			
+			
+								Organizations
+							
+			
+				
+											
+			
+			
+								Marines
+			
+		
+												
+			
+			
+								Pirate Crews
+			
+		
+												
+			
+			
+								Seven Warlords of the Sea
+			
+		
+												
+			
+			
+								Four Emperors
+			
+		
+												
+			
+			
+								World Government
+			
+		
+												
+			
+			
+								Revolutionary Army
+			
+		
+										
+			
+		
+														
+			
+			
+								Society
+							
+			
+				
+											
+			
+			
+								Occupations
+			
+		
+												
+			
+			
+								Races
+			
+		
+												
+			
+			
+								Technology
+			
+		
+												
+			
+			
+								Animal Species
+			
+		
+												
+			
+			
+								Plant and Fungi Species
+			
+		
+										
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Media
+				
+							
+			
+					
+													
+			
+			
+								Manga
+							
+			
+				
+											
+			
+			
+								Chapters and Volumes
+			
+		
+												
+			
+			
+								SBS Corners
+			
+		
+												
+			
+			
+								Story Arcs
+			
+		
+												
+			
+			
+								Cover Stories
+			
+		
+												
+			
+			
+								Volume Intros
+			
+		
+												
+			
+			
+								Books
+			
+		
+										
+			
+		
+														
+			
+			
+								Anime
+							
+			
+				
+											
+			
+			
+								Episode Guide
+			
+		
+												
+			
+			
+								Story Arcs
+			
+		
+												
+			
+			
+								One Piece Movies
+			
+		
+												
+			
+			
+								Filler
+			
+		
+												
+			
+			
+								Music
+			
+		
+										
+			
+		
+														
+			
+			
+								Merchandise
+							
+			
+				
+											
+			
+			
+								Spin-Offs
+			
+		
+												
+			
+			
+								Video Games
+			
+		
+										
+			
+		
+														
+			
+			
+								Other Media
+							
+			
+				
+											
+			
+			
+								Books
+			
+		
+												
+			
+			
+								Magazine
+			
+		
+												
+			
+			
+								Events
+			
+		
+												
+			
+			
+								Live Performances
+			
+		
+												
+			
+			
+								Live-Action Series
+			
+		
+												
+			
+			
+								Variety
+			
+		
+												
+			
+			
+								Mobile Apps
+			
+		
+										
+			
+		
+														
+			
+			
+								Mythbusters
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Community
+				
+							
+			
+					
+													
+			
+			
+								Discord Server
+			
+		
+														
+			
+			
+								Discussions
+			
+		
+														
+			
+			
+								Forums
+			
+		
+														
+			
+			
+								Recent Blogs
+			
+		
+														
+			
+			
+								Featured Articles
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Help
+				
+							
+			
+					
+													
+			
+			
+								Rules
+							
+			
+				
+											
+			
+			
+								Spoiler Rules
+			
+		
+												
+			
+			
+								Vandalism Rules
+			
+		
+												
+			
+			
+								Forum Rules
+			
+		
+												
+			
+			
+								Discussions, Blogs, and Discord Rules
+			
+		
+										
+			
+		
+														
+			
+			
+								Guidelines
+							
+			
+				
+											
+			
+			
+								Manual of Style
+			
+		
+												
+			
+			
+								Page Layouts
+			
+		
+												
+			
+			
+								Image Guidelines
+			
+		
+												
+			
+			
+								Trivia Guidelines
+			
+		
+										
+			
+		
+														
+			
+			
+								FAQ
+			
+		
+														
+			
+			
+								Referencing Information
+			
+		
+														
+			
+			
+								Administrators
+			
+		
+												
+			
+		
+				
+
+	
+			
+					
+			
+					
+			
+					
+		
+
+
+
+	
+		
+			
+								FANDOM
+			
+
+							
+								
+			
+			
+
+			
+			
+				
+
+	
+	
+	
+
+
+			
+			
+				Fan Central			
+							
+					BETA				
+					
+			
+			
+				
+	
+		
+	
+
+			
+			
+				Games			
+					
+			
+			
+				
+
+	
+
+
+			
+			
+				Anime			
+					
+			
+			
+				
+	
+		
+	
+
+			
+			
+				Movies			
+					
+			
+			
+				
+	
+		
+	
+
+			
+			
+				TV			
+					
+			
+			
+				
+	
+		
+	
+
+			
+			
+				Video			
+					
+	
+			
+			
+				
+					
+
+	
+
+
+				
+				
+					Wikis				
+			
+			
+				
+											
+							
+								Explore Wikis							
+						
+											
+							
+								Community Central							
+						
+									
+			
+		
+	
+			
+			
+							
+			
+				Start a Wiki			
+		
+	
+		
+	
+
+	
+							
+
+	
+		
+					
+	
+	
+		
+
+
+	Don&#039;t have an account?
+
+	Register
+
+
+	Sign In	
+
+			
+
+	
+		
+		
+	
+		
+		Advertisement
+	
+		
+		
+			
+	
+		
+			Sign In		
+		
+						Register		
+	
+			
+	
+					
+				
+			
+				
+			
+				
+					One Piece Wiki				
+											
+			
+				7,138pages			
+			
+			
+					
+			
+					
+			
+					
+		
+		
+		
+
+	
+					
+			
+			
+				
+										Explore
+				
+							
+			
+					
+													
+			
+			
+								Main Page
+			
+		
+														
+			
+			
+								Discuss
+			
+		
+														
+			
+			
+								All Pages
+			
+		
+														
+			
+			
+								Community
+			
+		
+														
+			
+			
+								Interactive Maps
+			
+		
+														
+			
+			
+								Recent Blog Posts
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										World
+				
+							
+			
+					
+													
+			
+			
+								Characters
+							
+			
+				
+											
+			
+			
+								Straw Hat Pirates
+			
+		
+												
+			
+			
+								In Canon
+			
+		
+												
+			
+			
+								Non-Canon
+			
+		
+												
+			
+			
+								Pirates
+			
+		
+												
+			
+			
+								Marines
+			
+		
+												
+			
+			
+								Nobles
+			
+		
+												
+			
+			
+								By Race
+			
+		
+												
+			
+			
+								Antagonists
+			
+		
+										
+			
+		
+														
+			
+			
+								Locations
+							
+			
+				
+											
+			
+			
+								Grand Line
+			
+		
+												
+			
+			
+								East Blue
+			
+		
+												
+			
+			
+								New World
+			
+		
+												
+			
+			
+								Islands
+			
+		
+												
+			
+			
+								Towns and Cities
+			
+		
+										
+			
+		
+														
+			
+			
+								Organizations
+							
+			
+				
+											
+			
+			
+								Marines
+			
+		
+												
+			
+			
+								Pirate Crews
+			
+		
+												
+			
+			
+								Seven Warlords of the Sea
+			
+		
+												
+			
+			
+								Four Emperors
+			
+		
+												
+			
+			
+								World Government
+			
+		
+												
+			
+			
+								Revolutionary Army
+			
+		
+										
+			
+		
+														
+			
+			
+								Society
+							
+			
+				
+											
+			
+			
+								Occupations
+			
+		
+												
+			
+			
+								Races
+			
+		
+												
+			
+			
+								Technology
+			
+		
+												
+			
+			
+								Animal Species
+			
+		
+												
+			
+			
+								Plant and Fungi Species
+			
+		
+										
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Media
+				
+							
+			
+					
+													
+			
+			
+								Manga
+							
+			
+				
+											
+			
+			
+								Chapters and Volumes
+			
+		
+												
+			
+			
+								SBS Corners
+			
+		
+												
+			
+			
+								Story Arcs
+			
+		
+												
+			
+			
+								Cover Stories
+			
+		
+												
+			
+			
+								Volume Intros
+			
+		
+												
+			
+			
+								Books
+			
+		
+										
+			
+		
+														
+			
+			
+								Anime
+							
+			
+				
+											
+			
+			
+								Episode Guide
+			
+		
+												
+			
+			
+								Story Arcs
+			
+		
+												
+			
+			
+								One Piece Movies
+			
+		
+												
+			
+			
+								Filler
+			
+		
+												
+			
+			
+								Music
+			
+		
+										
+			
+		
+														
+			
+			
+								Merchandise
+							
+			
+				
+											
+			
+			
+								Spin-Offs
+			
+		
+												
+			
+			
+								Video Games
+			
+		
+										
+			
+		
+														
+			
+			
+								Other Media
+							
+			
+				
+											
+			
+			
+								Books
+			
+		
+												
+			
+			
+								Magazine
+			
+		
+												
+			
+			
+								Events
+			
+		
+												
+			
+			
+								Live Performances
+			
+		
+												
+			
+			
+								Live-Action Series
+			
+		
+												
+			
+			
+								Variety
+			
+		
+												
+			
+			
+								Mobile Apps
+			
+		
+										
+			
+		
+														
+			
+			
+								Mythbusters
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Community
+				
+							
+			
+					
+													
+			
+			
+								Discord Server
+			
+		
+														
+			
+			
+								Discussions
+			
+		
+														
+			
+			
+								Forums
+			
+		
+														
+			
+			
+								Recent Blogs
+			
+		
+														
+			
+			
+								Featured Articles
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Help
+				
+							
+			
+					
+													
+			
+			
+								Rules
+							
+			
+				
+											
+			
+			
+								Spoiler Rules
+			
+		
+												
+			
+			
+								Vandalism Rules
+			
+		
+												
+			
+			
+								Forum Rules
+			
+		
+												
+			
+			
+								Discussions, Blogs, and Discord Rules
+			
+		
+										
+			
+		
+														
+			
+			
+								Guidelines
+							
+			
+				
+											
+			
+			
+								Manual of Style
+			
+		
+												
+			
+			
+								Page Layouts
+			
+		
+												
+			
+			
+								Image Guidelines
+			
+		
+												
+			
+			
+								Trivia Guidelines
+			
+		
+										
+			
+		
+														
+			
+			
+								FAQ
+			
+		
+														
+			
+			
+								Referencing Information
+			
+		
+														
+			
+			
+								Administrators
+			
+		
+												
+			
+		
+				
+
+	
+
+			
+				
+					
+						
+							
+																																
+															
+																	
+													
+					
+					
+	
+		
+			
+									
+
+	in:
+	Lists, Non-Canon Characters	
+								
+			
+										
+
+	
+		
+			English		
+		
+			
+									
+						Español
+					
+									
+						Polski
+					
+							
+		
+	
+
+					
+		
+			
+				
+					List of Non-Canon Characters				
+																
+			
+				
+				
+									
+												View source					
+				
+				
+									
+						
+													
+						
+							
+																	
+										
+											View history										
+									
+																	
+										
+											Talk (48)										
+									
+															
+						
+					
+											
+		
+			
+					
+													
+    (function () {
+        // we can't use mw.config here because it's too early so we need to pass this data in different way
+        const videoDetails = {
+            mediaId: "sXWp3rZ0",
+            impressionsPerSession: 3,
+            isDedicatedForArticle: false,
+            tier3Mapping: false,
+        };
+        const videoBridgeCountries = ["US","GB","CA","AU","DE","SG","MY","VN","ID","PH","TH","ES","FR","AR","MX","CO","PE","NZ","IN","DE","VN","FR","BR","ES","PL","CL"];
+        const tier3VideoBridgeCountries = ["GB","BE","NL","DE","AU","MX","AR"];
+        let hasVideoOnPage = null;
+
+        function getCookieValue(cookieName) {
+            const cookieSplit = ('; ' + document.cookie).split('; ' + cookieName + '=');
+            return cookieSplit.length === 2 ? cookieSplit.pop().split(';').shift() : null;
+        }
+
+        function hasMaxedOutPlayerImpressionsInWiki() {
+            const impressionsSoFar = Number(getCookieValue('playerImpressionsInWiki')) || 0;
+            const allowedImpressions = Number(videoDetails.impressionsPerSession);
+
+            return impressionsSoFar >= allowedImpressions;
+        }
+
+        function getCountryCode() {
+            try {
+                return JSON.parse(decodeURIComponent(getCookieValue('Geo'))).country.toLowerCase();
+            } catch {
+                return null;
+            }
+        }
+
+        function isVideoBridgeAllowedForCountry() {
+            const countryCode = getCountryCode();
+
+            if (!countryCode) {
+                return false;
+            }
+
+            // Check if the wiki is a tier3 wiki. This value comes back from the ArticleVideo service
+            if (videoDetails && videoDetails.tier3Mapping) {
+              // If the wiki is classified as a tier3 wiki, then check the country whitelist from the tier3VideoBridge whitelist.
+              const allowedCountriesForTier3Wikis = tier3VideoBridgeCountries.map(function (allowedTier3CountryCode) {
+                return allowedTier3CountryCode.toLowerCase();
+              })
+
+              return allowedCountriesForTier3Wikis.indexOf(countryCode) !== -1;
+            } else {
+              // If not a tier3 wiki, then check the country whitelist from the videoBridge whitelist
+              const allowedCountries = videoBridgeCountries.map(function (allowedCountryCode) {
+                return allowedCountryCode.toLowerCase();
+              });
+
+              return allowedCountries.indexOf(countryCode) !== -1;
+            }
+        }
+
+        window.canPlayVideo = function () {
+            if (hasVideoOnPage === null) {
+                hasVideoOnPage =
+                    videoDetails.mediaId && (videoDetails.isDedicatedForArticle || isVideoBridgeAllowedForCountry())
+                    && !hasMaxedOutPlayerImpressionsInWiki();
+            }
+
+            return hasVideoOnPage;
+        };
+
+        if (!window.canPlayVideo()) {
+            document.body.classList.add('no-featured-video');
+        } else {
+	        document.body.classList.add('has-featured-video');
+        }
+    })();
+
+							
+	
+	
+	
+	
+	
+	
+	
+
+																		
+
+
+This is a list of every One Piece character that has ever appeared in One Piece anime, movies (with the exclusion of Strong World), specials, OVA's, games, featurettes and everything else which is considered as non-canon with regards to the manga. Note that some names have alternate spellings so this list has the most common spellings.
+
+Contents
+
+1 Individuals
+2 Groups
+3 See also
+4 Site Navigation
+
+
+
+Individuals
+# A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+
+
+
+
+
+
+Name
+
+Type
+
+Number
+
+Year
+
+Appears in
+
+
+#
+150
+Filler
+830
+2018
+Whole Cake Island Arc
+
+
+A
+A A A
+Movie
+4
+2003
+Dead End Adventure
+
+
+
+Abby
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Abi
+Filler
+317
+2007
+Water 7 Arc
+
+
+
+Accino
+Filler
+326
+2007
+Ice Hunter Arc
+
+
+
+Adelle Bascùd
+Movie
+4
+2003
+Dead End Adventure
+
+
+
+Adio Suerte
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Agray
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Ain
+Movie
+12
+2012
+One Piece Film: Z
+
+
+
+Akibi
+Filler
+139
+2003
+Ruluka Island Arc
+
+
+
+Akihiro
+Filler
+318
+2007
+Water 7 Arc
+
+
+
+Akisu
+Movie
+2
+2001
+Clockwork Island Adventure
+
+
+
+Alan
+TV special
+3
+2003
+Protect! The Last Great Performance
+
+
+
+Alba
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Albert
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+All-Hunt Grount
+Filler
+780
+2017
+Marine Rookie Arc
+
+
+
+Alpacacino
+Filler
+575
+2012
+Z's Ambition Arc
+
+
+
+Alto
+OVA
+1
+1998
+One Piece - Defeat Him! The Pirate Ganzack
+
+
+
+Amanda
+TV special
+2
+2003
+A Father's Huge, HUGE Dream
+
+
+
+Amity
+Live Performance
+
+2012
+WANTED
+
+
+
+Anikin
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Ann
+Romance Dawn
+2
+1996
+Romance Dawn, Version 2
+
+
+
+Ann
+Live Attraction
+3
+2017
+One Piece Live Attraction: Phantom
+
+
+
+Anna
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Ant De Bonham
+Filler
+780
+2017
+Marine Rookie Arc
+
+
+
+Ante
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Antonio
+TV special
+9
+2015
+Episode of Sabo
+
+
+
+Any
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Aobire
+Filler
+317
+2007
+Water 7 Arc
+
+
+
+Apis
+Filler
+054
+2001
+Warship Island Arc
+
+
+
+Arbell
+Filler
+326
+2007
+Ice Hunter Arc
+
+
+
+Ardel
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Arista
+Stage Show
+
+2018
+Tongari Pirates Wanted!
+
+
+
+Arsel
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Artur Bacca
+Novel
+3
+2019
+One Piece novel Law
+
+
+
+Atoli
+Game
+
+2001
+Legend of the Rainbow Island
+
+
+
+Aunt
+Filler
+318
+2007
+Water 7 Arc
+
+
+
+Aveyron
+Filler
+747
+2016
+Silver Mine Arc
+
+
+
+Ayako
+Filler
+318
+2007
+Water 7 Arc
+
+
+B
+Baccarat
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Bad One Gracie
+Premier Show
+9
+2017
+One Piece Premier Show 2017
+
+
+
+Bald Parrot
+Movie
+3
+2002
+Chopper's Kingdom on the Island of Strange Animals
+
+
+
+Balloon
+Romance Dawn
+2
+1996
+Romance Dawn, Version 2
+
+
+
+Balong
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Balzac
+Premier Show
+11
+2019
+One Piece Premier Show 2019
+
+
+
+Banban
+Filler
+319
+2007
+Water 7 Arc
+
+
+
+Bandsman
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Banzai
+Game
+
+2003
+One Piece: Ocean's Dream!
+
+
+
+Barbados
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Barbarossa
+Filler
+097
+2002
+Arabasta Arc
+
+
+
+Barricade
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Bartholomew Just a Kuma
+Spin-Off
+08
+2019
+Chin Piece
+
+
+
+Basil
+Filler
+326
+2007
+Ice Hunter Arc
+
+
+
+Battler
+Movie
+3
+2002
+Chopper's Kingdom on the Island of Strange Animals
+
+
+
+Bayan
+TV special
+2
+2003
+A Father's Huge, HUGE Dream
+
+
+
+Bear King
+Movie
+2
+2001
+Clockwork Island Adventure
+
+
+
+Bearman
+Filler
+934
+2020
+Wano Country Arc
+
+
+
+Benevolent King of the Waves
+Novel
+6
+2017
+One Piece novel Straw Hat Stories
+
+
+
+Bens
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Bentag
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Beryl
+Novel
+8
+2023
+One Piece novel HEROINES
+
+
+
+Biera
+Movie
+4
+2003
+Dead End Adventure
+
+
+
+Biezom
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Bigalo
+Movie
+4
+2003
+Dead End Adventure
+
+
+
+Bildy
+Premier Show
+6
+2014
+One Piece Premier Show 2014
+
+
+
+Bilibilero
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Bilić
+TV Special
+6
+2012
+Episode of Luffy
+
+
+
+Bill
+Filler
+746
+2016
+Silver Mine Arc
+
+
+
+Billy
+Movie
+10
+2009
+One Piece Film: Strong World
+
+
+
+Billy (Bandit)
+Filler
+135
+2002
+Post-Arabasta Arc
+
+
+
+Billy (Cook)
+Filler
+196
+2004
+G-8 Arc
+
+
+
+Billy (Pirate)
+Novel
+P.38
+2000
+Loguetown Arc
+
+
+
+Binz
+Movie
+12
+2012
+One Piece Film: Z
+
+
+
+Bismarck
+Movie
+5
+2004
+The Cursed Holy Sword
+
+
+
+Bit
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Black
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Blago
+Stage Show
+
+2018
+ONE PIECE LIVE STAGE ～Tower of Steel～ (cancelled)
+
+
+
+Blion
+Movie
+15
+2022
+One Piece Film: Red
+
+
+
+Blow
+Game
+
+2001
+Legend of the Rainbow Island
+
+
+
+Blyue
+Game
+
+2004
+One Piece: Round the Land
+
+
+
+Bobby
+Movie
+4
+2003
+Dead End Adventure
+
+
+
+Bobrad
+Filler
+747
+2016
+Silver Mine Arc
+
+
+
+Bokebokepon
+Filler
+055
+2001
+Warship Island Arc
+
+
+
+Bokebonboko
+Filler
+055
+2001
+Warship Island Arc
+
+
+
+Bokehontas
+Filler
+055
+2001
+Warship Island Arc
+
+
+
+Bokuden
+Filler
+055
+2001
+Warship Island Arc
+
+
+
+Bolam
+Digital Attraction
+1
+2017
+Digital Art Island Adventure
+
+
+
+Bolt
+Movie
+12
+2012
+One Piece Film: Z
+
+
+
+Bon Borbon
+Game
+
+2008
+One Piece RPG2 ~Thousand World~
+
+
+
+Bonbon
+Premier Show
+7
+2015
+One Piece Premier Show 2015
+
+
+
+Bonbori
+TV Special
+11
+2016
+Heart of Gold
+
+
+
+Bonney (Non-Canon)
+TV special
+2
+2003
+A Father's Huge, HUGE Dream
+
+
+
+Boo Jack
+Movie
+2
+2001
+Clockwork Island Adventure
+
+
+
+Boo Kong
+Movie
+5
+2004
+The Cursed Holy Sword
+
+
+
+Borodo
+Movie
+2
+2001
+Clockwork Island Adventure
+
+
+
+Boronoa Boro
+Spin-Off
+02
+2018
+Chin Piece
+
+
+
+Bosao
+Novel
+7
+2017
+One Piece novel Straw Hat Stories
+
+
+
+Boss
+Filler
+426
+2009
+Little East Blue Arc
+
+
+
+Bounty
+Premier Show
+10
+2018
+One Piece Premier Show 2018
+
+
+
+Bran
+One-Shot
+
+1993
+God's Gift for the Future
+
+
+
+Bravo
+Game
+
+2003
+One Piece: Ocean's Dream!
+
+
+
+Breed
+Filler
+625
+2013
+Caesar Retrieval Arc
+
+
+
+Brief
+Movie
+6
+2005
+Baron Omatsuri and the Secret Island
+
+
+
+Brigga
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Brindo
+Filler
+326
+2007
+Ice Hunter Arc
+
+
+
+Buena Festa
+Movie
+14
+2019
+One Piece: Stampede
+
+
+
+Bufflo
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Bulaniki
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Bulmatte
+Game
+
+2023
+One Piece Odyssey, Reunion of Memories
+
+
+
+Bulototo
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Buzz
+Movie
+11
+2011
+One Piece 3D: Straw Hat Chase
+
+
+
+Byojack
+TV Special
+8
+2014
+3D2Y
+
+
+
+Byrnndi World
+TV Special
+8
+2014
+3D2Y
+
+
+
+Bürst
+Premier Show
+7
+2015
+One Piece Premier Show 2015
+
+
+C
+Cal
+Game
+
+2002
+One Piece: Treasure Wars
+
+
+
+Camael
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Campacino
+Filler
+326
+2007
+Ice Hunter Arc
+
+
+
+Camus
+Filler
+099
+2002
+Arabasta Arc
+
+
+
+Captain Kuso
+Spin-Off
+02
+2019
+Chin Piece
+
+
+
+Captain Seven
+Movie
+14
+2019
+One Piece: Stampede
+
+
+
+Caramel
+Filler
+895
+2019
+Cidre Guild Arc
+
+
+
+Caramel Man #10
+One-shot
+
+2005
+Jump Super Stars (One-Shot)
+
+
+
+Caramel Man #11
+One-shot
+
+2005
+Jump Super Stars (One-Shot)
+
+
+
+Carina
+TV Special
+11
+2016
+Heart of Gold
+
+
+
+Carmen
+Filler
+050
+2000
+Loguetown Arc
+
+
+
+Carol
+Filler
+050
+2000
+Loguetown Arc
+
+
+
+Caroline
+Filler
+454
+2010
+Straw Hat's Separation Serial
+
+
+
+Carpennya
+Movie
+15
+2022
+One Piece Film: Red
+
+
+
+Carragan
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Cassandra
+Novel
+5
+2021
+One Piece novel HEROINES
+
+
+
+Cello
+Game
+
+2002
+One Piece: Treasure Wars
+
+
+
+Cerriot
+Live Performance
+
+2012
+WANTED
+
+
+
+Chameleone
+Premier Show
+4
+2012
+One Piece Premier Show 2012
+
+
+
+Charles
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Carta
+Spin-Off
+10
+2019
+Chin Piece
+
+
+
+Chavez
+TV Special
+11
+2016
+Heart of Gold
+
+
+
+Chibinoa Mini
+Spin-Off
+02
+2018
+Chin Piece
+
+
+
+Chico
+Live Performance
+
+2015
+Super Kabuki II: One Piece
+
+
+
+Chico (Pirate)
+OVA
+1
+1998
+One Piece - Defeat Him! The Pirate Ganzack
+
+
+
+Chico Chip
+Live Performance
+
+2012
+WANTED
+
+
+
+Chimpy
+Spin-Off
+01
+2018
+Chin Piece
+
+
+
+Chinco Sennin
+Spin-Off
+Extra Edition
+2018
+Chin Piece
+
+
+
+Chip
+Filler
+101
+2002
+Arabasta Arc
+
+
+
+Chip
+Game
+
+2001
+Legend of the Rainbow Island
+
+
+
+Chiqicheetah
+Filler
+213
+2004
+Long Ring Long Land Arc
+
+
+
+Chiyobbaba
+Spin-Off
+06
+2018
+Chin Piece
+
+
+
+Choronoa Choro
+Spin-Off
+02
+2018
+Chin Piece
+
+
+
+Chujo
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Chusuke
+Live Performance
+
+2012
+WANTED
+
+
+
+Cibalero
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Cidre
+Filler
+895
+2019
+Cidre Guild Arc
+
+
+
+Clapper
+Live Performance
+
+2018
+One Piece Oto Utage
+
+
+
+Coe
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Collapsing Joe
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Collapsing Jonathan
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Collapsing Joou
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Collapsing Joseph
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Collapsing Josh
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Comb
+Premier Show
+11
+2019
+One Piece Premier Show 2019
+
+
+
+Corto
+Filler
+426
+2009
+Little East Blue Arc
+
+
+
+Count Times
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Craven
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Creese
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Croquis
+Movie
+14
+2019
+One Piece: Stampede
+
+
+
+Crown
+Premier Show
+1
+2007
+One Piece Premier Show 2007
+
+
+
+Cuore
+Premier Show
+
+2021
+One Piece Premier Show 2021
+
+
+
+Curve
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+D
+Dacson
+Movie
+15
+2022
+One Piece Film: Red
+
+
+
+Daddy Masterson
+Filler
+050
+2000
+Loguetown Arc
+
+
+
+Dahlia
+Novel
+5
+2021
+One Piece novel HEROINES
+
+
+
+Dahlia
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Daisy
+Movie
+6
+2005
+Baron Omatsuri and the Secret Island
+
+
+
+Damian
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Danny
+Movie
+1
+2000
+One Piece: The Movie
+
+
+
+Dandy
+Premier Show
+10
+2018
+One Piece Premier Show 2018
+
+
+
+Dareda
+Filler
+135
+2002
+Post-Arabasta Arc
+
+
+
+Dareyorimo Tsuyoi
+Spin-Off
+05
+2018
+Chin Piece
+
+
+
+Deacon
+Premier Show
+1
+2007
+One Piece Premier Show 2007
+
+
+
+Dejide
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Demon of Doom
+Game
+
+2009
+One Piece: Unlimited Cruise
+
+
+
+Denny
+Movie
+1
+2000
+One Piece: The Movie
+
+
+
+Desan
+Movie
+14
+2019
+One Piece: Stampede
+
+
+
+Desire
+Filler
+747
+2016
+Silver Mine Arc
+
+
+
+Devilgirl
+Movie
+15
+2022
+One Piece Film: Red
+
+
+
+Dias
+Game
+
+2001
+Legend of the Rainbow Island
+
+
+
+Dice
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Dick
+Filler
+135
+2002
+Post-Arabasta Arc
+
+
+
+Diego
+TV Special
+6
+2012
+Episode of Luffy
+
+
+
+Din
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Diomis
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Dip
+Filler
+101
+2002
+Arabasta Arc
+
+
+
+DJ Gappa
+Movie
+6
+2005
+Baron Omatsuri and the Secret Island
+
+
+
+DJ Parrot
+Live Attraction
+3
+2017
+One Piece Live Attraction: Phantom
+
+
+
+DJ Satan
+Theatre
+2
+2002
+Luffy Pirates 4-Cell Theatre
+
+
+
+Dojaku
+TV Special
+10
+2015
+Adventure of Nebulandia
+
+
+
+Dolce
+Game
+
+2001
+Legend of the Rainbow Island
+
+
+
+Don Axe
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Donai
+Game
+
+2003
+One Piece: Ocean's Dream!
+
+
+
+Donald Moderate
+Movie
+14
+2019
+One Piece: Stampede
+
+
+
+Doni
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Donny
+Movie
+1
+2000
+One Piece: The Movie
+
+
+
+Dontacos
+Filler
+020
+2000
+Baratie Arc
+
+
+
+Doom Guardian
+Game
+
+2009
+One Piece: Unlimited Cruise
+
+
+
+Dopp
+Movie
+14
+2019
+One Piece: Stampede
+
+
+
+Doran
+Filler
+382
+2008
+Spa Island Arc
+
+
+
+Dorothy
+Movie
+7
+2006
+The Giant Mechanical Soldier of Karakuri Castle
+
+
+
+Double Down
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Douglas Bullet
+Movie
+14
+2019
+One Piece: Stampede
+
+
+
+Douglas Gray
+Supplementary Material
+
+2019
+Volume 10089
+
+
+
+Drake
+Movie
+4
+2003
+Dead End Adventure
+
+
+
+Drayke
+Game
+
+2001
+Legend of the Rainbow Island
+
+
+
+Drim
+Game
+
+2003
+One Piece: Ocean's Dream!
+
+
+
+Duncan
+Stage Show
+
+2019
+Piece Trail: The Adventurers and the Amazing Spring
+
+
+
+Dwanger
+Game
+
+2023
+One Piece Odyssey
+
+
+E
+Eboshi
+Movie
+15
+2022
+One Piece Film: Red
+
+
+
+Eccoli
+Filler
+051
+2000
+Loguetown Arc
+
+
+
+Ed (Actor)
+TV special
+3
+2003
+Protect! The Last Great Performance
+
+
+
+Ed (Loguetown)
+Filler
+048
+2000
+Loguetown Arc
+
+
+
+Edomae
+Live Performance
+
+2012
+WANTED
+
+
+
+Eisha
+Live Performance
+
+2012
+WANTED
+
+
+
+Ekie
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Eldoraggo
+Movie
+1
+2000
+One Piece: The Movie
+
+
+
+Eliza
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Eliza
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Eliza
+Spin-Off
+6
+2022
+Shokugeki no Sanji
+
+
+
+Elizabeth
+TV Special
+11
+2016
+Heart of Gold
+
+
+
+Ellio
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Emeraude
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Emily
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Emma
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Emmy
+Live Performance
+
+2015
+Super Kabuki II: One Piece
+
+
+
+Eric
+Filler
+054
+2001
+Warship Island Arc
+
+
+
+Eric (Child)
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Eric (Tongari Island)
+Stage Show
+
+2019
+Piece Trail: The Adventurers and the Amazing Spring
+
+
+
+Eric Dow
+Filler
+048
+2000
+Loguetown Arc
+
+
+
+Eunkov
+Spin-Off
+08
+2019
+Chin Piece
+
+
+
+Ever
+Movie
+10
+2009
+One Piece Film: Strong World
+
+
+
+Evil Guardian
+Game
+
+2009
+One Piece: Unlimited Adventure
+
+
+
+Evil Master Beast
+Game
+
+2009
+One Piece: Unlimited Adventure
+
+
+F
+Fabre
+Filler
+426
+2009
+Little East Blue Arc
+
+
+
+Fang
+Game
+
+2003
+Chopper's Big Adventure
+
+
+
+Fasti
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Fata
+Novel
+3
+2020
+One Piece novel HEROINES
+
+
+
+Fazaza
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Flip
+Filler
+139
+2003
+Ruluka Island Arc
+
+
+
+Flora
+Premier Show
+6
+2014
+One Piece Premier Show 2014
+
+
+
+Fog Suerte
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Foxaw
+Spin-Off
+09
+2019
+Chin Piece
+
+
+
+Francois
+Live Performance
+
+2015
+Sanji's Pirates Restaurant
+
+
+
+Fred
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Funkorogasun
+Spin-Off
+05
+2018
+Chin Piece
+
+
+G
+Ga Kusha
+Game
+
+2023
+One Piece Odyssey, Reunion of Memories
+
+
+
+Gabiel
+Game
+
+2023
+One Piece Odyssey, Reunion of Memories
+
+
+
+Gaburi
+Game
+
+2008
+One Piece: Unlimited Cruise
+
+
+
+Gacha Gacha Husband
+Spin-Off
+02
+2018
+Chin Piece
+
+
+
+Gad
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Gage
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Gairam
+TV Special
+8
+2014
+3D2Y
+
+
+
+Gally
+Filler
+48
+2000
+Loguetown Arc
+
+
+
+Gammon
+Spin-Off
+09
+2019
+Chin Piece
+
+
+
+Gannot
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Ganzack
+OVA
+1
+1998
+One Piece - Defeat Him! The Pirate Ganzack
+
+
+
+Ganzo
+Movie
+1
+2000
+One Piece: The Movie
+
+
+
+Garays
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Garcia
+Filler
+548
+2012
+Fish-Man Island Arc
+
+
+
+Gardar
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Gardoa
+Filler
+654
+2014
+Dressrosa Arc
+
+
+
+Gari
+Movie
+12
+2012
+One Piece Film: Z
+
+
+
+Garill
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Garon
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Garride
+Game
+
+2001
+Legend of the Rainbow Island
+
+
+
+Garth
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Garz
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Gasparde
+Movie
+4
+2003
+Dead End Adventure
+
+
+
+Gator
+Game
+
+2023
+One Piece Odyssey, Reunion of Memories
+
+
+
+Geronimo
+Filler
+095
+2002
+Arabasta Arc
+
+
+
+Gido
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Gild Tesoro
+Filler
+750
+2016
+Silver Mine Arc
+
+
+
+Gill Bastar
+One-Shot
+
+1993
+Wanted!
+
+
+
+Gillian
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Ginger
+Filler
+895
+2019
+Cidre Guild Arc
+
+
+
+Ginger
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Girarin
+Filler
+213
+2004
+Long Ring Long Land Arc
+
+
+
+Girash
+Movie
+15
+2022
+One Piece Film: Red
+
+
+
+Glass
+Premier Show
+11
+2019
+One Piece Premier Show 2019
+
+
+
+Glove
+Filler
+309
+2007
+Enies Lobby Arc
+
+
+
+God
+One-Shot
+
+1993
+God's Gift for the Future
+
+
+
+Golass
+Movie
+1
+2000
+One Piece: The Movie
+
+
+
+Gonzo
+Movie
+7
+2006
+The Giant Mechanical Soldier of Karakuri Castle
+
+
+
+Gordon
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Gordon
+Movie
+15
+2022
+One Piece Film: Red
+
+
+
+Gotan
+Filler
+548
+2012
+Fish-Man Island Arc
+
+
+
+Governor
+TV special
+3
+2003
+Protect! The Last Great Performance
+
+
+
+Gowns Brothers
+Filler
+048
+2000
+Loguetown Arc
+
+
+
+Gramoo
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Graydle
+Stage Play
+1
+2018
+One Piece Dramatic Stage THE METAL ~Marineford of Remembrance~
+
+
+
+Grin
+Game
+
+2023
+One Piece Odyssey, Reunion of Memories
+
+
+
+Grizzly
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Gross
+Game
+
+2023
+One Piece Odyssey, Reunion of Memories
+
+
+
+Guarana
+Filler
+895
+2019
+Cidre Guild Arc
+
+
+
+Guard
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Guardian Deity
+One-Shot
+
+1994
+Ikki Yako
+
+
+
+Guko
+One-Shot
+
+1994
+Ikki Yako
+
+
+
+Gulf
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Gum
+Filler
+830
+2018
+Whole Cake Island Arc
+
+
+
+Guyle
+Filler
+326
+2007
+Ice Hunter Arc
+
+
+H
+Hachigoro
+Live Performance
+
+2016
+Sanji's Pirates Restaurant
+
+
+
+Hakamori
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Hakuto
+Premier Show
+9
+2017
+One Piece Premier Show 2017
+
+
+
+Halsey
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Hamu
+TV special
+1
+2000
+Adventure in the Ocean's Navel
+
+
+
+Hanagasa
+Movie
+15
+2022
+One Piece Film: Red
+
+
+
+Hannah
+Stage Show
+
+2018
+Tongari Pirates Wanted!
+
+
+
+Hans
+Live Performance
+
+2023
+Sanji's Pirates Restaurant
+
+
+
+Haraguroya's Owner
+Spin-Off
+5
+2022
+Shokugeki no Sanji
+
+
+
+Harasho
+Game
+
+2003
+One Piece: Ocean's Dream!
+
+
+
+Hardy
+Filler
+054
+2001
+Warship Island Arc
+
+
+
+Harry (Fish-Man)
+Game
+
+2001
+Legend of the Rainbow Island
+
+
+
+Harry
+Filler
+135
+2002
+Post-Arabasta Arc
+
+
+
+Hator
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Hatsu
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Heaby
+Movie
+3
+2003
+Chopper's Kingdom on the Island of Strange Animals
+
+
+
+Hei
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Helsing
+Game
+
+2002
+One Piece: Treasure Wars
+
+
+
+Henna Oyag
+Filler
+045
+2000
+Arlong Park Arc
+
+
+
+Henry
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Henzo
+Filler
+139
+2003
+Ruluka Island Arc
+
+
+
+Hercules
+Game
+
+2020
+One Piece: Fighting Path
+
+
+
+Herring
+OVA
+
+1998
+One Piece - Defeat Him! The Pirate Ganzack
+
+
+
+Herz
+Premier Show
+
+2021
+One Piece Premier Show 2021
+
+
+
+Hien
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Hitaki
+Event
+1
+2017
+One Piece x Kyoto
+
+
+
+Hitokui
+Filler
+045
+2000
+Arlong Park Arc
+
+
+
+Hockera
+Filler
+326
+2007
+Ice Hunter Arc
+
+
+
+Hoisha
+Live Performance
+
+2012
+WANTED
+
+
+
+Hokehontas
+Filler
+055
+2001
+Warship Island Arc
+
+
+
+Holy
+TV special
+2
+2003
+A Father's Huge, HUGE Dream
+
+
+
+Homey (Film Z)
+Movie
+12
+2012
+One Piece Film: Z
+
+
+
+Homey (Premier Show)
+Premier Show
+5
+2013
+One Piece Premier Show 2013
+
+
+
+Hompton
+Game
+
+2023
+One Piece Odyssey, Reunion of Memories
+
+
+
+Honey Queen
+Movie
+2
+2001
+Clockwork Island Adventure
+
+
+
+Honki
+Movie
+7
+2006
+The Giant Mechanical Soldier of Karakuri Castle
+
+
+
+Honma
+Game
+
+2003
+One Piece: Ocean's Dream!
+
+
+
+Honnete
+Premier Show
+
+2023
+One Piece Premier Show 2023
+
+
+
+Horo
+Movie
+14
+2019
+One Piece: Stampede
+
+
+
+Hotdog
+Movie
+3
+2002
+Chopper's Kingdom on the Island of Strange Animals
+
+
+I
+Ian
+Filler
+140
+2003
+Ruluka Island Arc
+
+
+
+Idor
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Igaram Jr.
+Premier Show
+10
+2018
+One Piece Premier Show 2018
+
+
+
+Ikemenes
+Filler
+055
+2001
+Warship Island Arc
+
+
+
+Il
+Stage Show
+
+2018
+Tokyo One Piece Tower X DAZZLE Immersive Theater: When the Box of Time Opens
+
+
+
+Immortal
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Inchikin
+Stage Play
+
+2014
+Lucy &amp; Lucy Coliseum the Battle!
+
+
+
+Ingrigrimori
+Filler
+055
+2001
+Warship Island Arc
+
+
+
+Ingrimongri III
+Filler
+055
+2001
+Warship Island Arc
+
+
+
+Insk
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Isaac
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Iscardunk
+Filler
+055
+2001
+Warship Island Arc
+
+
+
+Isoka
+Filler
+139
+2003
+Ruluka Island Arc
+
+
+
+Izaya
+Movie
+5
+2004
+The Cursed Holy Sword
+
+
+J
+Jackie
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Jeanne
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Jessica
+Filler
+196
+2004
+G-8 Arc
+
+
+
+Jill
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Jim
+TV Special
+3
+2003
+Protect! The Last Great Performance
+
+
+
+Jimmy Myers
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Jiro
+Filler
+326
+2007
+Ice Hunter Arc
+
+
+
+Jodie
+Spin-Off
+6
+2022
+Shokugeki no Sanji
+
+
+
+John
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Joke
+TV special
+1
+2000
+Adventure in the Ocean's Navel
+
+
+
+Jonathan
+Filler
+196
+2004
+G-8 Arc
+
+
+
+Jose
+Filler
+051
+2000
+Loguetown Arc
+
+
+
+Jotto
+TV special
+3
+2003
+Protect! The Last Great Performance
+
+
+
+Jube
+Filler
+213
+2004
+Long Ring Long Land Arc
+
+
+
+Jude
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Julian Hatt XIII
+Spin-Off
+01
+2018
+Chin Piece
+
+
+
+Julie
+Movie
+9
+2008
+Episode of Chopper Plus: Bloom in Winter, Miracle Sakura
+
+
+
+Julie
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Justy
+Stage Play
+
+2014
+Lucy &amp; Lucy Coliseum the Battle!
+
+
+K
+Kaabo
+Game
+
+2001
+Legend of the Rainbow Island
+
+
+
+Kabagorilla
+Filler
+018
+2000
+Syrup Village Arc
+
+
+
+Kadoyan
+Filler
+134
+2002
+Post-Arabasta Arc
+
+
+
+Kagero
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Kaginote
+Movie
+15
+2022
+One Piece Film: Red
+
+
+
+Kaiman
+Game
+
+2023
+One Piece Odyssey, Reunion of Memories
+
+
+
+Kamonegi
+Filler
+093
+2001
+Arabasta Arc
+
+
+
+Kamonohitsuji
+Filler
+018
+2000
+Syrup Village Arc
+
+
+
+Kansho
+TV Special
+10
+2015
+Adventure of Nebulandia
+
+
+
+Karasu
+Game
+
+2002
+One Piece: Treasure Wars
+
+
+
+Karasuke
+Movie
+3
+2002
+Chopper's Kingdom on the Island of Strange Animals
+
+
+
+Kardia
+Premier Show
+12
+2021
+One Piece Premier Show 2021
+
+
+
+Katabuti
+Premier Show
+13
+2022
+One Piece Premier Show 2022
+
+
+
+Kau Ra Kau
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Kei
+Live Performance
+
+2015
+Super Kabuki II: One Piece
+
+
+
+Kent Beef Jr.
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Kerodeek
+Movie
+6
+2005
+Baron Omatsuri and the Secret Island
+
+
+
+Kerojii
+Movie
+6
+2005
+Baron Omatsuri and the Secret Island
+
+
+
+Keroko
+Movie
+6
+2005
+Baron Omatsuri and the Secret Island
+
+
+
+Keroshot
+Movie
+6
+2005
+Baron Omatsuri and the Secret Island
+
+
+
+Kevin
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Kikuhime
+Event
+1
+2017
+One Piece x Kyoto
+
+
+
+Killer Giant
+Filler
+048
+2000
+Loguetown Arc
+
+
+
+Kilmie Back
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Kilomane
+Game
+
+2023
+One Piece Odyssey
+
+
+
+King
+Spin-Off
+14
+2017
+One Piece Party
+
+
+
+Kimmel
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Kinno
+Premier Show
+13
+2022
+One Piece Premier Show 2022
+
+
+
+Kinoconda
+TV Special
+10
+2015
+Adventure of Nebulandia
+
+
+
+Kirin Lion
+Movie
+3
+2002
+Chopper's Kingdom on the Island of Strange Animals
+
+
+
+Kiruko
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Kitajima
+Movie
+10
+2009
+One Piece Film: Strong World
+
+
+
+Koba K
+Movie
+9
+2008
+Episode of Chopper Plus: Bloom in Winter, Miracle Sakura
+
+
+
+Kobato
+Filler
+198
+2004
+G-8 Arc
+
+
+
+Kochi
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Kodama
+Filler
+134
+2002
+Post-Arabasta Arc
+
+
+
+Kogani
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Komei
+TV Special
+10
+2015
+Adventure of Nebulandia
+
+
+
+Koni Boakeno
+Novel
+3
+2019
+One Piece novel Law
+
+
+
+Kotetsu
+Movie
+6
+2005
+Baron Omatsuri and the Secret Island
+
+
+
+Koshin
+One-Shot
+
+1994
+Ikki Yako
+
+
+
+Krin
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Kuroba
+Premier Show
+
+2022
+One Piece Premier Show 2022
+
+
+
+Kuronyan
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Kusopp
+Spin-Off
+01
+2018
+Chin Piece
+
+
+
+Kusunoa-kun
+Spin-Off
+02
+2018
+Chin Piece
+
+
+L
+Lacos
+Movie
+5
+2004
+The Cursed Holy Sword
+
+
+
+Ladoga
+Novel
+3
+2019
+One Piece novel Law
+
+
+
+Lago
+Filler
+326
+2007
+Ice Hunter Arc
+
+
+
+Lake
+Filler
+139
+2003
+Ruluka Island Arc
+
+
+
+Lambor Bukini
+Premier Show
+5
+2013
+One Piece Premier Show 2013
+
+
+
+Lance
+Stage Show
+
+2019
+Piece Trail: The Adventurers and the Amazing Spring
+
+
+
+Largo
+Filler
+426
+2009
+Little East Blue Arc
+
+
+
+Lark
+Event
+1
+2017
+One Piece x Kyoto
+
+
+
+Laslo
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Lazarus
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Lebno Listchaque
+Novel
+1
+2019
+One Piece novel HEROINES
+
+
+
+Lego
+TV Special
+3
+2003
+Protect! The Last Great Performance
+
+
+
+LeMay
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Lemonade Kozaru
+Spin-Off
+07
+2019
+Chin Piece
+
+
+
+Leo
+Filler
+051
+2000
+Loguetown Arc
+
+
+
+Lepre
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Lettuce Dish
+Spin-Off
+09
+2018
+Chin Piece
+
+
+
+Liberta
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Lief
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Lil
+Filler
+326
+2007
+Ice Hunter Arc
+
+
+
+Lily Carnation
+Movie
+6
+2005
+Baron Omatsuri and the Secret Island
+
+
+
+Lily Enstomach
+Filler
+575
+2012
+Z's Ambition Arc
+
+
+
+Lim
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Lina
+Filler
+382
+2008
+Spa Island Arc
+
+
+
+Lip Shark
+Spin-Off
+10
+2020
+Fischer's x One Piece
+
+
+
+Livia
+TV Special
+11
+2016
+Heart of Gold
+
+
+
+Llamaman
+Premier Show
+
+2021
+One Piece Premier Show 2021
+
+
+
+Lola
+TV special
+3
+2003
+Protect! The Last Great Performance
+
+
+
+Long Long
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Lopez
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Loudness
+Live Performance
+
+2012
+WANTED
+
+
+
+Louis
+Live Performance
+
+2014
+Sanji's Pirates Restaurant
+
+
+
+Luca
+Filler
+548
+2012
+Fish-Man Island Arc
+
+
+
+Lucie
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Luigia
+Filler
+427
+2009
+Little East Blue Arc
+
+
+
+Lylat
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Lytton
+Game
+
+2002
+One Piece: Treasure Wars
+
+
+M
+M. Danbo
+Movie
+3
+2002
+Chopper's Kingdom on the Island of Strange Animals
+
+
+
+Maccus
+TV special
+2
+2003
+A Father's Huge, HUGE Dream
+
+
+
+Machi
+Premier Show
+13
+2022
+One Piece Premier Show 2022
+
+
+
+Mad
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Mad Treasure
+TV Special
+11
+2016
+Heart of Gold
+
+
+
+Mahomick
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Mahy
+Game
+
+2023
+One Piece Odyssey, Reunion of Memories
+
+
+
+Maitei
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Maji
+Movie
+7
+2006
+The Giant Mechanical Soldier of Karakuri Castle
+
+
+
+Makkuro
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Mao
+Filler
+406
+2009
+Boss Luffy Historical Arc
+
+
+
+Marc
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Margin
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Mari
+Novel
+3
+2020
+One Piece novel HEROINES
+
+
+
+Maria
+TV Special
+9
+2015
+Episode of Sabo
+
+
+
+Marin
+Movie
+12
+2012
+One Piece Film: Z
+
+
+
+Marin
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Marine X
+Game
+
+2016
+One Piece King Battle
+
+
+
+Marley Brothers
+Filler
+197
+2004
+G-8 Arc
+
+
+
+Marron
+Movie
+14
+2019
+One Piece: Stampede
+
+
+
+Martha
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Mashikaku
+Filler
+213
+2004
+Long Ring Long Land Arc
+
+
+
+Maya
+Movie
+5
+2004
+The Cursed Holy Sword
+
+
+
+Mechayowa Yoro
+Spin-Off
+02
+2018
+Chin Piece
+
+
+
+Medaka
+OVA
+1
+1998
+One Piece - Defeat Him! The Pirate Ganzack
+
+
+
+Meganetti
+Live Performance
+
+2013
+One Piece Pirate Sweeping Operation
+
+
+
+Meista
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Mekao
+Filler
+196
+2004
+G-8 Arc
+
+
+
+Mendo
+Filler
+427
+2009
+Little East Blue Arc
+
+
+
+Merlin
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Meroie
+TV special
+1
+2000
+Adventure in the Ocean's Navel
+
+
+
+Meryl
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Meshi
+Live-Action Series
+6
+2023
+The Chef and the Chore Boy
+
+
+
+Meverly
+Filler
+548
+2012
+Fish-Man Island Arc
+
+
+
+Mi
+Live Performance
+
+2015
+Super Kabuki II: One Piece
+
+
+
+Miho
+Live Performance
+
+2015
+Super Kabuki II: One Piece
+
+
+
+Miki
+Live Performance
+
+2015
+Super Kabuki II: One Piece
+
+
+
+Milena
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Milia
+TV special
+2
+2003
+A Father's Huge, HUGE Dream
+
+
+
+Minchey
+Filler
+136
+2002
+Goat Island Arc
+
+
+
+Mini
+Game
+
+2001
+Legend of the Rainbow Island
+
+
+
+Minoru Kazeno
+Filler
+336
+2007
+Chopper Man
+
+
+
+Mint Kotori
+Spin-Off
+07
+2018
+Chin Piece
+
+
+
+Miranda
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Misutta
+Premier Show
+7
+2015
+One Piece Premier Show 2015
+
+
+
+Mitsuboshi
+Filler
+427
+2009
+Little East Blue Arc
+
+
+
+Mitt
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Miucha
+Novel
+1
+2019
+One Piece novel HEROINES
+
+
+
+Mobambi
+Movie
+3
+2002
+Chopper's Kingdom on the Island of Strange Animals
+
+
+
+Mobston
+Movie
+12
+2012
+One Piece Film: Z
+
+
+
+Mobu Head
+Filler
+826
+2018
+Whole Cake Island Arc
+
+
+
+Mofu
+Stage Show
+
+2015
+Bon Kurei Dance Performance Show
+
+
+
+Mona
+Stage Show
+
+2018
+Tongari Pirates Wanted!
+
+
+
+Monday
+Spin-Off
+02
+2012
+Chopperman
+
+
+
+Mooji
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Moore
+Filler
+136
+2002
+Goat Island Arc
+
+
+
+Mooo...rgan
+Spin-Off
+04
+2018
+Chin Piece
+
+
+
+Morkin
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Moyas
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Moyashi
+Live Performance
+
+2013
+One Piece Pirate Sweeping Operation
+
+
+
+Mr. Kuromaku
+Spin-Off
+04
+2019
+Fischer's x One Piece
+
+
+
+Muchigoro
+Movie
+6
+2005
+Baron Omatsuri and the Secret Island
+
+
+
+Mucho
+Live Performance
+
+2013
+One Piece Pirate Sweeping Operation
+
+
+
+Mugon
+Premier Show
+10
+2018
+One Piece Premier Show 2018
+
+
+
+Musashi
+Premier Show
+
+2021
+One Piece Premier Show 2021
+
+
+
+Musatobi
+Filler
+775
+2017
+Zou Arc
+
+
+
+Mussel
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Musshuru
+Movie
+9
+2008
+Episode of Chopper Plus: Bloom in Winter, Miracle Sakura
+
+
+
+Myskina Acier
+TV Special
+11
+2016
+Heart of Gold
+
+
+
+Myskina Olga
+TV Special
+11
+2016
+Heart of Gold
+
+
+N
+Nafk
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Naguri
+Filler
+498
+2011
+Post-War Arc
+
+
+
+Nanya
+Game
+
+2003
+One Piece: Ocean's Dream!
+
+
+
+Naomi Drunk
+TV Special
+11
+2016
+Heart of Gold
+
+
+
+Narcie
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Narcy
+Premier Show
+13
+2022
+One Piece Premier Show 2022
+
+
+
+Needless
+Movie
+4
+2003
+Dead End Adventure
+
+
+
+Nego
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Neiro
+Premier Show
+9
+2017
+One Piece Premier Show 2017
+
+
+
+Nelson Royale
+Filler
+054
+2001
+Warship Island Arc
+
+
+
+Nemenememitas
+Filler
+055
+2001
+Warship Island Arc
+
+
+
+Nepenta
+Premier Show
+2
+2010
+One Piece Premier Show 2010
+
+
+
+Nerine
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Nick
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Nightin
+TV Special
+8
+2014
+3D2Y
+
+
+
+Niina
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Niphtal
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Niseluffy
+Game
+
+2001
+Set Sail Pirate Crew!
+
+
+
+Niseusopp
+Game
+
+2001
+Set Sail Pirate Crew!
+
+
+
+Nisezoro
+Game
+
+2001
+Set Sail Pirate Crew!
+
+
+
+Noir
+Premier Show
+9
+2017
+One Piece Premier Show 2017
+
+
+
+Noko
+Filler
+220
+2005
+Ocean's Dream Arc
+
+
+
+Noriko (Newkama)
+Live Performance
+
+2015
+Super Kabuki II: One Piece
+
+
+
+Nukky
+Filler
+382
+2008
+Spa Island Arc
+
+
+
+Nuru
+Filler
+560
+2012
+Fish-Man Island Arc
+
+
+
+Nyanta
+Live Performance
+
+2012
+WANTED
+
+
+
+Nypers
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+O
+Ochanoma Papa
+Movie
+6
+2005
+Baron Omatsuri and the Secret Island
+
+
+
+Ochinko Poro
+Spin-Off
+02
+2018
+Chin Piece
+
+
+
+Odacchi
+Featurette
+
+2002
+Dream Soccer King
+
+
+
+Odama
+Filler
+134
+2002
+Post-Arabasta Arc
+
+
+
+Olive
+Filler
+446
+2010
+Impel Down Arc
+
+
+
+Omatsuri
+Movie
+6
+2005
+Baron Omatsuri and the Secret Island
+
+
+
+Omusubi
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+One-Man
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Onigiri
+Spin-Off
+Bonus 3
+2021
+One Piece School
+
+
+
+Opera
+Filler
+830
+2018
+Whole Cake Island Arc
+
+
+
+Otogin
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Otsu
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Ox
+Premier Show
+1
+2007
+One Piece Premier Show 2007
+
+
+P
+Pachinoa Rozo
+Spin-Off
+02
+2018
+Chin Piece
+
+
+
+Palin
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Panz Fry
+Filler
+575
+2012
+Z's Ambition Arc
+
+
+
+Pato
+Game
+
+2014
+One Piece: Unlimited World Red
+
+
+
+Patrick Redfield
+Game
+
+2014
+One Piece: Unlimited World Red
+
+
+
+Peanutsmonkey
+Movie
+15
+2022
+One Piece Film: Red
+
+
+
+Pesca
+Game
+
+2001
+Legend of the Rainbow Island
+
+
+
+Peseta
+Filler
+746
+2016
+Silver Mine Arc
+
+
+
+Pete
+Filler
+050
+2000
+Loguetown Arc
+
+
+
+Pijama
+Live Performance
+
+2013
+One Piece Pirate Sweeping Operation
+
+
+
+Pin Joker
+Movie
+2
+2001
+Clockwork Island Adventure
+
+
+
+Pink Koinu
+Spin-Off
+07
+2019
+Chin Piece
+
+
+
+Plesiosaur
+OVA
+1
+1998
+One Piece - Defeat Him! The Pirate Ganzack
+
+
+
+Pochi
+Filler
+493
+2011
+Post-War Arc
+
+
+
+Pocochin Das Ehss
+Spin-Off
+11
+2019
+Chin Piece
+
+
+
+Pogo
+Movie
+4
+2003
+Dead End Adventure
+
+
+
+Pokeportes
+Filler
+055
+2001
+Warship Island Arc
+
+
+
+Pokke
+Premier Show
+8
+2016
+One Piece Premier Show 2016
+
+
+
+Pomme
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Pon
+Stage Show
+
+2015
+Bon Kurei Dance Performance Show
+
+
+
+Pontanitaire
+Stage Show
+
+2018
+Marines Patrol
+
+
+
+Popo
+Filler
+101
+2002
+Arabasta Arc
+
+
+
+Popora
+Game
+
+2007
+One Piece: Unlimited Adventure
+
+
+
+Poppy
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Pork
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Pororoka
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Portnoy
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Pre
+Stage Show
+
+2015
+Zombie Party Fever
+
+
+
+Prize
+Premier Show
+10
+2018
+One Piece Premier Show 2018
+
+
+
+Prodi
+Filler
+780
+2017
+Marine Rookie Arc
+
+
+
+Psycho P
+TV Special
+11
+2016
+Heart of Gold
+
+
+
+Puggy
+Live Attraction
+3
+2017
+One Piece Live Attraction: Phantom
+
+
+
+Pukau
+Filler
+139
+2003
+Ruluka Island Arc
+
+
+
+Punch
+Game
+
+2001
+Legend of the Rainbow Island
+
+
+
+Purin
+Movie
+12
+2012
+One Piece Film: Z
+
+
+
+Puzzle
+Filler
+326
+2007
+Ice Hunter Arc
+
+
+R
+Race
+Filler
+326
+2007
+Ice Hunter Arc
+
+
+
+Rainbow Moray Eel Brothers
+Theatre
+1
+2004
+Orchestra of the Sea
+
+
+
+Raise Max
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Raccoon (Non-Canon)
+Game
+
+2003
+Chopper's Big Adventure
+
+
+
+Randolph (Non-Canon)
+TV special
+3
+2003
+Protect! The Last Great Performance
+
+
+
+Raniya
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Raoul
+Filler
+048
+2000
+Loguetown Arc
+
+
+
+Rapanui Pasqua
+Filler
+139
+2003
+Ruluka Island Arc
+
+
+
+Rare Sword Pistar
+Spin-Off
+08
+2019
+Chin Piece
+
+
+
+Rasa
+Filler
+097
+2002
+Arabasta Arc
+
+
+
+Ratchet
+Movie
+7
+2006
+The Giant Mechanical Soldier of Karakuri Castle
+
+
+
+Raymon
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Regen
+Live Performance
+
+2022
+Sanji's Pirates Restaurant
+
+
+
+Regis
+TV Special
+6
+2012
+Episode of Luffy
+
+
+
+Reika
+Game
+
+2001
+Set Sail Pirate Crew!
+
+
+
+Reiko
+Live Performance
+
+2015
+Super Kabuki II: One Piece
+
+
+
+Reira
+Game
+
+2001
+Legend of the Rainbow Island
+
+
+
+Renny
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Revina
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Rice Rice
+Filler
+132
+2002
+Post-Arabasta Arc
+
+
+
+Rick
+Movie
+6
+2005
+Baron Omatsuri and the Secret Island
+
+
+
+Rikaon
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Rikka
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Riley Brothers
+Filler
+050
+2000
+Loguetown Arc
+
+
+
+Rio
+Premier Show
+4
+2012
+One Piece Premier Show 2012
+
+
+
+Rita Suerte
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Rittonto
+Filler
+219
+2005
+Long Ring Long Land Arc
+
+
+
+Roba
+Movie
+7
+2006
+The Giant Mechanical Soldier of Karakuri Castle
+
+
+
+Roche
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Rocky Hattari
+Game
+
+2002
+One Piece: Treasure Battle!
+
+
+
+Rodom Andres Bell
+Spin-Off
+02
+2018
+Chin Piece
+
+
+
+Roger
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Rokai
+Game
+
+2001
+Set Sail Pirate Crew!
+
+
+
+Rokuroshi
+Filler
+215
+2005
+Long Ring Long Land Arc
+
+
+
+Romy
+Movie
+15
+2022
+One Piece Film: Red
+
+
+
+Rongo
+Filler
+139
+2003
+Ruluka Island Arc
+
+
+
+Rorobao Sow
+Spin-Off
+02
+2018
+Chin Piece
+
+
+
+Roronoa Zoro
+Spin-Off
+02
+2018
+Chin Piece
+
+
+
+Rosa
+Movie
+6
+2005
+Baron Omatsuri and the Secret Island
+
+
+
+Rosario
+Movie
+6
+2005
+Baron Omatsuri and the Secret Island
+
+
+
+Rosario
+Movie
+9
+2008
+Episode of Chopper Plus: Bloom in Winter, Miracle Sakura
+
+
+
+Rose
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Roule
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Rubis
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Rudd
+Novel
+2
+2019
+One Piece novel Law
+
+
+
+Ruibe
+Spin-Off
+2
+2021
+Shokugeki no Sanji
+
+
+
+Ryu
+Filler
+055
+2000
+Warship Island Arc
+
+
+
+Ryudo
+Filler
+426
+2009
+Little East Blue Arc
+
+
+
+Ryuji
+Game
+
+2001
+Set Sail Pirate Crew!
+
+
+S
+Sada
+Live-Action Series
+1
+2023
+Romance Dawn
+
+
+
+Saga
+Movie
+5
+2004
+The Cursed Holy Sword
+
+
+
+Saein
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Saikangaroo
+Filler
+018
+2000
+Syrup Village Arc
+
+
+
+Saki
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Salchow
+Filler
+326
+2007
+Ice Hunter Arc
+
+
+
+Salma
+Novel
+3
+2020
+One Piece novel HEROINES
+
+
+
+Saori
+Live Performance
+
+2015
+Super Kabuki II: One Piece
+
+
+
+Saphir
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Sarbay
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Sardan
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Sargus
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Sarutobi
+Premier Show
+
+2021
+One Piece Premier Show 2021
+
+
+
+Sasoz
+Spin-Off
+03
+2018
+Chin Piece
+
+
+
+Satchin
+Live Performance
+
+2015
+Super Kabuki II: One Piece
+
+
+
+Savarin
+Spin-Off
+1
+2018
+Shokugeki no Sanji
+
+
+
+Sayo
+Filler
+382
+2008
+Spa Island Arc
+
+
+
+Sayori
+Novel
+
+1999
+One Piece - Defeat Him! The Pirate Ganzack (Novel)
+
+
+
+Scarlet
+Movie
+10
+2009
+One Piece Film: Strong World
+
+
+
+Schneider
+Movie
+11
+2011
+One Piece 3D: Straw Hat Chase
+
+
+
+Scorpion
+Filler
+101
+2002
+Arabasta Arc
+
+
+
+Sealed
+Game
+
+2007
+One Piece: Unlimited Adventure
+
+
+
+Sebastian
+TV Special
+8
+2014
+3D2Y
+
+
+
+Segem
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Sekken De Tearai
+Spin-Off
+01
+2018
+Chin Piece
+
+
+
+Sekken De Tearai Jr.
+Spin-Off
+11
+2019
+Chin Piece
+
+
+
+Sentimental
+Live Performance
+
+2017
+Sanji's Pirates Restaurant
+
+
+
+Sheldon
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Shepherd
+Filler
+199
+2004
+G-8 Arc
+
+
+
+Shichiseiken
+Movie
+5
+2004
+The Cursed Holy Sword
+
+
+
+Shimizu (Newkama)
+Live Performance
+
+2015
+Super Kabuki II: One Piece
+
+
+
+Shimoi Zappa
+Filler
+780
+2017
+Marine Rookie Arc
+
+
+
+Shinpachi
+Filler
+196
+2004
+G-8 Arc
+
+
+
+Shiro
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Shironyan
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Shirotsu
+Premier Show
+
+2022
+One Piece Premier Show 2022
+
+
+
+Sho
+Filler
+318
+2007
+Water 7 Arc
+
+
+
+Shorts
+Filler
+336
+2007
+Chopper Man
+
+
+
+Shushibaruba
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Shuraiya Bascùd
+Movie
+4
+2003
+Dead End Adventure
+
+
+
+Shutai
+Filler
+051
+2000
+Loguetown Arc
+
+
+
+Shuzo
+Filler
+575
+2012
+Z's Ambition Arc
+
+
+
+Silk
+Romance Dawn
+1
+1996
+Romance Dawn, Version 1
+
+
+
+Silver-Silver
+Filler
+048
+2000
+Loguetown Arc
+
+
+
+Simon
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Simurgh
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Sino Phoenix
+One-Shot
+
+1993
+Wanted!
+
+
+
+Skid
+OVA
+1
+1998
+One Piece - Defeat Him! The Pirate Ganzack
+
+
+
+Skullface
+Game
+
+2001
+Set Sail Pirate Crew!
+
+
+
+Skunk One
+Movie
+2
+2001
+Clockwork Island Adventure
+
+
+
+Slim
+Live Performance
+
+2013
+One Piece Pirate Sweeping Operation
+
+
+
+Slim
+Movie
+15
+2022
+One Piece Film: Red
+
+
+
+Smash
+Premier Show
+6
+2014
+One Piece Premier Show 2014
+
+
+
+Sniper Killer
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Sole
+Stage Show
+
+2018
+Tongari Pirates Wanted!
+
+
+
+Soran
+Filler
+420
+2009
+Amazon Lily Arc
+
+
+
+Shupeal
+Romance Dawn
+2
+1996
+Romance Dawn, Version 2
+
+
+
+Stansen (Non-Canon)
+Filler
+326
+2007
+Ice Hunter Arc
+
+
+
+Stella
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Stonely
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Straight
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Su (Newkama)
+Live Performance
+
+2015
+Super Kabuki II: One Piece
+
+
+
+Suita
+TV special
+3
+2003
+Protect! The Last Great Performance
+
+
+
+Sully
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Susaburo
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Sutton
+Filler
+326
+2007
+Ice Hunter Arc
+
+
+
+Super White Bear
+Spin-Off
+21
+2019
+One Piece Party
+
+
+
+Suzuki Ichiro
+Spin-Off
+11
+2019
+Chin Piece
+
+
+T
+Tabi
+Movie
+14
+2019
+One Piece: Stampede
+
+
+
+Tacobo
+Filler
+020
+2000
+Baratie Arc
+
+
+
+Tagosaku
+Live Performance
+
+2013
+One Piece Pirate Sweeping Operation
+
+
+
+Tajiko
+Live Performance
+
+2012
+WANTED
+
+
+
+Tajio
+Filler
+133
+2002
+Post-Arabasta Arc
+
+
+
+Tamaka
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Tarako
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Tam
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Tama
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Tambu
+Filler
+747
+2016
+Silver Mine Arc
+
+
+
+Tanaka
+Filler
+747
+2016
+Silver Mine Arc
+
+
+
+Tatsu
+Filler
+220
+2005
+Ocean's Dream Arc
+
+
+
+Taylor
+Stage Show
+
+2019
+Piece Trail: The Adventurers and the Amazing Spring
+
+
+
+Tea
+Stage Show
+
+2015
+Zombie Party Fever
+
+
+
+Tei
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Tempo
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Tequila
+Live Performance
+
+2012
+WANTED
+
+
+
+Terrance
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Theo
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Tigerman
+Premier Show
+
+2021
+One Piece Premier Show 2021
+
+
+
+Tobo
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Toby
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Tobio
+Movie
+1
+2000
+One Piece: The Movie
+
+
+
+Tohenbok
+Filler
+020
+2000
+Baratie Arc
+
+
+
+Tom
+Filler
+196
+2004
+G-8 Arc
+
+
+
+Toma
+Movie
+5
+2004
+The Cursed Holy Sword
+
+
+
+Tomac
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Tongari Den Den Mushi
+Live Performance
+
+2015
+Tokyo One Piece Tower
+
+
+
+Toratsugu
+Event
+1
+2017
+One Piece Art NUE
+
+
+
+Torva
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Tot Musica
+Movie
+15
+2022
+One Piece Film: Red
+
+
+
+Trade
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Trap
+Featurette
+
+2011
+ONE PIECE 3D! Trap Coaster
+
+
+
+Trip
+Spin-Off
+25
+2019
+One Piece Party
+
+
+
+Troff
+Filler
+326
+2007
+Ice Hunter Arc
+
+
+
+Tsubaki
+Theatre
+3
+2005
+Report Time
+
+
+
+Two Base
+Live Performance
+
+2012
+WANTED
+
+
+U
+Usanksai
+Filler
+020
+2000
+Baratie Arc
+
+
+
+Usodabird
+Spin-Off
+10.5
+2012
+Chopperman
+
+
+V
+Vaun
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Ven Vendler
+Premier Show
+
+2023
+One Piece Premier Show 2023
+
+
+
+Vigaro
+Filler
+326
+2007
+Ice Hunter Arc
+
+
+
+Vigo
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Volg
+Premier Show
+6
+2014
+One Piece Premier Show 2014
+
+
+W
+Wadataira
+Spin-Off
+06
+2018
+Chin Piece
+
+
+
+Wadatsumi
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Week
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Wetton
+Filler
+140
+2003
+Ruluka Island Arc
+
+
+
+Whitejack
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+
+Wier
+Live-Action Series
+1
+2023
+Romance Dawn
+
+
+
+Wild Joe
+Filler
+045
+2000
+Arlong Park Arc
+
+
+
+Wilder
+Premier Show
+8
+2016
+One Piece Premier Show 2016
+
+
+
+Will
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Willy (Fish-Man)
+Movie
+4
+2003
+Dead End Adventure
+
+
+
+Wind Rumor Taro
+Spin-Off
+02
+2018
+Chin Piece
+
+
+
+Wolf
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Wolf
+Filler
+830
+2018
+Whole Cake Island Arc
+
+
+
+Wolf
+Novel
+1
+2018
+One Piece novel Law
+
+
+
+Wombat
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Woonan
+Movie
+1
+2000
+One Piece: The Movie
+
+
+X
+Xiao
+Movie
+10
+2009
+One Piece Film: Strong World
+
+
+Y
+Yadoya
+Game
+
+2014
+One Piece: Unlimited World Red
+
+
+
+Yakedoro
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Yamada Shinichi
+Spin-Off
+11
+2019
+Chin Piece
+
+
+
+Yasmine
+Novel
+3
+2020
+One Piece novel HEROINES
+
+
+
+Yehudi
+Premier Show
+13
+2022
+One Piece Premier Show 2022
+
+
+
+Yoko
+Filler
+426
+2009
+Little East Blue Arc
+
+
+
+Yoko
+Filler
+318
+2007
+Water 7 Arc
+
+
+
+Yorueka
+Movie
+15
+2022
+One Piece Film: Red
+
+
+
+Yoshio
+One-Shot
+
+1993
+God's Gift for the Future
+
+
+
+Yukimura
+Filler
+464
+2010
+Marineford Arc
+
+
+
+Yuka
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Yuri
+Game
+
+2019
+One Piece: World Seeker
+
+
+
+Yuta
+Game
+
+2001
+Set Sail Pirate Crew!
+
+
+
+Yuya
+Filler
+318
+2007
+Water 7 Arc
+
+
+Z
+Z
+Movie
+12
+2012
+One Piece Film: Z
+
+
+
+Zaba
+Filler
+098
+2002
+Arabasta Arc
+
+
+
+Zabal
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Zap
+TV special
+2
+2003
+A Father's Huge, HUGE Dream
+
+
+
+Zaraza
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Zau Ra Zau
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+
+Zenny
+Filler
+136
+2002
+Goat Island Arc
+
+
+
+Zenran
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Zomino
+Movie
+12
+2012
+One Piece Film: Z
+
+
+
+Zona Anes
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Zona Dart
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Zona Lil
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Zona Mam
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Zona Middel
+Game
+
+2023
+One Piece Odyssey
+
+
+
+Zoryu
+Spin-Off
+02
+2018
+Chin Piece
+
+Groups
+
+
+
+Name
+
+Type
+
+Number
+
+Year
+
+Title
+
+
+Amber Pirates
+Game
+
+2019
+One Piece: World Seeker
+
+
+Bandit Nine
+Game
+
+2023
+One Piece Odyssey
+
+
+Banzai Pirates
+Game
+
+2003
+One Piece: Ocean's Dream!
+
+
+Barbar Pirates
+Filler
+97
+2002
+Arabasta Arc
+
+
+BIG Pirates
+Premier Show
+
+2017
+One Piece Premier Show 2017
+
+
+Bounties Pirates
+Premier Show
+
+2018
+One Piece Premier Show 2018
+
+
+Bounty Pirates
+Game
+
+2023
+One Piece Odyssey
+
+
+Bull's Eye Hit Pirates
+Game
+
+2023
+One Piece Odyssey
+
+
+Camus's Band
+Filler
+099
+2002
+Arabasta Arc
+
+
+Collapsing Family
+Game
+
+2023
+One Piece Odyssey
+
+
+Dance Pirates
+Game
+
+2023
+One Piece Odyssey
+
+
+Dandy Girls
+Premier Show
+
+2018
+One Piece Premier Show 2018
+
+
+Drayke Pirates
+Game
+
+2001
+Legend of the Rainbow Island
+
+
+Dynamo Team
+Filler
+139
+2003
+Ruluka Island Arc
+
+
+Fischer's Pirates
+Spin-Off
+02
+2019
+Fischer's x One Piece
+
+
+Ganzack Pirates
+OVA
+
+1998
+One Piece - Defeat Him! The Pirate Ganzack
+
+
+Gasparde Pirates
+Movie
+4
+2003
+Dead End Adventure
+
+
+Gejitsu Pirates
+Game
+
+2001
+Set Sail Pirate Crew!
+
+
+Giant Baseball Team
+Featurette
+
+2011
+ONE PIECE 3D! Trap Coaster
+
+
+Halsey Pirates
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+Hot Wind Marines
+Filler
+201
+2004
+G-8 Arc
+
+
+Hunger Pirates
+Game
+
+2019
+One Piece: World Seeker
+
+
+Insect Pirates
+Game
+
+2023
+One Piece Odyssey
+
+
+Karakuri Dolls
+Premier Show
+
+2021
+One Piece Premier Show 2021
+
+
+Kimmel Pirates
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+Long Long Pirates
+Movie
+13
+2016
+One Piece Film: Gold
+
+
+Majin Soldiers
+Game
+
+2007
+One Piece: Unlimited Adventure
+
+
+Makiguso Pirates
+Game
+01
+2018
+Chin Piece
+
+
+Meryl Pirates
+Game
+
+2002
+One Piece: Great Hidden Treasure of the Nanatsu Islands
+
+
+Mussel Pirates
+Game
+
+2019
+One Piece: World Seeker
+
+
+Mustache Pirates
+Movie
+6
+2005
+Baron Omatsuri and the Secret Island
+
+
+Naniwa Pirates
+Game
+
+2003
+One Piece: Ocean's Dream!
+
+
+Newkama Six Forces
+Filler
+445
+2010
+Impel Down Arc
+
+
+Omoino Family
+Game
+
+2023
+One Piece Odyssey
+
+
+Opera Pirates
+Game
+
+2023
+One Piece Odyssey
+
+
+Orenami Fanclub
+Filler
+427
+2009
+Little East Blue Arc
+
+
+Organ Dealing Assassination Group
+Filler
+830
+2018
+Whole Cake Island Arc
+
+
+Otearai Pirates
+Game
+01
+2018
+Chin Piece
+
+
+Phoenix Pirates
+Filler
+326
+2007
+Ice Hunter Arc
+
+
+Sandora Desert Bandits
+Filler
+098
+2002
+Arabasta Arc
+
+
+Schneider Pirates
+Movie
+11
+2011
+One Piece 3D: Straw Hat Chase
+
+
+Sea Animal Pirates
+Filler
+626
+2013
+Caesar Retrieval Arc
+
+
+Silver Pirate Alliance
+Filler
+747
+2016
+Silver Mine Arc
+
+
+Simon Pirates
+Game
+
+2002
+One Piece - Big Secret Treasure of the Seven Phantom Islands
+
+
+Spicy Spice Pirates
+Game
+
+2023
+One Piece Odyssey
+
+
+Sweet Pirates
+Filler
+747
+2016
+Silver Mine Arc
+
+
+Tearoom Pirates
+Movie
+6
+2005
+Baron Omatsuri and the Secret Island
+
+
+Tongari Pirates
+Stage Show
+
+2018
+Tongari Pirates Wanted!
+
+
+Treasure Pirates
+TV Special
+11
+2016
+Heart of Gold
+
+
+Trio the Grip
+Filler
+759
+2016
+Zou Arc
+
+
+Trump Pirates
+Movie
+2
+2001
+Clockwork Island Adventure
+
+
+Wetton Pirates
+Filler
+140
+2003
+Ruluka Island Arc
+
+
+World Pirates
+TV Special
+8
+2014
+3D2Y
+
+
+Zenny Pirates
+Filler
+136
+2002
+Goat Island Arc
+
+
+Zona Family
+Game
+
+2023
+One Piece Odyssey
+
+See also
+List of Canon Characters
+Site Navigation
+
+
+
+
+					
+					
+						
+	
+		
+			Categories					
+		
+							
+
+	
+		
+			Categories: 
+						
+	Lists
+	
+
+			
+	Non-Canon Characters
+	
+
+	
+					
+			
+	
+					
+	
+							
+		
+			Languages					
+		
+							Español
+							Polski
+					
+	
+
+														
+		Community content is available under CC-BY-SA unless otherwise noted.	
+						
+						
+	
+	
+		More Fandoms
+	
+	
+		
+			Fantasy
+		
+	
+
+
+
+					
+				
+									
+
+		
+
+	
+				
+		
+
+
+							
+			
+	
+		
+		Advertisement
+	
+			
+
+	
+		
+			Fan Feed			
+			
+				
+											
+							
+								More One Piece Wiki
+							
+							
+																	
+										
+											1
+											Story Arcs
+										
+									
+																	
+										
+											2
+											Monkey D. Luffy
+										
+									
+																	
+										
+											3
+											Straw Hat Pirates
+										
+									
+															
+						
+										
+					
+				
+
+				
+					
+					
+					
+				
+
+				
+					
+					
+					
+				
+			
+		
+	
+
+		
+					
+	
+		
+			
+				
+					
+				
+			
+			
+			Explore properties
+	
+	
+	
+			
+							
+					
+													Fandom											
+				
+							
+					
+													Muthead											
+				
+							
+					
+													Fanatical											
+				
+					
+	
+			
+			Follow Us
+	
+	
+	
+			
+							
+					
+																								
+				
+							
+					
+																								
+				
+							
+					
+																								
+				
+							
+					
+																								
+				
+							
+					
+																								
+				
+					
+	
+		
+		
+			
+			Overview
+	
+	
+	
+			
+							
+					
+													What is Fandom?											
+				
+							
+					
+													About											
+				
+							
+					
+													Careers											
+				
+							
+					
+													Press											
+				
+							
+					
+													Contact											
+				
+							
+					
+													Terms of Use											
+				
+							
+					
+													Privacy Policy											
+				
+							
+					
+													Global Sitemap											
+				
+							
+					
+													Local Sitemap											
+				
+					
+	
+		
+		
+			
+			Community
+	
+	
+	
+			
+							
+					
+													Community Central											
+				
+							
+					
+													Support											
+				
+							
+					
+													Help											
+				
+							
+					
+													Do Not Sell or Share My Personal Information											
+				
+					
+	
+			
+			Advertise
+	
+	
+	
+			
+							
+					
+													Media Kit											
+				
+							
+					
+													Contact											
+				
+					
+	
+		
+		
+			
+			Fandom Apps
+	
+			Take your favorite fandoms with you and never miss a beat.	
+	
+	
+			
+	
+	
+			
+	
+			
+							
+					
+													
+											
+				
+							
+					
+													
+											
+				
+					
+	
+		
+	
+	
+					One Piece Wiki is a FANDOM Anime Community.
+							
+				
+					View Mobile Site				
+			
+			
+
+			
+
+	
+		window.RLQ = window.RLQ || [];
+		window.RLQ.push(() => {
+			mw.config.set('wgPageActions', {"3":{"class":false,"text":"View history","href":"\/wiki\/List_of_Non-Canon_Characters?action=history","id":"ca-history","accesskey":"h","data-tracking":"ca-history-dropdown"},"11":{"class":"","text":"Talk (48)","href":"\/wiki\/Talk:List_of_Non-Canon_Characters","exists":true,"primary":true,"context":"talk","rel":"discussion","id":"ca-talk","accesskey":"t","data-tracking":"ca-talk-dropdown"}});
+		})
+	
+
+	
+		
+				
+		Follow on IG
+	
+	
+		TikTok
+	
+	
+		Join Fan Lab
+	
+
+			
+							
+		
+	
+
+	
+		
+			
+				
+					
+				
+				
+					
+						
+					
+				
+			
+		
+	
+
+
+window.fandomContext = {"site":{"categories":["ent","comics","anime"],"directedAtChildren":false,"siteName":"onepiece","top1000":true,"tags":{"tv":["netflix","adult swim","amazon","cn","funimation","hulu","crunchyroll","fox"],"sex":["m","f"],"bundles":["sensitive","apple_sea_bundle","obi_wan_kenobi_bundle","alc21_bundle","video_tier_1_and_2_bundle","onepiece_franchise","25_bundle","21_bundle"],"fran":["one_piece"],"theme":["pirates","mecha","humor","military","monster","sword","japan","supernatural","gangster","robots"],"gnre":["hackandslash","live-action","rpg","openworld","storytelling","adventure","lightnovel","manga","thriller","shonen","anime","fantasy","drama","action","racing","comedy","fighting"],"media":["cards","tv","movies","games","anime","comics","lightnovel","books"],"pub":["namco","bandainamco"],"age":["35-44","teen","13-17","18-34","kids","45-54","yadult","25-34","under18","18-24"],"pform":["psp","pc","ps3","xboxone","psvita","mobile","ds","wii","3ds","ps2","ps4","switch"]},"taxonomy":["ent","anime"]},"page":{"articleId":27993,"lang":"en","pageId":27993,"pageName":"List_of_Non-Canon_Characters","pageType":"article","tags":{"theme":["realitytv"],"pub":["namco"]},"wordCount":5595}}
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.417","walltime":"0.464","ppvisitednodes":{"value":2063,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20231202074009","ttl":1209600,"transientcontent":false}}});});
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":163});});
+</body>

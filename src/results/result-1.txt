@@ -1,0 +1,3434 @@
+URL: https://onepiece.fandom.com/wiki/One_Piece_Wiki
+
+
+
+
+
+One Piece Wiki | Fandom
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"44bbb182046726f76f02709447f4d5df","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"One_Piece_Wiki","wgTitle":"One Piece Wiki","wgCurRevisionId":1952489,"wgRevisionId":1952489,"wgArticleId":291028,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using DynamicPageList3 parser tag","One Piece Encyclopedia"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"One_Piece_Wiki","wgRelevantArticleId":291028,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],
+"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgNoExternals":false,"wgArticleInterlangList":["ar:","ca:","cs:","de:","el:","es:","eu:","fr:","he:","id:","it:","ja:","ka:","ko:","my:","nl:","no:","pl:","pt:","ro:","ru:","tr:","uk:","vi:","zh:"],"wikiaPageType":"home","isDarkTheme":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"egMapsScriptPath":"/extensions-ucp/mw139/Maps/","egMapsDebugJS":false,"egMapsAvailableServices":["leaflet","googlemaps3"],"egMapsLeafletLayersApiKeys":{"MapBox":"","MapQuestOpen":"","Thunderforest":"","GeoportailFrance":""},"wgIsTestModeEnabled":false,"wgEnableLightboxExt":true,"wgDisableCMSNotifications":false,"wgEditSubmitButtonLabelPublish":false,"mwAuthBaseUrl":"https://auth.fandom.com","personalizedRecommendationsMessage":"Recommended for you","wgPerformanceMonitoringSamplingFactor":10,
+"wgPerformanceMonitoringEndpointUrl":"https://beacon.wikia-services.com/__track/special/performance_metrics?w=1081\u0026lc=en\u0026d=onepiece\u0026s=ucp_desktop\u0026u=0\u0026i=sjc-prod\u0026a=0","wgSoftwareVersion":"master@release-718.001","wgFandomQuizzesEnabled":false,"wgFandomQuizzesOnFepoEnabled":false,"wgFandomQuizzesGenAiQuizzesOnArticlesEnabled":false,"wgFandomQuizzesCommunityQuizzesOnArticlesEnabled":false,"wgPageLanguageHasWordBreaks":true,"wgNoRailModule":true,"egFacebookAppId":"112328095453510","wgDisableAnonymousEditing":true,"comscoreKeyword":"wikiacsid_anime","quantcastLabels":
+"Genre.hackandslash,Genre.live-action,Genre.rpg,Genre.openworld,Genre.storytelling,Genre.adventure,Genre.lightnovel,Genre.manga,Genre.thriller,Genre.shonen,Genre.anime,Genre.fantasy,Genre.drama,Genre.action,Genre.racing,Genre.comedy,Genre.fighting,Media.cards,Media.tv,Media.movies,Media.games,Media.anime,Media.comics,Media.lightnovel,Media.books,Theme.pirates,Theme.mecha,Theme.humor,Theme.military,Theme.monster,Theme.sword,Theme.japan,Theme.supernatural,Theme.gangster,Theme.robots,TV.netflix,TV.adult swim,TV.amazon,TV.cn,TV.funimation,TV.hulu,TV.crunchyroll,TV.fox","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category"},"wgEnableDiscussions":true,"viewTrackURL":"https://beacon.wikia-services.com/__track/view?a=291028\u0026n=0\u0026env=prod\u0026c=1081\u0026lc=en\u0026lid=75\u0026x=onepiece\u0026s=ucp_desktop\u0026mobile_theme=fandom-light\u0026rollout_tracking=mw139","viewTrackUrlPrefix":
+"https://beacon.wikia-services.com/__track/view?a=291028\u0026n=0\u0026env=prod\u0026c=1081\u0026lc=en\u0026lid=75\u0026x=onepiece\u0026s=ucp_desktop\u0026mobile_theme=fandom-light\u0026rollout_tracking=mw139","wgEnableHydraFeatures":false,"wgAmplitudeApiKey":"6765a55f49a353467fec981090f1ab6a","wgUserIdForTracking":-1,"wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["de","en","es","fr"],"wgRequestInWikiContext":true,"wgIsFancentralWiki":false};RLSTATE={"site.styles":"ready","user.styles":"ready","user.options":"loading","ext.fandom.mainPageTag.css":"ready","ext.fandom.Blogs.css":"ready","ext.fandom.TwitterTag.css":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","skin.fandomdesktop.FanFeed.css":"ready","ext.staffSig.css":"ready","vendor.tippy.css":"ready","ext.fandom.bannerNotifications.desktop.css":"ready","ext.fandom.quickBar.css":"ready","ext.fandom.Uncrawlable.css":"ready",
+"ext.fandom.CreatePage.css":"ready","ext.fandom.Thumbnails.css":"ready","ext.fandom.ThumbnailsViewImage.css":"ready","ext.fandom.Experiments.TRFC147":"ready","skin.fandomdesktop.Math.css":"ready","skin.fandomdesktop.CargoTables-ext.css":"ready","ext.fandom.FandomEmbedVideo.css":"ready","ext.fandom.ArticleInterlang.css":"ready","ext.fandom.HighlightToAction.css":"ready","skin.fandomdesktop.styles":"ready","ext.fandomVideo.css":"ready","ext.fandom.GlobalComponents.GlobalNavigationTheme.light.css":"ready","ext.fandom.GlobalComponents.GlobalComponentsTheme.light.css":"ready","ext.fandom.GlobalComponents.GlobalNavigation.css":"ready","ext.fandom.GlobalComponents.GlobalFooter.css":"ready","ext.fandom.GlobalComponents.CommunityHeader.css":"ready","ext.fandom.GlobalComponents.StickyNavigation.css":"ready","ext.fandom.GlobalComponents.CommunityHeaderBackground.css":"ready","ext.fandom.GlobalComponents.RegistrationButtons.css":"ready"};RLPAGEMODULES=["ext.fandom.TwitterTag.js","site",
+"mediawiki.page.ready","jquery.makeCollapsible","ext.fandom.mediaWikiMigrationHooks.js","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","skin.fandomdesktop.FanFeed.js","ext.fandom.performanceMonitoring.js","ext.fandom.Optimizely.js","ext.fandom.FacebookTags.js","ext.fandom.ae.babTracking.js","ext.fandom.ae.consentQueue.js","ext.fandom.AnalyticsEngine.comscore.js","ext.fandom.AnalyticsEngine.quantcast.js","ext.categorySelect.js","ext.categorySelectFandomDesktop.css","ext.fandom.bannerNotifications.js","ext.fandom.bannerNotifications.messages","ext.fandom.Track.js","ext.fandom.wikiaBar.js","ext.fandom.ContentReview.legacyLoaders.js","ext.fandom.ContentReview.jsReload.js","ext.fandom.site","ext.fandom.ImportJs","ext.fandom.ContentReviewTestModeMessages","ext.fandom.UncrawlableUrl.anchors.js","ext.fandom.CreatePage.js","ext.fandom.TimeAgoMessaging.js","ext.fandom.ImageGalleryIconModuleInit.js","ext.fandom.Thumbnails.js","ext.fandom.Thumbnails.messages",
+"ext.fandom.FandomEmbedVideo.js","ext.tabView.editor.js","ext.fandom.HighlightToAction.js","ext.fandom.HighlightToAction.messages","skin.fandomdesktop.js","skin.fandomdesktop.messages","ext.fandom.GlobalComponents.SearchModal.messages","ext.fandom.GlobalComponents.GlobalNavigationAnon.js","ext.fandom.GlobalComponents.GlobalFooter.js","ext.fandom.GlobalComponents.CommunityHeader.js","ext.fandom.GlobalComponents.StickyNavigation.js","ext.fandom.GlobalComponents.RegistrationButtons.js","ext.fandom.nositenotice.js","ext.fandom.Lightbox.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+	const useMaxDefaultContentWidth = Boolean();
+
+	const defaultContentWidth = useMaxDefaultContentWidth ? 'expanded' : 'collapsed';
+
+	let contentWidthPreference;
+
+	try {
+		contentWidthPreference = localStorage.getItem('contentwidth') || defaultContentWidth;
+	} catch (e) {
+		contentWidthPreference = defaultContentWidth;
+	}
+
+	if ( contentWidthPreference === 'expanded' ) {
+		document.documentElement.classList.add('is-content-expanded');
+	}
+
+
+
+
+var _userId=0;
+var _plc={"p":"mw","pVar":"fandomdesktop","pCat":"anime","pId":"1081","pg":"home","pgId":"291028","pgLang":"en","adTags":{"tv":["netflix","adult swim","amazon","cn","funimation","hulu","crunchyroll","fox"],"sex":["m","f"],"bundles":["sensitive","apple_sea_bundle","obi_wan_kenobi_bundle","alc21_bundle","video_tier_1_and_2_bundle","onepiece_franchise","25_bundle","21_bundle"],"fran":["one_piece"],"theme":["pirates","mecha","humor","military","monster","sword","japan","supernatural","gangster","robots"],"gnre":["hackandslash","live-action","rpg","openworld","storytelling","adventure","lightnovel","manga","thriller","shonen","anime","fantasy","drama","action","racing","comedy","fighting"],"media":["cards","tv","movies","games","anime","comics","lightnovel","books"],"pub":["namco","bandainamco"],"age":["35-44","teen","13-17","18-34","kids","45-54","yadult","25-34","under18","18-24"],"pform":["psp","pc","ps3","xboxone","psvita","mobile","ds","wii","3ds","ps2","ps4","switch"]},"time":0}; var _ulc={"id":"0","lang":"en"}; _plc.time=Date.now();
+
+
+var ads={"context":{"opts":{"enableNativeAds":true,"pageType":"all_ads","platformName":"fandomdesktop"},"targeting":{"enablePageCategories":true,"isUcp":true,"mappedVerticalName":"ent","newWikiCategories":["ent","comics","anime"],"pageArticleId":291028,"pageIsArticle":true,"pageName":"One_Piece_Wiki","pageType":"home","wikiDbName":"onepiece","wikiId":1081,"wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"anime","adTagManagerTags":{"tv":["netflix","adult swim","amazon","cn","funimation","hulu","crunchyroll","fox"],"sex":["m","f"],"bundles":["sensitive","apple_sea_bundle","obi_wan_kenobi_bundle","alc21_bundle","video_tier_1_and_2_bundle","onepiece_franchise","25_bundle","21_bundle"],"fran":["one_piece"],"theme":["pirates","mecha","humor","military","monster","sword","japan","supernatural","gangster","robots"],"gnre":["hackandslash","live-action","rpg","openworld","storytelling","adventure","lightnovel","manga","thriller","shonen","anime","fantasy","drama","action","racing","comedy","fighting"],"media":["cards","tv","movies","games","anime","comics","lightnovel","books"],"pub":["namco","bandainamco"],"age":["35-44","teen","13-17","18-34","kids","45-54","yadult","25-34","under18","18-24"],"pform":["psp","pc","ps3","xboxone","psvita","mobile","ds","wii","3ds","ps2","ps4","switch"]}}},"consentQueue":[]};
+
+	// Install temporary stub until full CMP will be ready
+	if (typeof window.__tcfapi === 'undefined') {
+		// @iabtcf/stub v1.3.1
+		"use strict";function _typeof(t){return(_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t})(t)}!function(){var t=function(){var t,e,o="__tcfapiLocator",n=[],r=window,a=r;for(;a;){try{if(a.frames[o]){t=a;break}}catch(t){}if(a===r.top)break;a=r.parent}t||(!function t(){var e=r.document,n=!!r.frames[o];if(!n)if(e.body){var a=e.createElement("iframe");a.style.cssText="display:none",a.name=o,e.body.appendChild(a)}else setTimeout(t,5);return!n}(),r.__tcfapi=function(){for(var t=arguments.length,o=new Array(t),r=0;r3&&2===parseInt(o[1],10)&&"boolean"==typeof o[3]&&(e=o[3],"function"==typeof o[2]&&o[2]("set",!0)):"ping"===o[0]?"function"==typeof o[2]&&o[2]({gdprApplies:e,cmpLoaded:!1,cmpStatus:"stub"}):n.push(o)},r.addEventListener("message",(function(t){var e="string"==typeof t.data,o={};if(e)try{o=JSON.parse(t.data)}catch(t){}else o=t.data;var n="object"===_typeof(o)?o.__tcfapiCall:null;n&&window.__tcfapi(n.command,n.version,(function(o,r){var a={__tcfapiReturn:{returnValue:o,success:r,callId:n.callId}};t&&t.source&&t.source.postMessage&&t.source.postMessage(e?JSON.stringify(a):a,"*")}),n.parameter)}),!1))};"undefined"!=typeof module?module.exports=t:t()}();
+	}
+
+
+
+
+<body class="mainpage mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-One_Piece_Wiki rootpage-One_Piece_Wiki skin-fandomdesktop action-view ooui-theme-fandomooui wiki-onepiece theme-fandomdesktop-light">
+	
+				
+			
+	
+
+		
+	
+
+		One Piece Wiki
+	
+
+	
+					
+			
+			
+				
+										Explore
+				
+							
+			
+					
+													
+			
+			
+								Main Page
+			
+		
+														
+			
+			
+								Discuss
+			
+		
+														
+			
+			
+								All Pages
+			
+		
+														
+			
+			
+								Community
+			
+		
+														
+			
+			
+								Interactive Maps
+			
+		
+														
+			
+			
+								Recent Blog Posts
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										World
+				
+							
+			
+					
+													
+			
+			
+								Characters
+							
+			
+				
+											
+			
+			
+								Straw Hat Pirates
+			
+		
+												
+			
+			
+								In Canon
+			
+		
+												
+			
+			
+								Non-Canon
+			
+		
+												
+			
+			
+								Pirates
+			
+		
+												
+			
+			
+								Marines
+			
+		
+												
+			
+			
+								Nobles
+			
+		
+												
+			
+			
+								By Race
+			
+		
+												
+			
+			
+								Antagonists
+			
+		
+										
+			
+		
+														
+			
+			
+								Locations
+							
+			
+				
+											
+			
+			
+								Grand Line
+			
+		
+												
+			
+			
+								East Blue
+			
+		
+												
+			
+			
+								New World
+			
+		
+												
+			
+			
+								Islands
+			
+		
+												
+			
+			
+								Towns and Cities
+			
+		
+										
+			
+		
+														
+			
+			
+								Organizations
+							
+			
+				
+											
+			
+			
+								Marines
+			
+		
+												
+			
+			
+								Pirate Crews
+			
+		
+												
+			
+			
+								Seven Warlords of the Sea
+			
+		
+												
+			
+			
+								Four Emperors
+			
+		
+												
+			
+			
+								World Government
+			
+		
+												
+			
+			
+								Revolutionary Army
+			
+		
+										
+			
+		
+														
+			
+			
+								Society
+							
+			
+				
+											
+			
+			
+								Occupations
+			
+		
+												
+			
+			
+								Races
+			
+		
+												
+			
+			
+								Technology
+			
+		
+												
+			
+			
+								Animal Species
+			
+		
+												
+			
+			
+								Plant and Fungi Species
+			
+		
+										
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Media
+				
+							
+			
+					
+													
+			
+			
+								Manga
+							
+			
+				
+											
+			
+			
+								Chapters and Volumes
+			
+		
+												
+			
+			
+								SBS Corners
+			
+		
+												
+			
+			
+								Story Arcs
+			
+		
+												
+			
+			
+								Cover Stories
+			
+		
+												
+			
+			
+								Volume Intros
+			
+		
+												
+			
+			
+								Books
+			
+		
+										
+			
+		
+														
+			
+			
+								Anime
+							
+			
+				
+											
+			
+			
+								Episode Guide
+			
+		
+												
+			
+			
+								Story Arcs
+			
+		
+												
+			
+			
+								One Piece Movies
+			
+		
+												
+			
+			
+								Filler
+			
+		
+												
+			
+			
+								Music
+			
+		
+										
+			
+		
+														
+			
+			
+								Merchandise
+							
+			
+				
+											
+			
+			
+								Spin-Offs
+			
+		
+												
+			
+			
+								Video Games
+			
+		
+										
+			
+		
+														
+			
+			
+								Other Media
+							
+			
+				
+											
+			
+			
+								Books
+			
+		
+												
+			
+			
+								Magazine
+			
+		
+												
+			
+			
+								Events
+			
+		
+												
+			
+			
+								Live Performances
+			
+		
+												
+			
+			
+								Live-Action Series
+			
+		
+												
+			
+			
+								Variety
+			
+		
+												
+			
+			
+								Mobile Apps
+			
+		
+										
+			
+		
+														
+			
+			
+								Mythbusters
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Community
+				
+							
+			
+					
+													
+			
+			
+								Discord Server
+			
+		
+														
+			
+			
+								Discussions
+			
+		
+														
+			
+			
+								Forums
+			
+		
+														
+			
+			
+								Recent Blogs
+			
+		
+														
+			
+			
+								Featured Articles
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Help
+				
+							
+			
+					
+													
+			
+			
+								Rules
+							
+			
+				
+											
+			
+			
+								Spoiler Rules
+			
+		
+												
+			
+			
+								Vandalism Rules
+			
+		
+												
+			
+			
+								Forum Rules
+			
+		
+												
+			
+			
+								Discussions, Blogs, and Discord Rules
+			
+		
+										
+			
+		
+														
+			
+			
+								Guidelines
+							
+			
+				
+											
+			
+			
+								Manual of Style
+			
+		
+												
+			
+			
+								Page Layouts
+			
+		
+												
+			
+			
+								Image Guidelines
+			
+		
+												
+			
+			
+								Trivia Guidelines
+			
+		
+										
+			
+		
+														
+			
+			
+								FAQ
+			
+		
+														
+			
+			
+								Referencing Information
+			
+		
+														
+			
+			
+								Administrators
+			
+		
+												
+			
+		
+				
+
+	
+			
+					
+			
+					
+			
+					
+		
+
+
+
+	
+		
+			
+								FANDOM
+			
+
+							
+								
+			
+			
+
+			
+			
+				
+
+	
+	
+	
+
+
+			
+			
+				Fan Central			
+							
+					BETA				
+					
+			
+			
+				
+	
+		
+	
+
+			
+			
+				Games			
+					
+			
+			
+				
+
+	
+
+
+			
+			
+				Anime			
+					
+			
+			
+				
+	
+		
+	
+
+			
+			
+				Movies			
+					
+			
+			
+				
+	
+		
+	
+
+			
+			
+				TV			
+					
+			
+			
+				
+	
+		
+	
+
+			
+			
+				Video			
+					
+	
+			
+			
+				
+					
+
+	
+
+
+				
+				
+					Wikis				
+			
+			
+				
+											
+							
+								Explore Wikis							
+						
+											
+							
+								Community Central							
+						
+									
+			
+		
+	
+			
+			
+							
+			
+				Start a Wiki			
+		
+	
+		
+	
+
+	
+							
+
+	
+		
+					
+	
+	
+		
+
+
+	Don&#039;t have an account?
+
+	Register
+
+
+	Sign In	
+
+			
+
+	
+		
+		
+	
+		
+		Advertisement
+	
+		
+		
+			
+	
+		
+			Sign In		
+		
+						Register		
+	
+			
+	
+					
+				
+			
+				
+			
+				
+					One Piece Wiki				
+											
+			
+				7,138pages			
+			
+			
+					
+			
+					
+			
+					
+		
+		
+		
+
+	
+					
+			
+			
+				
+										Explore
+				
+							
+			
+					
+													
+			
+			
+								Main Page
+			
+		
+														
+			
+			
+								Discuss
+			
+		
+														
+			
+			
+								All Pages
+			
+		
+														
+			
+			
+								Community
+			
+		
+														
+			
+			
+								Interactive Maps
+			
+		
+														
+			
+			
+								Recent Blog Posts
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										World
+				
+							
+			
+					
+													
+			
+			
+								Characters
+							
+			
+				
+											
+			
+			
+								Straw Hat Pirates
+			
+		
+												
+			
+			
+								In Canon
+			
+		
+												
+			
+			
+								Non-Canon
+			
+		
+												
+			
+			
+								Pirates
+			
+		
+												
+			
+			
+								Marines
+			
+		
+												
+			
+			
+								Nobles
+			
+		
+												
+			
+			
+								By Race
+			
+		
+												
+			
+			
+								Antagonists
+			
+		
+										
+			
+		
+														
+			
+			
+								Locations
+							
+			
+				
+											
+			
+			
+								Grand Line
+			
+		
+												
+			
+			
+								East Blue
+			
+		
+												
+			
+			
+								New World
+			
+		
+												
+			
+			
+								Islands
+			
+		
+												
+			
+			
+								Towns and Cities
+			
+		
+										
+			
+		
+														
+			
+			
+								Organizations
+							
+			
+				
+											
+			
+			
+								Marines
+			
+		
+												
+			
+			
+								Pirate Crews
+			
+		
+												
+			
+			
+								Seven Warlords of the Sea
+			
+		
+												
+			
+			
+								Four Emperors
+			
+		
+												
+			
+			
+								World Government
+			
+		
+												
+			
+			
+								Revolutionary Army
+			
+		
+										
+			
+		
+														
+			
+			
+								Society
+							
+			
+				
+											
+			
+			
+								Occupations
+			
+		
+												
+			
+			
+								Races
+			
+		
+												
+			
+			
+								Technology
+			
+		
+												
+			
+			
+								Animal Species
+			
+		
+												
+			
+			
+								Plant and Fungi Species
+			
+		
+										
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Media
+				
+							
+			
+					
+													
+			
+			
+								Manga
+							
+			
+				
+											
+			
+			
+								Chapters and Volumes
+			
+		
+												
+			
+			
+								SBS Corners
+			
+		
+												
+			
+			
+								Story Arcs
+			
+		
+												
+			
+			
+								Cover Stories
+			
+		
+												
+			
+			
+								Volume Intros
+			
+		
+												
+			
+			
+								Books
+			
+		
+										
+			
+		
+														
+			
+			
+								Anime
+							
+			
+				
+											
+			
+			
+								Episode Guide
+			
+		
+												
+			
+			
+								Story Arcs
+			
+		
+												
+			
+			
+								One Piece Movies
+			
+		
+												
+			
+			
+								Filler
+			
+		
+												
+			
+			
+								Music
+			
+		
+										
+			
+		
+														
+			
+			
+								Merchandise
+							
+			
+				
+											
+			
+			
+								Spin-Offs
+			
+		
+												
+			
+			
+								Video Games
+			
+		
+										
+			
+		
+														
+			
+			
+								Other Media
+							
+			
+				
+											
+			
+			
+								Books
+			
+		
+												
+			
+			
+								Magazine
+			
+		
+												
+			
+			
+								Events
+			
+		
+												
+			
+			
+								Live Performances
+			
+		
+												
+			
+			
+								Live-Action Series
+			
+		
+												
+			
+			
+								Variety
+			
+		
+												
+			
+			
+								Mobile Apps
+			
+		
+										
+			
+		
+														
+			
+			
+								Mythbusters
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Community
+				
+							
+			
+					
+													
+			
+			
+								Discord Server
+			
+		
+														
+			
+			
+								Discussions
+			
+		
+														
+			
+			
+								Forums
+			
+		
+														
+			
+			
+								Recent Blogs
+			
+		
+														
+			
+			
+								Featured Articles
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Help
+				
+							
+			
+					
+													
+			
+			
+								Rules
+							
+			
+				
+											
+			
+			
+								Spoiler Rules
+			
+		
+												
+			
+			
+								Vandalism Rules
+			
+		
+												
+			
+			
+								Forum Rules
+			
+		
+												
+			
+			
+								Discussions, Blogs, and Discord Rules
+			
+		
+										
+			
+		
+														
+			
+			
+								Guidelines
+							
+			
+				
+											
+			
+			
+								Manual of Style
+			
+		
+												
+			
+			
+								Page Layouts
+			
+		
+												
+			
+			
+								Image Guidelines
+			
+		
+												
+			
+			
+								Trivia Guidelines
+			
+		
+										
+			
+		
+														
+			
+			
+								FAQ
+			
+		
+														
+			
+			
+								Referencing Information
+			
+		
+														
+			
+			
+								Administrators
+			
+		
+												
+			
+		
+				
+
+	
+
+			
+				
+					
+						
+							
+																																
+															
+																	
+													
+					
+					
+	
+		
+			
+								
+			
+										
+
+	
+		
+			English		
+		
+			
+									
+						العربية
+					
+									
+						Català
+					
+									
+						Čeština
+					
+									
+						Deutsch
+					
+									
+						Ελληνικά
+					
+									
+						Español
+					
+									
+						Euskara
+					
+									
+						Français
+					
+									
+						עברית
+					
+									
+						Bahasa Indonesia
+					
+									
+						Italiano
+					
+									
+						日本語
+					
+									
+						ქართული
+					
+									
+						한국어
+					
+									
+						မြန်မာဘာသာ
+					
+									
+						Nederlands
+					
+									
+						Norsk
+					
+									
+						Polski
+					
+									
+						Português
+					
+									
+						Română
+					
+									
+						Русский
+					
+									
+						Türkçe
+					
+									
+						Українська
+					
+									
+						Tiếng Việt
+					
+									
+						中文
+					
+							
+		
+	
+
+					
+		
+			
+				
+					Home				
+																
+			
+				
+				
+									
+												View source					
+				
+				
+									
+						
+													
+						
+							
+																	
+										
+											View history										
+									
+																	
+										
+											Talk (613)										
+									
+															
+						
+					
+											
+		
+			
+					
+																		
+
+
+
+
+
+Welcome to the One Piece Wiki!
+
+
+Read the first chapter or latest chapter | Watch the first episode or latest episode
+
+
+
+  
+    
+#portal_content-0
+#portal_content-1
+#portal_content-2
+#portal_content-3
+#portal_content-4
+#portal_content-5
+    
+    
+  
+    Sail into the World of One Piece
+    The Manga
+    The Anime
+    Characters
+    Live-Action
+  
+
+    
+  
+    
+    
+      
+      
+    
+    edit
+  
+  
+    
+Characters
+Societies
+Locations
+Organizations
+Devil Fruits
+For New Users
+
+Monkey D. Luffy
+Straw Hat Pirates
+List of Canon Characters
+List of Non-Canon Characters
+Pirates
+Marines
+By Race
+Antagonists
+
+Occupation
+By Race
+Technology
+Animal Species
+
+Grand Line
+Islands
+East Blue
+New World
+
+Marines
+Pirates
+Seven Warlords of the Sea
+Four Emperors
+World Government
+Revolutionary Army
+
+
+About Devil Fruits
+Gomu Gomu no Mi
+Paramecia
+Zoan
+Logia
+Artificial Devil Fruits
+Natural Devil Fruits
+SMILES
+Non-Canon Devil Fruits
+
+
+Guidelines to read before editing
+Referencing Information
+Customizing and Using Signatures
+Frequently Asked Questions
+Join A Wiki Crew Today!
+Chapter summaries that need work
+Episode summaries that need work
+Chat with fellow users on the Discord Chat!
+Someone will invite you.
+
+
+  
+
+    
+  
+    
+    
+      
+      
+    
+    edit
+  
+  
+    
+Volumes
+SBS
+Author's Notes
+Databooks
+Cover Stories
+
+Volumes 1-10
+Volumes 11-20
+Volumes 21-30
+Volumes 31-40
+Volumes 41-50
+Volumes 51-60
+Volumes 61-70
+Volumes 71-80
+Volumes 81-90
+Volumes 91-100
+Volumes 101-110
+Special
+
+
+SBS Volume 4
+SBS Volume 5
+SBS Volume 6
+SBS Volume 7
+SBS Volume 8
+SBS Volume 9
+SBS Volume 10
+SBS Volume 11
+SBS Volume 12
+SBS Volume 13
+SBS Volume 14
+SBS Volume 15
+SBS Volume 16
+SBS Volume 17
+SBS Volume 18
+SBS Volume 19
+SBS Volume 20
+SBS Volume 21
+SBS Volume 22
+SBS Volume 23
+SBS Volume 24
+SBS Volume 25
+SBS Volume 26
+SBS Volume 27
+SBS Volume 28
+SBS Volume 29
+SBS Volume 30
+SBS Volume 31
+SBS Volume 32
+SBS Volume 33
+SBS Volume 34
+SBS Volume 35
+SBS Volume 36
+SBS Volume 37
+SBS Volume 38
+SBS Volume 39
+SBS Volume 40
+SBS Volume 41
+SBS Volume 42
+SBS Volume 43
+SBS Volume 44
+SBS Volume 45
+SBS Volume 46
+SBS Volume 47
+SBS Volume 48
+SBS Volume 49
+SBS Volume 50
+SBS Volume 51
+SBS Volume 52
+SBS Volume 53
+SBS Volume 54
+SBS Volume 55
+SBS Volume 56
+SBS Volume 57
+SBS Volume 58
+SBS Volume 59
+SBS Volume 60
+SBS Volume 61
+SBS Volume 62
+SBS Volume 63
+SBS Volume 64
+SBS Volume 65
+SBS Volume 66
+SBS Volume 67
+SBS Volume 68
+SBS Volume 69
+SBS Volume 70
+SBS Volume 71
+SBS Volume 72
+SBS Volume 73
+SBS Volume 74
+SBS Volume 75
+SBS Volume 76
+SBS Volume 77
+SBS Volume 78
+SBS Volume 79
+SBS Volume 80
+SBS Volume 81
+SBS Volume 82
+SBS Volume 83
+SBS Volume 84
+SBS Volume 85
+SBS Volume 86
+SBS Volume 87
+SBS Volume 88
+SBS Volume 89
+SBS Volume 90
+SBS Volume 91
+SBS Volume 92
+SBS Volume 93
+SBS Volume 94
+SBS Volume 95
+SBS Volume 96
+SBS Volume 97
+SBS Volume 98
+SBS Volume 99
+SBS Volume 100
+SBS Volume 101
+SBS Volume 102
+SBS Volume 103
+SBS Volume 104
+SBS Volume 105
+SBS Volume 106
+ 
+
+
+Volume 1
+Volume 2
+Volume 3
+Volume 4
+Volume 5
+Volume 6
+Volume 7
+Volume 8
+Volume 9
+Volume 10
+Volume 11
+Volume 12
+Volume 13
+Volume 14
+Volume 15
+Volume 16
+Volume 17
+Volume 18
+Volume 19
+Volume 20
+Volume 21
+Volume 22
+Volume 23
+Volume 24
+Volume 25
+Volume 26
+Volume 27
+Volume 28
+Volume 29
+Volume 30
+Volume 31
+Volume 32
+Volume 33
+Volume 34
+Volume 35
+Volume 36
+Volume 37
+Volume 38
+Volume 39
+Volume 40
+Volume 41
+Volume 42
+Volume 43
+Volume 44
+Volume 45
+Volume 46
+Volume 47
+Volume 48
+Volume 49
+Volume 50
+Volume 51
+Volume 52
+Volume 53
+Volume 54
+Volume 55
+Volume 56
+Volume 57
+Volume 58
+Volume 59
+Volume 60
+Volume 61
+Volume 62
+Volume 63
+Volume 64
+Volume 65
+Volume 66
+Volume 67
+Volume 68
+Volume 69
+Volume 70
+Volume 71
+Volume 72
+Volume 73
+Volume 74
+Volume 75
+Volume 76
+Volume 77
+Volume 78
+Volume 79
+Volume 80
+Volume 81
+Volume 82
+Volume 83
+Volume 84
+Volume 85
+Volume 86
+Volume 87
+Volume 88
+Volume 89
+Volume 90
+Volume 91
+Volume 92
+Volume 93
+Volume 94
+Volume 95
+Volume 96
+Volume 97
+Volume 98
+Volume 99
+Volume 100
+Volume 101
+Volume 102
+Volume 103
+Volume 104
+Volume 105
+Volume 106
+Wanted!
+Volume 0
+One Piece Rainbow!
+One Piece White!
+Volume 1000
+One Piece 500 Quiz Book
+Volume 777
+Volume 10089
+Volume 4000000
+Volume 4／4
+Volume 333
+Color Walk
+One Piece Party
+Chopperman
+One Piece in Love
+One Piece School
+Kobiyama
+Fischer's
+Chin Piece
+episode A
+
+
+One Piece Red: Grand Characters
+One Piece Blue: Grand Data File
+One Piece Yellow: Grand Elements
+One Piece Green: Secret Pieces
+One Piece Blue Deep: Characters World
+Vivre Card - One Piece Visual Dictionary
+
+
+Buggy's Crew: After the Battle!
+Diary of Coby-Meppo
+Jango's Dance Paradise
+Hatchan's Sea-Floor Stroll
+Wapol's Omnivorous Hurrah
+Ace's Great Blackbeard Search
+Gedatsu's Accidental Blue-Sea Life
+Miss Goldenweek's "Operation: Meet Baroque Works"
+Enel's Great Space Operations
+CP9's Independent Report
+Straw Hat's Separation Serial
+From the Decks of the World
+Caribou's Kehihihihi in the New World
+Solo Journey of Jinbe, Knight of the Sea
+From the Decks of the World: The 500,000,000 Man Arc
+The Stories of the Self-Proclaimed Straw Hat Grand Fleet
+"Gang" Bege's Oh My Family
+Germa 66's Ahh... An Emotionless Excursion
+
+
+  
+
+    
+  
+    
+    
+      
+      
+    
+    edit
+  
+  
+    
+Episode Guide
+Movies
+Filler Arcs
+Soundtracks
+Specials
+Openings
+Endings
+
+East Blue Saga
+Arabasta Saga
+Sky Island Saga
+Water 7 Saga
+Thriller Bark Saga
+Summit War Saga
+Fish-Man Island Saga
+Dressrosa Saga
+Whole Cake Island Saga
+Wano Country Saga
+Final Saga
+
+
+One Piece: The Movie
+Clockwork Island Adventure
+Chopper's Kingdom on the Island of Strange Animals
+Dead End Adventure
+The Cursed Holy Sword
+Baron Omatsuri and the Secret Island
+The Giant Mechanical Soldier of Karakuri Castle
+Episode of Alabasta: The Desert Princess and the Pirates
+Episode of Chopper Plus: Bloom in Winter, Miracle Sakura
+One Piece Film: Strong World
+One Piece 3D: Straw Hat Chase
+One Piece Film: Z
+One Piece Film: Gold
+One Piece: Stampede
+One Piece Film: Red
+ 
+
+
+Warship Island Arc
+Post-Alabasta Arc
+Goat Island Arc
+Ruluka Island Arc
+G-8 Arc
+Ocean's Dream Arc
+Foxy's Return Arc
+Ice Hunter Arc
+Spa Island Arc
+Little East Blue Arc
+Z's Ambition Arc
+Caesar Retrieval Arc
+Silver Mine Arc
+Marine Rookie Arc
+Cidre Guild Arc
+Uta's Past Arc
+
+
+
+One Piece Soundtracks
+Movie 2 OST
+Movie 3 OST
+Movie 4 OST
+Movie 5 OST
+Movie 6 OST
+Movie 7 OST
+Movie 8 OST
+Movie 9 OST
+One Piece Film Strong World OST
+One Piece Film Z OST
+One Piece Film Gold OST
+One Piece Stampede OST
+Uta no Uta: ONE PIECE FILM RED
+One Piece Film Red OST
+
+
+
+Episode Special 1
+Episode Special 2
+Episode Special 3
+Episode Special 4
+Episode of Nami
+Episode of Luffy
+Episode of Merry
+3D2Y
+Episode of Sabo
+Adventure of Nebulandia
+Heart of Gold
+Episode of East Blue
+Episode of Sky Island
+
+
+
+We Are!
+Believe
+Hikari e
+BON VOYAGE!
+Kokoro no Chizu
+Brand New World
+Crazy Rainbow
+Jungle P
+Share the World
+Kaze wo Sagashite
+One day
+Fight Together
+We Go!
+Hands Up!
+Wake up!
+Hard Knock Days
+We Can!
+Hope
+Super Powers
+OVER THE TOP
+DREAMIN' ON
+PAINT
+Saiko Totatsuten
+
+
+
+Memories
+RUN! RUN! RUN!
+Watashi ga Iru Yo
+Shōchi no suke
+BEFORE DAWN
+Fish
+GLORY -Kimi ga Iru Kara-
+Shining ray
+Free Will
+FAITH
+A to Z
+Tsuki to Taiyo
+Dreamship
+Mirai Kōkai
+Eternal Pose (song)
+Dear Friends
+Asu wa Kuru Kara
+Adventure World
+Raise
+
+
+  
+
+    
+  
+    
+    
+      
+      
+    
+    edit
+  
+  
+    
+Straw Hats
+East Blue
+Arabasta
+Skypiea
+Water 7
+Thriller Bark
+Summit War
+New World
+Four Emperors
+Final
+
+Monkey D. Luffy
+Roronoa Zoro
+Nami
+Usopp
+Sanji
+Tony Tony Chopper
+Nico Robin
+Franky
+Brook
+Jinbe
+
+
+Shanks
+Koby
+Gaimon
+Kaya
+Johnny
+Yosaku
+Zeff
+Nojiko
+Bell-mère
+Higuma
+Alvida
+Morgan
+Helmeppo
+Buggy
+Kuro
+Krieg
+Gin
+Arlong
+ 
+
+
+Laboon
+Nefertari Vivi
+Karoo
+Dorry
+Brogy
+Dalton
+Kureha
+Portgas D. Ace
+Igaram
+Koza
+Nefertari Cobra
+Smoker
+Wapol
+Mikita
+Gem
+Marianne
+Galdino
+Bentham
+Zala
+Daz Bonez
+Crocodile
+
+
+
+Mont Blanc Cricket
+Conis
+Pagaya
+Wyper
+Gan Fall
+Aisa
+Mont Blanc Noland
+Kalgara
+Bellamy
+Enel
+Satori
+Shura
+Gedatsu
+Ohm
+
+
+Iceburg
+Paulie
+Kokoro
+Galley-La Company
+Franky Family
+Rob Lucci
+Kaku
+Jabra
+Blueno
+Kalifa
+Fukurou
+Kumadori
+Spandam
+Kuzan
+Jaguar D. Saul
+Foxy
+
+Charlotte Lola
+Gecko Moria
+Hogback
+Absalom
+Perona
+Oars
+Shimotsuki Ryuma
+Bartholomew Kuma
+
+
+Camie
+Pappag
+Hatchan
+Silvers Rayleigh
+Worst Generation
+Boa Hancock
+Emporio Ivankov
+Edward Newgate
+Marco
+Duval
+Charlos
+Marshall D. Teach
+Magellan
+Hannyabal
+Sakazuki
+Kuzan
+Borsalino
+Sentomaru
+Dracule Mihawk
+Donquixote Doflamingo
+Momonga
+
+
+
+Shirahoshi
+Neptune
+Surume
+Shyarly
+Trafalgar D. Water Law
+Kin'emon
+Kozuki Momonosuke
+Kurozumi Kanjuro
+Chadros Higelyges
+Bartolomeo
+Cavendish
+Rebecca
+Kyros
+Riku Doldo III
+Sabo
+Caribou
+Hody Jones
+Vander Decken IX
+Hyouzou
+Caesar Clown
+Monet
+Vergo
+Trebol
+Diamante
+Pica
+Senor Pink
+Buffalo
+Baby 5
+Issho
+
+
+
+Raizo
+Carrot
+Pedro
+Wanda
+Inuarashi
+Nekomamushi
+Pekoms
+Zunesha
+Capone Bege
+Kaidou
+Jack
+Charlotte Linlin
+Vinsmoke Judge
+Charlotte Katakuri
+Charlotte Pudding
+Charlotte Cracker
+Charlotte Smoothie
+Charlotte Perospero
+Kozuki Oden
+Kozuki Hiyori
+Kikunojo
+Denjiro
+Ashura Doji
+Kawamatsu
+Shinobu
+Hyogoro
+Shimotsuki Yasuie
+Yamato
+Eustass Kid
+Killer
+King
+Queen
+Who's-Who
+Black Maria
+Sasaki
+Page One
+Ulti
+Scratchmen Apoo
+Numbers
+Nika
+
+
+Vegapunk
+Shaka
+Lilith
+Edison
+Pythagoras
+Atlas
+York
+Jewelry Bonney
+Stussy
+Imu
+Jaygarcia Saturn
+Marcus Mars
+Topman Warcury
+Ethanbaron V. Nusjuro
+Shepherd Ju Peter
+Figarland Garling
+Ginny
+
+  
+
+    
+  
+    
+    
+      
+      
+    
+    edit
+  
+  
+    
+Story
+Based On
+Original Content
+
+One Piece (Live-Action Series)
+East Blue Saga
+
+Episodes
+Romance Dawn
+The Man in the Straw Hat
+Tell No Tales
+The Pirates are Coming
+Eat at Baratie!
+The Chef and the Chore Boy
+The Girl with the Sawfish Tattoo
+Worst in the East
+
+
+Monkey D. Luffy
+Roronoa Zoro
+Nami
+Usopp
+Sanji
+Shanks
+Alvida
+Buggy
+Koby
+Shells Town
+Baratie
+ 
+
+Sada
+Wier
+Meshi
+
+  
+
+  
+
+
+
+Click on the rectangles above to navigate and immerse yourself into the world of One Piece! 
+
+
+
+Help • Editing Guidebook • FAQ • Find Admins and Moderators • Forums • Blogs • Discussion Feature • Discord Chat
+Hello and welcome to the One Piece Wiki, the encyclopedia for the manga and anime, One Piece, that anyone can edit. Please feel free to contribute to our site and help us complete our goal to build the most informative site for everything related to Eiichiro Oda and his most notable work, One Piece, online. From all the editors here at the One Piece Wiki, thank you for your contributions.
+
+
+
+Please be aware, before progressing any further, that this site contains heavy SPOILERS.
+
+
+
+Featured Article
+
+
+
+
+Artificial Devil Fruits are manmade fruits designed to give consumers special powers like a natural Devil Fruit would. Two types of artificial fruits have been created: one by Vegapunk and the other, known as SMILE, by Caesar Clown.
+Read more about this article →
+
+
+
+Random Quote
+
+
+
+
+
+ 
+  “
+  What?
+
+  ”
+ 
+
+
+ 
+  — Monkey D. Luffy, when asked if he knew who Straw Hat Luffy was.
+  
+ 
+
+
+
+
+
+
+
+Current Events
+
+
+Manga
+
+
+Chapter 1100: "Thank You Bonney"
+After Kizaru arrives at the lab, St. Saturn contacts them and blackmails Vegapunk and Kuma with a list of demands to approve of Bonney being cured of Sapphire Scales including that Kuma become a cyborg with no memories, and a member of the Seven Warlords or Bonney will become a slave which Kuma gladly accepts. With a year and a half of treatment, Bonney spends six months with them, and then is sent back to Sorbet Kingdom for the remaining year with a member of CP8 keeping her under observation. Meanwhile, Kuma begins his life as a warlord and is sent an undisclosed mission to Foosha Village.
+
+Read More →
+Next Chapter Release: December 10 2023 07:00:00 PST
+
+
+
+
+Anime
+
+
+Episode 1086: "A New Emperor! Buggy the Star Clown!"
+As the Straw Hats leave Wano, they find out their new bounties. Meanwhile, on Karai Bari Island, Mihawk and Crocodile confront Buggy for being portrayed as the clown's subordinates. However, they relent after they realize that it isn't the worst idea to have Buggy bear the brunt of the Marines' attention and have him become one of the new Emperors of the Sea. Thus, the Cross Guild is established with Buggy as the figurehead, and Mihawk and Crocodile as its Chief Officers.
+Next Episode Release: December 10, 2023 09:30:00 UTC+9
+
+
+
+
+
+Latest blog posts
+
+
+
+
+					
+			
+				
+					
+						
+					
+					Vasiqo
+					 • 
+					4 days ago
+				
+				
+										0
+				
+			
+			
+				12 Supreme Grade swords
+			
+			
+				In the vast and awe-inspiring world of One Piece, swords aren't just mere weapons; they are legendary artifacts, each carrying a unique tale of power, history, and often, a touch o…			
+			
+				Read Full Post			
+		
+			
+			
+				
+					
+						
+					
+					IGandRick
+					 • 
+					6 days ago
+				
+				
+										3
+				
+			
+			
+				Favorite One Piece characters?
+			
+			
+				I am a Luffy fan right of the bat. I’ll always represent for Luffy he’s a power house and an amazing captain and leader.
+			
+			
+				Read Full Post			
+		
+			
+			
+				
+					
+						
+					
+					Kentenko
+					 • 
+					1 November
+				
+				
+										2
+				
+			
+			
+				Blood-Blood Fruit: Japanese Name Suggestions Welcome
+			
+			
+				The Blood Blood is a Paramecia type Devil Fruit that turns the user into a Blood Manipulating human.
+Blood Manipulation: The primary power of this fruit is the ability to manipulat…			
+			
+				Read Full Post			
+		
+		
+
+
+Others →
+
+
+
+One Piece Sites
+
+
+
+
+Official Sites
+One Piece Official - FUNimation's official One Piece site. Watch episodes online and see the latest subs an hour after they've aired in Japan.
+Weekly Shōnen Jump - The original Japanese manga anthology magazine that releases new One Piece chapters each week.
+One Piece Manga - Viz Media's official One Piece manga site.
+ONE PIECE.com - Official Japanese One Piece portal.
+ONE PIECE WEB - Official Japanese One Piece manga recaps (pre-timeskip only).
+Japanese DVD/CD Site - Avex Mode's official One Piece DVD/CD site.
+General Content Sites
+Arlong Park - Arguably the most famous One Piece community on the net.
+Unofficial One Piece Podcast - A weekly Podcast with news, reviews, interviews, and more.
+/r/OnePiece - The One Piece community on reddit.
+WorstGen Forums - An active One Piece community.
+Alternative Storyline
+One Piece: Ship of Fools - Make your own pirate, and join in on an alternate One Piece world. Founded by One Piece Wiki members.
+Wiki's Social Media Accounts
+Facebook - One Piece Wikia's Facebook
+Twitter - One Piece Wikia's Twitter
+YouTube - One Piece Wikia's YouTube channel
+
+
+
+
+Affiliates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+On This Day
+
+
+December 6
+
+
+
+ Happy Birthday, Igaram!
+
+1999: Chapter 115 "Adventure in Little Garden" was released in Shonen Jump issue #1.
+2000: Episode 51 "A Burning Culinary Battle? Sanji vs. The Gorgeous Chef" premiered.
+2004: Chapter 347 "Rokushiki" was released in Shonen Jump issue #1.
+2009: Episode 429 "Movie-connected Special: The Decisive Battle! Luffy vs. Largo" premiered.
+2010: Chapter 606 "Adventure in the Ocean Depths" was released in Shonen Jump issue #1.
+2011: Volume 59 "Portgas D. Ace Dies" was published in in the United States.
+2015: Episode 721 "Law Dies - Luffy's Raging Onslaught!" premiered.
+2020: Episode 953 "Hiyori's Confession! A Reunion at Oihagi Bridge" premiered.
+2021: Chapter 1034 "Sanji vs. Queen" was released in Shonen Jump issue #1.
+2022: Volume 101 "The Stars Take the Stage" was published in the United States.
+
+
+
+Content
+
+
+Episodes
+
+One Piece
+
+Chapters
+
+
+Movies
+
+Atlas
+
+History
+
+
+Culture
+
+Characters
+
+Zoology
+
+
+Merchandise
+
+Cast
+
+International
+
+
+
+Upcoming Japanese ReleasesUpcoming English Releases
+
+
+Manga
+
+DVD
+
+
+
+Japan — November 2, 2023
+
+Volume 107
+Releases in November 2, 2023 00:00:00 +0900
+
+
+
+Manga
+
+DVD
+
+
+
+Japan — December 6, 2023
+
+Season 20 — Wano Country Piece 48
+Releases in December 6, 2023 00:00:00 +0900
+
+
+
+Manga
+
+DVD
+
+
+
+United States — March 12, 2024
+
+Volume 105 — Luffy's Dream
+Releases in March 12, 2024 00:00:00 EST
+
+
+
+Manga
+
+DVD
+
+
+
+United States — December 12, 2023
+
+Collection 33
+Releases in December 12, 2023 00:00:00 EST
+
+
+
+Change to: Change to: 
+
+
+
+Did you know...?
+
+
+
+That the Going Merry received a Viking Funeral?
+Although the One Piece movies are non-canon, Oda draws most of the characters for each movie himself?
+The Bezan Black is the name of the ship that the Black Cat Pirates and Captain Kuro sailed?
+
+
+Mythbusters
+
+
+Don't get caught out by the editors' and fans' worst input; check out the Mythbusters page!
+
+
+Twitter
+
+
+Reminders and All-time News
+
+
+
+Make sure uploaded images
+follow our guidelines.
+
+
+Use talk pages to resolve conflicts, not edit wars.
+
+
+Looking for a way to get involved on the wiki? Check out the Research Crew!
+
+
+
+Site News
+
+
+
+
+
+No recent news.
+
+
+
+Old News
+
+
+
+January 20, 2020
+
+The wiki will now update new manga information when chapters are officially released on Manga Plus and VIZ on Sundays.
+January 13, 2017
+
+Our Discord Chat is now live! Come chat with us via the widget or this link https://discord.gg/MrhkyUZ 
+
+
+
+Latest Projects
+
+
+
+Please check and participate in these projects:
+• Revamping Featured Articles |Kaido King of the Beasts (10/01 00:36)• Separate Volume Pages Project |JapaneseOPfan (07/08 05:55)• Categorization Fixing Project |AuroraOfDeath (07/04 01:16)
+
+
+
+Latest Activity
+
+
+
+No active polls at the moment.
+
+No polls being discussed at the moment.
+
+Please check and participate in this forum:
+• Giving those who worked on One Piece a page here. |GotenSakurauchi (11/19 08:35)
+Please check and participate in these discussions:
+• Kozuki Family |GotenSakurauchi (11/19 08:19)• Diseases |KingCannon (11/15 01:31)• Transgender Characters |Walrsu (11/13 06:39)• Hyogoro |Walrsu (11/05 20:48)• Ashura Doji |Walrsu (11/05 20:48)• Gomu Gomu no Mi/Gear 5 Techniques |Buh6173 (11/02 00:33)• Story Arcs |Joekido (09/12 18:48)
+
+
+
+
+
+7,138 articles have been created since opening on February 14, 2006
+
+
+
+Overview · 
+Index · 
+Categories · 
+Help · 
+FAQ ·
+Copyrights
+
+
+
+
+
+Explore One Piece!
+
+
+      
+
+
+
+
+
+
+Weekly Shōnen Jump Wikis
+
+
+
+One Piece • Hunter × Hunter • My Hero Academia • Black Clover • Jujutsu Kaisen • Mission: Yozakura Family • Undead Unluck • Me &amp; Roboco • Burn the Witch • Sakamoto Days • The Elusive Samurai • Witch Watch • Blue Box • Akane-banashi • RuriDragon • Cipher Academy • Kill Blue • Nue's Exorcist • Martial Master Asumi • MamaYuyu • Kagurabachi • Two on Ice • Green Green Greens • Shadow Eliminators
+
+
+
+
+
+
+Ongoing Anime Spotlights 
+
+
+
+Dr. Stone: New World Part 2
+Jujutsu Kaisen 2nd Season
+One Piece
+Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
+Undead Unluck
+
+
+
+
+
+Upcoming Anime Spotlights 
+
+
+
+Bleach: Sennen Kessen-hen - Soukoku-tan
+Blue Box
+Demon Slayer: Hashira Training Arc
+Fist of the North Star
+Haikyu!! FINAL
+Kinnikuman
+Mashle Season 2
+Me and Roboco Movie
+Mission: Yozakura Family
+Monsters: Ippyakusanjo Hiryu Jigoku
+My Hero Academia Season 7
+My Hero Academia Movie 4
+Naruto (Shinsaku Anime)
+The Elusive Samurai
+
+
+
+
+
+
+
+
+
+Finished Manga Series
+Act-Age • Agravity Boys • Aliens Area • Assassination Classroom • Ayakashi Triangle • Ayashimon • Bakuman • Bastard!! • Beast Children • Beelzebub • Black Cat • Black Clover • Bleach • Bobobo-bo Bo-bobo • Bone Collection • Boruto • Bozebeats • Build King • Buso Renkin • Candy Flurry • Captain Tsubasa • Chainsaw Man • City Hunter • Cyber Blue • D.Gray-man • Death Note • Demon's Plan • DNA² • dorondororon • Dr. Slump • Dr. Stone • Dragon Ball • Earthchild • Eyeshield 21 • Ginka &amp; Glüna • Gintama • Guardian of the Witch • Fabricant 100 • Fist of the North Star • Haikyu!! • Hard-Boiled Cop and Dolphin • Hell Teacher Nūbē • High School Family: Kokosei Kazoku • Hikaru no Go • Hinomaru Sumo • Hoshin Engi • Hungry Joker • Ichigo 100% • Ichigoki's Under Control!! • Iron Knight • i tell c • JoJo's Bizarre Adventure • Kagamigami • Kain • Yui Kamio Lets Loose • Katekyō Hitman Reborn! • Demon Slayer: Kimetsu no Yaiba • Kinnikuman • Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo • Kurogane • Kuroko no Basuke • Majin Tantei Nōgami Neuro • Magu-chan: God of Destruction • Mashle: Magic and Muscles • Medaka Box • Mieru Hito • Mitama Security: Spirit Busters • Mononofu • Moriking • Muhyo and Roji's Bureau of Supernatural Investigation • Naruto • Neru: Way of the Martial Artist • Nine Dragons' Ball Parade • Ninku • Nisekoi • Nura: Rise of the Yokai Clan • Our Blood Oath • Phantom Seer • PPPPPP • Psyren • Prince of Tennis • Pyu to Fuku! Jaguar • Robot x LaserBeam • Rokudenashi Blues • Rurouni Kenshin • Saiki Kusuo no Psi-nan • Saint Seiya • Sakigake!! Otokojuku • Samon-kun wa Summoner • Samurai 8: The Tale of Hachimaru • Sensei no Bulge • Shaman King • Shinmai Fukei Kiruko-san • Food Wars: Shokugeki no Soma • Sket Dance • Slam Dunk • Smoky B.B. • Soul Catcher(S) • Stealth Symphony • Super Smartphone • Takamagahara • Tenmaku Cinema • The Hunters Guild: Red Hood • The Ichinose Family's Deadly Sins • Time Paradox Ghostwriter • To Love-Ru • Tokyo Shinobi Squad • Toriko • Tottemo! Luckyman • We Never Learn • Whistle! • World Trigger • The Promised Neverland • Yoakemono • Yu-Gi-Oh! • Yuuna and the Haunted Hot Springs • Yū☆Yū☆Hakushō • Zipman!! • Zombiepowder.
+
+
+
+
+
+
+
+
+
+
+DiscussWiki ListSpotlight Request
+
+
+Fall Season 2023 Anime Wikis
+A Returner's Magic Should Be Special
+Ancient Magus Bride Season 2 Part 2
+Arknights: Perish in Frost
+Atarashii Joushi wa Do Tennen
+B-Project: Netsuretsu*Love Call
+Berserk of Gluttony
+Bikkuriman (2023)
+Bullbuster
+Captain Tsubasa Season 2: Junior Youth-hen
+Dead Mount Death Play Part 2
+Dr. Stone: New World Part 2
+FLCL: Shoegaze
+Frieren: Beyond Journey's End
+Goblin Slayer Season 2
+Houkago Shounen Hanako-kun
+Hoshikuzu Telepath
+Hypnosis Mic: Division Rap Battle - Rhyme Anima +
+I'm in Love with the Villainess
+Kanojo mo Kanojo Season 2
+Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.
+Kibou no Chikara: Otona Precure '23
+Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo
+Kizuna no Allele Season 2
+Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu
+MF Ghost
+Nanatsu no Taizai: Mokushiroku no Yonkishi
+Ojou to Banken-kun
+Paradox Live the Animation
+Potion-danomi de Ikinobimasu!
+Ragna Crimson
+Rail Romanesque 2nd Season
+Ron Kamonohashi: Deranged Detective
+Seiken Gakuin no Makentsukai
+Shangri-La Frontier
+Shy
+Spy x Family Season 2
+Tearmoon Empire
+The Apothecary Diaries
+The Faraway Paladin Seaaon 2
+The iDOLM@STER Million Live!
+The Rising of the Shield Hero Season 3
+The Saint's Magic Power Is Omnipotent Season 2
+The Vexations of a Shut-In Vampire Princess
+Toaru Ossan no VRMMO Katsudouki
+Tokyo Revengers: Tenjiku-hen
+Uma Musume: Pretty Derby Season 3
+Undead Unluck
+Under Ninja
+TV (Multiseason)
+Dark Gathering
+Helck
+Hirogaru Sky! Precure
+Jujutsu Kaisen 2nd Season
+Rurouni Kenshin: Meiji Swordsman Romantic Story (2023)
+Shadowverse Flame: Seven Shadows-hen
+Yu-Gi-Oh! Go Rush!!
+ONA
+Akuma-kun
+Ensemble Stars!! Tsuioku Selection Crossroad
+Good Night World
+Gundam Build Metaverse
+Onmyoji
+Onimusha
+Pluto
+OVA
+Tensei shitara Slime Datta Ken: Coleus no Yume
+Specials
+Jashin-chan Dropkick: Seikimatsu-hen
+Hyakushou Kizoku Specials
+My Hero Academia: UA Heroes Battle
+Temple Specials
+Film
+Digimon Adventure 02: The Beginning
+Ghost in the Shell: SAC_2045
+Girls &amp; Panzer: Saishuushou Part 4
+Hi no Tori: Eden no Hana
+Kitarou Tanjou: Gegege no Nazo
+Madogiwa no Totto-chan
+My Next Life as a Villainess: All Routes Lead to Doom! Movie
+Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai
+Spy x Family Movie: Code: White
+Sumikko Gurashi Movie 3: Tsugihagi Koujou no Fushigi na Ko
+[Edit this list]
+
+
+
+Anime / Manga Hub December Spotlights:
+Kagurabachi
+Yakuza Fiance
+My Love Story with Yamada-kun at Lv999
+
+
+
+All • Action • Adventure • Comedy • Drama • Fantasy • Horror • Mecha • Mystery • Romance • Sci-fi • Slice of Life • Sports • Supernatural • Memes • Funimation
+
+
+
+
+
+
+
+
+
+
+
+
+					
+					
+						
+	
+		
+			Categories					
+		
+							
+
+	
+		
+			Categories: 
+						
+	Pages using DynamicPageList3 parser tag
+	
+
+			
+	One Piece Encyclopedia
+	
+
+	
+					
+			
+	
+					
+	
+							
+		
+			Languages					
+		
+							العربية
+							Català
+							Čeština
+							Deutsch
+							Ελληνικά
+							Español
+							Euskara
+							Français
+							עברית
+							Bahasa Indonesia
+							Italiano
+							日本語
+							ქართული
+							한국어
+							မြန်မာဘာသာ
+							Nederlands
+							Norsk
+							Polski
+							Português
+							Română
+							Русский
+							Türkçe
+							Українська
+							Tiếng Việt
+							中文
+					
+	
+
+														
+		Community content is available under CC-BY-SA unless otherwise noted.	
+						
+						
+	
+	
+		More Fandoms
+	
+	
+		
+			Fantasy
+		
+	
+
+
+
+					
+				
+							
+			
+	
+		
+		Advertisement
+	
+			
+
+	
+		
+			Fan Feed			
+			
+				
+											
+							
+								More One Piece Wiki
+							
+							
+																	
+										
+											1
+											Story Arcs
+										
+									
+																	
+										
+											2
+											Monkey D. Luffy
+										
+									
+																	
+										
+											3
+											Straw Hat Pirates
+										
+									
+															
+						
+										
+					
+				
+
+				
+					
+					
+					
+				
+
+				
+					
+					
+					
+				
+			
+		
+	
+
+		
+					
+	
+		
+			
+				
+					
+				
+			
+			
+			Explore properties
+	
+	
+	
+			
+							
+					
+													Fandom											
+				
+							
+					
+													Muthead											
+				
+							
+					
+													Fanatical											
+				
+					
+	
+			
+			Follow Us
+	
+	
+	
+			
+							
+					
+																								
+				
+							
+					
+																								
+				
+							
+					
+																								
+				
+							
+					
+																								
+				
+							
+					
+																								
+				
+					
+	
+		
+		
+			
+			Overview
+	
+	
+	
+			
+							
+					
+													What is Fandom?											
+				
+							
+					
+													About											
+				
+							
+					
+													Careers											
+				
+							
+					
+													Press											
+				
+							
+					
+													Contact											
+				
+							
+					
+													Terms of Use											
+				
+							
+					
+													Privacy Policy											
+				
+							
+					
+													Global Sitemap											
+				
+							
+					
+													Local Sitemap											
+				
+					
+	
+		
+		
+			
+			Community
+	
+	
+	
+			
+							
+					
+													Community Central											
+				
+							
+					
+													Support											
+				
+							
+					
+													Help											
+				
+							
+					
+													Do Not Sell or Share My Personal Information											
+				
+					
+	
+			
+			Advertise
+	
+	
+	
+			
+							
+					
+													Media Kit											
+				
+							
+					
+													Contact											
+				
+					
+	
+		
+		
+			
+			Fandom Apps
+	
+			Take your favorite fandoms with you and never miss a beat.	
+	
+	
+			
+	
+	
+			
+	
+			
+							
+					
+													
+											
+				
+							
+					
+													
+											
+				
+					
+	
+		
+	
+	
+					One Piece Wiki is a FANDOM Anime Community.
+							
+				
+					View Mobile Site				
+			
+			
+
+			
+
+	
+		window.RLQ = window.RLQ || [];
+		window.RLQ.push(() => {
+			mw.config.set('wgPageActions', {"3":{"class":false,"text":"View history","href":"\/wiki\/One_Piece_Wiki?action=history","id":"ca-history","accesskey":"h","data-tracking":"ca-history-dropdown"},"11":{"class":"","text":"Talk (613)","href":"\/wiki\/Talk:One_Piece_Wiki","exists":true,"primary":true,"context":"talk","rel":"discussion","id":"ca-talk","accesskey":"t","data-tracking":"ca-talk-dropdown"}});
+		})
+	
+
+	
+		
+				
+		Follow on IG
+	
+	
+		TikTok
+	
+	
+		Join Fan Lab
+	
+
+			
+							
+		
+	
+
+	
+		
+			
+				
+					
+				
+				
+					
+						
+					
+				
+			
+		
+	
+
+
+window.fandomContext = {"site":{"categories":["ent","comics","anime"],"directedAtChildren":false,"siteName":"onepiece","top1000":true,"tags":{"tv":["netflix","adult swim","amazon","cn","funimation","hulu","crunchyroll","fox"],"sex":["m","f"],"bundles":["sensitive","apple_sea_bundle","obi_wan_kenobi_bundle","alc21_bundle","video_tier_1_and_2_bundle","onepiece_franchise","25_bundle","21_bundle"],"fran":["one_piece"],"theme":["pirates","mecha","humor","military","monster","sword","japan","supernatural","gangster","robots"],"gnre":["hackandslash","live-action","rpg","openworld","storytelling","adventure","lightnovel","manga","thriller","shonen","anime","fantasy","drama","action","racing","comedy","fighting"],"media":["cards","tv","movies","games","anime","comics","lightnovel","books"],"pub":["namco","bandainamco"],"age":["35-44","teen","13-17","18-34","kids","45-54","yadult","25-34","under18","18-24"],"pform":["psp","pc","ps3","xboxone","psvita","mobile","ds","wii","3ds","ps2","ps4","switch"]},"taxonomy":["ent","anime"]},"page":{"articleId":291028,"lang":"en","pageId":291028,"pageName":"One_Piece_Wiki","pageType":"home","tags":{"tv":["crunchyroll","amazon","cn","funimation"],"theme":["japan"],"gnre":["anime","comedy","manga","shonen"],"media":["lightnovel"],"pub":["bandainamco","namco"],"pform":["3ds"]},"wordCount":3303}}
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.456","walltime":"0.811","ppvisitednodes":{"value":1758,"limit":1000000},"postexpandincludesize":{"value":238602,"limit":2097152},"templateargumentsize":{"value":66427,"limit":2097152},"expansiondepth":{"value":22,"limit":100},"expensivefunctioncount":{"value":1,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":54738,"limit":5000000},"timingprofile":["100.00%  409.274      1 -total"," 56.80%  232.477      1 Template:Recent_blog_post"," 20.29%   83.042      1 Template:Community-corner","  6.97%   28.536      1 Template:Current_Events","  6.05%   24.755      7 Template:Slider_generator","  5.94%   24.326      1 Template:Current_Events/Anime","  5.53%   22.617      1 Template:WhichAnimeDate","  5.49%   22.469      1 Template:Introduction","  5.01%   20.524      1 Template:Slider","  3.62%   14.825      1 Template:Count/episodes"]},"cachereport":{"timestamp":"20231206175421","ttl":3600,"transientcontent":true}}});});
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":121});});
+</body>

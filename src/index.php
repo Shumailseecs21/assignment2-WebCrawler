@@ -8,49 +8,70 @@
 </head>
 <body>
 
-<div class="container">
+<div class="container" id="container">
   <h1>Welcome to Search Crawler!</h1>
   <h2>You can search anything</h2>
-  <form>
-    <input type="text" placeholder="Write any word to search">
+  <form action="" method="POST">
+    <input name="searchInput" type="text" placeholder="Write any word to search" id="searchForm">
     <input type="submit" value="Search">
   </form>
 </div>
-<div class="container">
-    <h1>Search Results</h1>
-
     <?php
 
     // Check if the search parameter is set
-    if (isset($_GET['search'])) {
-        $searchTerm = $_GET['search'];
+    if (isset($_POST['searchInput'])) {
+        echo "<script>
+            var searchResultsDiv = document.createElement('div');
+            searchResultsDiv.id = 'container2';
+            searchResultsDiv.className='container';
+            
+            var h1Element = document.createElement('h1');
+            h1Element.innerHTML = 'Search Results';
+            
+            searchResultsDiv.appendChild(h1Element);
+            
+            document.body.appendChild(searchResultsDiv);
+            </script>";
+        $searchTerm = $_POST['searchInput'];
         $resultFiles = glob('./results/result-*.txt');
-        print_r($resultFiles);
-        echo "<script>console.log($resultFiles)</script>";
         // Loop through each result file
         foreach ($resultFiles as $resultFile) {
             $fileContent = file_get_contents($resultFile);
 
             // Check if the search term exists in the file content
             if (stripos($fileContent, $searchTerm) !== false) {
-                echo "<h2>Match found in $resultFile</h2>";
+                echo "<script>
+                var searchResultsDiv=document.getElementById('container2');
+                const h2Element = document.createElement('h2');
+                h2Element.textContent = 'Match found in $resultFile';
+                console.log(h2Element);
+                searchResultsDiv.appendChild(h2Element);
+                </script>";
                 // Read the first line from the file
                 $firstLine = fgets(fopen($resultFile, 'r'));
-
+                
                 // Extract the URL from the first line
                 $urlExtract = trim(str_replace('URL:', '', $firstLine));
-                echo "<br>" . $fileContent;
+                echo "<script>
+                var searchResultsDiv=document.getElementById('container2');
+                const pElement = document.createElement('p');
+                pElement.innerHTML=`$fileContent`;
+                console.log(pElement);
+                searchResultsDiv.appendChild(pElement);
+                </script>";
             }
-        }
-
-        // If no matches were found
-        if (!isset($fileContent) || empty($fileContent)) {
-            echo "<p>No matches found.</p>";
+            else{
+                echo "<script>
+                var searchResultsDiv=document.getElementById('container2');
+                const h2Element = document.createElement('h2');
+                h2Element.innerHTML = 'Match not found';
+                searchResultsDiv.appendChild(h2Element);
+                </script>";
+            }
         }
     }
     ?>
 
-</div>
 
 </body>
 </html>

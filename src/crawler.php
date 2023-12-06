@@ -91,33 +91,33 @@ class UrlQueue {
         $counterFileName = './counter.txt';
             
         $counter = (int)file_get_contents($counterFileName);
-        
-        if($depth>1){
-            if($urlQueue->isEmpty()){ //if queue is empty then exit the crawling
-                exit();
-            }
-
-            $filenameHtmlExtract = 'results/result-' . $counter . '.txt';
-
-            // Read the first line from the file
-            $firstLine = fgets(fopen($filenameHtmlExtract, 'r'));
-
-            // Extract the URL from the first line
-            $urlExtract = trim(str_replace('URL:', '', $firstLine));
-            if($urlExtract===$url){
-                $nextUrlExtract = $urlQueue->dequeue();            
-                $urlQueue->crawlUrl($nextUrlExtract, $depth, $urlQueue);
-
-            }
-        }
-        
         // Check if the URL is allowed by robots.txt
         if (!isUrlAllowedByRobotsTxt($url)) {
             echo "URL not allowed by robots.txt: $url\n";
             return;
         }
-        
         if ($depth <= MAX_DEPTH) {
+            if($depth>1){
+                if($urlQueue->isEmpty()){ //if queue is empty then exit the crawling
+                    exit();
+                }
+
+                $filenameHtmlExtract = 'results/result-' . $counter . '.txt';
+
+                // Read the first line from the file
+                $firstLine = fgets(fopen($filenameHtmlExtract, 'r'));
+
+                // Extract the URL from the first line
+                $urlExtract = trim(str_replace('URL:', '', $firstLine));
+                if($urlExtract===$url){
+                    $nextUrlExtract = $urlQueue->dequeue();            
+                    $urlQueue->crawlUrl($nextUrlExtract, $depth, $urlQueue);
+
+                }
+            }
+            
+            
+            
             // Fetch the content of the page
             $htmlContent = file_get_contents($url);
             

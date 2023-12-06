@@ -6,16 +6,30 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-flow: column;
+    flex-flow: column; 
+    box-sizing: border-box;   
 }
 
-.container {
+#container.container{
     text-align: center;
     background-color: #ffffff;
     padding: 50px;
+    margin: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 60%;
+    width: auto;
+    margin-bottom: 20px;
+}
+#container2.container{
+    text-align: center;
+    background-color: #ffffff;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: auto;
+    margin-bottom: 20px;
+    overflow: hidden;
 }
 
 h1 {
