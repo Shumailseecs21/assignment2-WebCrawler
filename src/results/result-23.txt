@@ -1,0 +1,4630 @@
+URL: http://onepiece.fandom.com/wiki/Straw_Hat_Pirates
+
+
+
+
+
+Straw Hat Pirates | One Piece Wiki | Fandom
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"ebf90d7a111ab2200fa9b254a2d95061","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Straw_Hat_Pirates","wgTitle":"Straw Hat Pirates","wgCurRevisionId":1977818,"wgRevisionId":1977818,"wgArticleId":1439,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Featured Articles","Four Emperors Groups","Worst Generation Crews","East Blue Pirate Crews","Super Rookie Crews"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Straw_Hat_Pirates","wgRelevantArticleId":1439,"wgIsProbablyEditable":false,
+"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgNoExternals":false,"wgArticleInterlangList":["ar:قراصنة قبعة القش","ca:Pirates del Barret de Palla","de:Mugiwara-Piratenbande","es:Piratas de Sombrero de Paja","eu:Lasto Txapelaren Piratak","fr:L'Équipage du Chapeau de Paille","id:Bajak Laut Topi Jerami","it:Pirati di Cappello di paglia","nl:Straw hat pirates","pl:Załoga Słomkowego Kapelusza","pt-br:Piratas do Chapéu de Palha","ro:Piraţii Pălărie de Paie","ru:Пираты Соломенной Шляпы","tr:Hasır Şapka Korsanları","zh:草帽一伙"],"wikiaPageType":"article","isDarkTheme":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"egMapsScriptPath":"/extensions-ucp/mw139/Maps/","egMapsDebugJS":false,"egMapsAvailableServices":["leaflet",
+"googlemaps3"],"egMapsLeafletLayersApiKeys":{"MapBox":"","MapQuestOpen":"","Thunderforest":"","GeoportailFrance":""},"wgIsTestModeEnabled":false,"wgEnableLightboxExt":true,"wgDisableCMSNotifications":false,"wgEditSubmitButtonLabelPublish":false,"mwAuthBaseUrl":"https://auth.fandom.com","personalizedRecommendationsMessage":"Recommended for you","wgPerformanceMonitoringSamplingFactor":10,"wgPerformanceMonitoringEndpointUrl":"https://beacon.wikia-services.com/__track/special/performance_metrics?w=1081\u0026lc=en\u0026d=onepiece\u0026s=ucp_desktop\u0026u=0\u0026i=sjc-prod\u0026a=0","wgSoftwareVersion":"master@release-718.001","wgFandomQuizzesEnabled":false,"wgFandomQuizzesOnFepoEnabled":false,"wgFandomQuizzesGenAiQuizzesOnArticlesEnabled":false,"wgFandomQuizzesCommunityQuizzesOnArticlesEnabled":false,"wgPageLanguageHasWordBreaks":true,"egFacebookAppId":"112328095453510","wgDisableAnonymousEditing":true,"comscoreKeyword":"wikiacsid_anime","quantcastLabels":
+"Genre.hackandslash,Genre.live-action,Genre.rpg,Genre.openworld,Genre.storytelling,Genre.adventure,Genre.lightnovel,Genre.manga,Genre.thriller,Genre.shonen,Genre.anime,Genre.fantasy,Genre.drama,Genre.action,Genre.racing,Genre.comedy,Genre.fighting,Media.cards,Media.tv,Media.movies,Media.games,Media.anime,Media.comics,Media.lightnovel,Media.books,Theme.pirates,Theme.mecha,Theme.humor,Theme.military,Theme.monster,Theme.sword,Theme.japan,Theme.supernatural,Theme.gangster,Theme.robots,TV.netflix,TV.adult swim,TV.amazon,TV.cn,TV.funimation,TV.hulu,TV.crunchyroll,TV.fox","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category"},"wgEnableDiscussions":true,"viewTrackURL":"https://beacon.wikia-services.com/__track/view?a=1439\u0026n=0\u0026env=prod\u0026c=1081\u0026lc=en\u0026lid=75\u0026x=onepiece\u0026s=ucp_desktop\u0026mobile_theme=fandom-light\u0026rollout_tracking=mw139","viewTrackUrlPrefix":
+"https://beacon.wikia-services.com/__track/view?a=1439\u0026n=0\u0026env=prod\u0026c=1081\u0026lc=en\u0026lid=75\u0026x=onepiece\u0026s=ucp_desktop\u0026mobile_theme=fandom-light\u0026rollout_tracking=mw139","wgEnableHydraFeatures":false,"wgAmplitudeApiKey":"6765a55f49a353467fec981090f1ab6a","wgUserIdForTracking":-1,"wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["de","en","es","fr"],"wgRequestInWikiContext":true,"wgIsFancentralWiki":false,"wgArticleFeaturedVideo":{"lang":"en","mediaId":"sXWp3rZ0","isDedicatedForArticle":false,"impressionsPerSession":3,"tier3Mapping":false,"metadata":{"name":"Attack On Titan Fans Take Fandom Wiki Quiz","thumbnailUrl":"https://cdn.jwplayer.com/v2/media/uKMfq9l1/poster.jpg?width=720","uploadDate":"2023-10-25T20:17:43+00:00","duration":"PT03M36S","description":"Cosplayers at New York Comic Con 2023 take our Attack on Titan Fandom Wiki Quiz. How many of these questions can you answer correctly?","contentUrl":
+"https://cdn.jwplayer.com/videos/uKMfq9l1-cSpmBcaY.mp4"},"feedid":"sXWp3rZ0","links":{"first":"https://cdn.jwplayer.com/v2/playlists/sXWp3rZ0?max_resolution=1280\u0026format=json\u0026internal=false\u0026page_offset=1\u0026page_limit=1","last":"https://cdn.jwplayer.com/v2/playlists/sXWp3rZ0?max_resolution=1280\u0026format=json\u0026internal=false\u0026page_offset=12\u0026page_limit=1","next":"https://cdn.jwplayer.com/v2/playlists/sXWp3rZ0?max_resolution=1280\u0026format=json\u0026internal=false\u0026page_offset=2\u0026page_limit=1"},"playlist":[{"title":"Attack On Titan Fans Take Fandom Wiki Quiz","mediaid":"uKMfq9l1","link":"https://cdn.jwplayer.com/previews/uKMfq9l1","image":"https://cdn.jwplayer.com/v2/media/uKMfq9l1/poster.jpg?width=720","feedid":"sXWp3rZ0","duration":216,"sources":[{"file":"https://cdn.jwplayer.com/manifests/uKMfq9l1.m3u8?max_resolution=1280","type":"application/vnd.apple.mpegurl"},{"file":"https://cdn.jwplayer.com/videos/uKMfq9l1-TI0yeHZW.mp4","type":"video/mp4",
+"height":180,"width":320,"label":"180p","bitrate":440247,"filesize":11886682,"framerate":30},{"file":"https://cdn.jwplayer.com/videos/uKMfq9l1-DnzUC89Y.mp4","type":"video/mp4","height":270,"width":480,"label":"270p","bitrate":618785,"filesize":16707218,"framerate":30},{"file":"https://cdn.jwplayer.com/videos/uKMfq9l1-xhZUqUI6.mp4","type":"video/mp4","height":406,"width":720,"label":"406p","bitrate":828085,"filesize":22358305,"framerate":30},{"file":"https://cdn.jwplayer.com/videos/uKMfq9l1-1lt3rSsE.mp4","type":"video/mp4","height":720,"width":1280,"label":"720p","bitrate":1855112,"filesize":50088031,"framerate":30},{"file":"https://cdn.jwplayer.com/videos/uKMfq9l1-LiJWxqIn.m4a","type":"audio/mp4","label":"AAC Audio","bitrate":113731,"filesize":3070754},{"file":"https://cdn.jwplayer.com/videos/uKMfq9l1-cSpmBcaY.mp4","type":"video/mp4","height":1080,"width":1920,"label":"1080p","bitrate":3699754,"filesize":99893383,"framerate":30}],"SourceID":"","mcold":"","IP":"Attack on Titan","Person"
+:"","Sponsored":"","Format":"","shouldAutoCaption":"","Duration":"5mins","Series":"","Vertical":"Anime","Endemic":"","WikiTargetedPlaylist":"Anime","Source":"","isSponsored":"","Language":"EN"}]},"wgJwPlayerUrl":null,"wgRailModuleList":["Fandom\\FandomDesktop\\Rail\\PopularPagesModuleService"]};RLSTATE={"site.styles":"ready","user.styles":"ready","user.options":"loading","ext.cite.styles":"ready","ext.fandom.PortableInfoboxFandomDesktop.css":"ready","ext.fandomVideo.css":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","skin.fandomdesktop.FanFeed.css":"ready","ext.staffSig.css":"ready","vendor.tippy.css":"ready","ext.fandom.bannerNotifications.desktop.css":"ready","ext.fandom.quickBar.css":"ready","ext.fandom.Uncrawlable.css":"ready","ext.fandom.CreatePage.css":"ready","ext.fandom.Thumbnails.css":"ready","ext.fandom.ThumbnailsViewImage.css":"ready","ext.fandom.Experiments.TRFC147":"ready",
+"skin.fandomdesktop.Math.css":"ready","skin.fandomdesktop.CargoTables-ext.css":"ready","ext.fandom.FandomEmbedVideo.css":"ready","ext.fandom.ArticleInterlang.css":"ready","ext.fandom.ArticleVideo.desktop.css":"ready","ext.fandom.HighlightToAction.css":"ready","skin.fandomdesktop.styles":"ready","ext.fandom.GlobalComponents.GlobalNavigationTheme.light.css":"ready","ext.fandom.GlobalComponents.GlobalComponentsTheme.light.css":"ready","ext.fandom.GlobalComponents.GlobalNavigation.css":"ready","ext.fandom.GlobalComponents.GlobalFooter.css":"ready","ext.fandom.GlobalComponents.CommunityHeader.css":"ready","ext.fandom.GlobalComponents.StickyNavigation.css":"ready","ext.fandom.GlobalComponents.CommunityHeaderBackground.css":"ready","ext.fandom.GlobalComponents.RegistrationButtons.css":"ready","skin.fandomdesktop.rail.popularPages.css":"ready","skin.fandomdesktop.rail.css":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.portableInfoboxFandomDesktop.js","site","mediawiki.page.ready",
+"jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","ext.fandom.mediaWikiMigrationHooks.js","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","skin.fandomdesktop.FanFeed.js","ext.fandom.performanceMonitoring.js","ext.fandom.Optimizely.js","ext.fandom.FacebookTags.js","ext.fandom.ae.babTracking.js","ext.fandom.ae.consentQueue.js","ext.fandom.AnalyticsEngine.comscore.js","ext.fandom.AnalyticsEngine.quantcast.js","ext.categorySelect.js","ext.categorySelectFandomDesktop.css","ext.fandom.bannerNotifications.js","ext.fandom.bannerNotifications.messages","ext.fandom.Track.js","ext.fandom.wikiaBar.js","ext.fandom.ContentReview.legacyLoaders.js","ext.fandom.ContentReview.jsReload.js","ext.fandom.site","ext.fandom.ImportJs","ext.fandom.ContentReviewTestModeMessages","ext.fandom.UncrawlableUrl.anchors.js","ext.fandom.CreatePage.js","ext.fandom.TimeAgoMessaging.js","ext.fandom.ImageGalleryIconModuleInit.js","ext.fandom.Thumbnails.js",
+"ext.fandom.Thumbnails.messages","ext.fandom.FandomEmbedVideo.js","ext.tabView.editor.js","ext.fandom.ArticleVideo.desktop.js","ext.fandom.HighlightToAction.js","ext.fandom.HighlightToAction.messages","skin.fandomdesktop.js","skin.fandomdesktop.messages","ext.fandom.GlobalComponents.SearchModal.messages","ext.fandom.GlobalComponents.GlobalNavigationAnon.js","ext.fandom.GlobalComponents.GlobalFooter.js","ext.fandom.GlobalComponents.CommunityHeader.js","ext.fandom.GlobalComponents.StickyNavigation.js","ext.fandom.GlobalComponents.RegistrationButtons.js","skin.fandomdesktop.rail.toggle.js","skin.fandomdesktop.rail.lazyRail.js","ext.fandom.nositenotice.js","ext.fandom.Lightbox.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+{"@context":"http://schema.org","@type":"Article","url":"https://onepiece.fandom.com/wiki/Straw_Hat_Pirates","name":"Straw Hat Pirates","headline":"Straw Hat Pirates","author":{"@type":"Organization","url":"https://onepiece.fandom.com/wiki/One_Piece_Wiki","name":"Contributors to One Piece Wiki"},"publisher":{"@type":"Organization","name":"Fandom, Inc.","logo":{"@type":"ImageObject","url":"https://static.wikia.nocookie.net/6a181c72-e8bf-419b-b4db-18fd56a0eb60"}},"mainEntity":{"@type":"Thing","url":"https://onepiece.fandom.com/wiki/Straw_Hat_Pirates","name":"Straw Hat Pirates"},"about":{"@type":"Thing","url":"https://onepiece.fandom.com/wiki/Straw_Hat_Pirates","name":"Straw Hat Pirates"}}
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+	const useMaxDefaultContentWidth = Boolean();
+
+	const defaultContentWidth = useMaxDefaultContentWidth ? 'expanded' : 'collapsed';
+
+	let contentWidthPreference;
+
+	try {
+		contentWidthPreference = localStorage.getItem('contentwidth') || defaultContentWidth;
+	} catch (e) {
+		contentWidthPreference = defaultContentWidth;
+	}
+
+	if ( contentWidthPreference === 'expanded' ) {
+		document.documentElement.classList.add('is-content-expanded');
+	}
+
+
+
+
+var _userId=0;
+var _plc={"p":"mw","pVar":"fandomdesktop","pCat":"anime","pId":"1081","pg":"article","pgId":"1439","pgLang":"en","adTags":{"tv":["netflix","adult swim","amazon","cn","funimation","hulu","crunchyroll","fox"],"sex":["m","f"],"bundles":["sensitive","apple_sea_bundle","obi_wan_kenobi_bundle","alc21_bundle","video_tier_1_and_2_bundle","onepiece_franchise","25_bundle","21_bundle"],"fran":["one_piece"],"theme":["pirates","mecha","humor","military","monster","sword","japan","supernatural","gangster","robots"],"gnre":["hackandslash","live-action","rpg","openworld","storytelling","adventure","lightnovel","manga","thriller","shonen","anime","fantasy","drama","action","racing","comedy","fighting"],"media":["cards","tv","movies","games","anime","comics","lightnovel","books"],"pub":["namco","bandainamco"],"age":["35-44","teen","13-17","18-34","kids","45-54","yadult","25-34","under18","18-24"],"pform":["psp","pc","ps3","xboxone","psvita","mobile","ds","wii","3ds","ps2","ps4","switch"]},"time":0}; var _ulc={"id":"0","lang":"en"}; _plc.time=Date.now();
+
+
+var ads={"context":{"opts":{"enableNativeAds":true,"pageType":"all_ads","platformName":"fandomdesktop"},"targeting":{"enablePageCategories":true,"featuredVideo":{"mediaId":"sXWp3rZ0","videoTags":[""],"isDedicatedForArticle":false},"hasFeaturedVideo":true,"hasPortableInfobox":true,"isUcp":true,"mappedVerticalName":"ent","newWikiCategories":["ent","comics","anime"],"pageArticleId":1439,"pageIsArticle":true,"pageName":"Straw_Hat_Pirates","pageType":"article","wikiDbName":"onepiece","wikiId":1081,"wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"anime","adTagManagerTags":{"tv":["netflix","adult swim","amazon","cn","funimation","hulu","crunchyroll","fox"],"sex":["m","f"],"bundles":["sensitive","apple_sea_bundle","obi_wan_kenobi_bundle","alc21_bundle","video_tier_1_and_2_bundle","onepiece_franchise","25_bundle","21_bundle"],"fran":["one_piece"],"theme":["pirates","mecha","humor","military","monster","sword","japan","supernatural","gangster","robots"],"gnre":["hackandslash","live-action","rpg","openworld","storytelling","adventure","lightnovel","manga","thriller","shonen","anime","fantasy","drama","action","racing","comedy","fighting"],"media":["cards","tv","movies","games","anime","comics","lightnovel","books"],"pub":["namco","bandainamco"],"age":["35-44","teen","13-17","18-34","kids","45-54","yadult","25-34","under18","18-24"],"pform":["psp","pc","ps3","xboxone","psvita","mobile","ds","wii","3ds","ps2","ps4","switch"]}}},"consentQueue":[]};
+
+	// Install temporary stub until full CMP will be ready
+	if (typeof window.__tcfapi === 'undefined') {
+		// @iabtcf/stub v1.3.1
+		"use strict";function _typeof(t){return(_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t})(t)}!function(){var t=function(){var t,e,o="__tcfapiLocator",n=[],r=window,a=r;for(;a;){try{if(a.frames[o]){t=a;break}}catch(t){}if(a===r.top)break;a=r.parent}t||(!function t(){var e=r.document,n=!!r.frames[o];if(!n)if(e.body){var a=e.createElement("iframe");a.style.cssText="display:none",a.name=o,e.body.appendChild(a)}else setTimeout(t,5);return!n}(),r.__tcfapi=function(){for(var t=arguments.length,o=new Array(t),r=0;r3&&2===parseInt(o[1],10)&&"boolean"==typeof o[3]&&(e=o[3],"function"==typeof o[2]&&o[2]("set",!0)):"ping"===o[0]?"function"==typeof o[2]&&o[2]({gdprApplies:e,cmpLoaded:!1,cmpStatus:"stub"}):n.push(o)},r.addEventListener("message",(function(t){var e="string"==typeof t.data,o={};if(e)try{o=JSON.parse(t.data)}catch(t){}else o=t.data;var n="object"===_typeof(o)?o.__tcfapiCall:null;n&&window.__tcfapi(n.command,n.version,(function(o,r){var a={__tcfapiReturn:{returnValue:o,success:r,callId:n.callId}};t&&t.source&&t.source.postMessage&&t.source.postMessage(e?JSON.stringify(a):a,"*")}),n.parameter)}),!1))};"undefined"!=typeof module?module.exports=t:t()}();
+	}
+
+
+
+
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Straw_Hat_Pirates rootpage-Straw_Hat_Pirates skin-fandomdesktop action-view ooui-theme-fandomooui wiki-onepiece theme-fandomdesktop-light">
+	
+				
+			
+	
+
+		
+	
+
+		One Piece Wiki
+	
+
+	
+					
+			
+			
+				
+										Explore
+				
+							
+			
+					
+													
+			
+			
+								Main Page
+			
+		
+														
+			
+			
+								Discuss
+			
+		
+														
+			
+			
+								All Pages
+			
+		
+														
+			
+			
+								Community
+			
+		
+														
+			
+			
+								Interactive Maps
+			
+		
+														
+			
+			
+								Recent Blog Posts
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										World
+				
+							
+			
+					
+													
+			
+			
+								Characters
+							
+			
+				
+											
+			
+			
+								Straw Hat Pirates
+			
+		
+												
+			
+			
+								In Canon
+			
+		
+												
+			
+			
+								Non-Canon
+			
+		
+												
+			
+			
+								Pirates
+			
+		
+												
+			
+			
+								Marines
+			
+		
+												
+			
+			
+								Nobles
+			
+		
+												
+			
+			
+								By Race
+			
+		
+												
+			
+			
+								Antagonists
+			
+		
+										
+			
+		
+														
+			
+			
+								Locations
+							
+			
+				
+											
+			
+			
+								Grand Line
+			
+		
+												
+			
+			
+								East Blue
+			
+		
+												
+			
+			
+								New World
+			
+		
+												
+			
+			
+								Islands
+			
+		
+												
+			
+			
+								Towns and Cities
+			
+		
+										
+			
+		
+														
+			
+			
+								Organizations
+							
+			
+				
+											
+			
+			
+								Marines
+			
+		
+												
+			
+			
+								Pirate Crews
+			
+		
+												
+			
+			
+								Seven Warlords of the Sea
+			
+		
+												
+			
+			
+								Four Emperors
+			
+		
+												
+			
+			
+								World Government
+			
+		
+												
+			
+			
+								Revolutionary Army
+			
+		
+										
+			
+		
+														
+			
+			
+								Society
+							
+			
+				
+											
+			
+			
+								Occupations
+			
+		
+												
+			
+			
+								Races
+			
+		
+												
+			
+			
+								Technology
+			
+		
+												
+			
+			
+								Animal Species
+			
+		
+												
+			
+			
+								Plant and Fungi Species
+			
+		
+										
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Media
+				
+							
+			
+					
+													
+			
+			
+								Manga
+							
+			
+				
+											
+			
+			
+								Chapters and Volumes
+			
+		
+												
+			
+			
+								SBS Corners
+			
+		
+												
+			
+			
+								Story Arcs
+			
+		
+												
+			
+			
+								Cover Stories
+			
+		
+												
+			
+			
+								Volume Intros
+			
+		
+												
+			
+			
+								Books
+			
+		
+										
+			
+		
+														
+			
+			
+								Anime
+							
+			
+				
+											
+			
+			
+								Episode Guide
+			
+		
+												
+			
+			
+								Story Arcs
+			
+		
+												
+			
+			
+								One Piece Movies
+			
+		
+												
+			
+			
+								Filler
+			
+		
+												
+			
+			
+								Music
+			
+		
+										
+			
+		
+														
+			
+			
+								Merchandise
+							
+			
+				
+											
+			
+			
+								Spin-Offs
+			
+		
+												
+			
+			
+								Video Games
+			
+		
+										
+			
+		
+														
+			
+			
+								Other Media
+							
+			
+				
+											
+			
+			
+								Books
+			
+		
+												
+			
+			
+								Magazine
+			
+		
+												
+			
+			
+								Events
+			
+		
+												
+			
+			
+								Live Performances
+			
+		
+												
+			
+			
+								Live-Action Series
+			
+		
+												
+			
+			
+								Variety
+			
+		
+												
+			
+			
+								Mobile Apps
+			
+		
+										
+			
+		
+														
+			
+			
+								Mythbusters
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Community
+				
+							
+			
+					
+													
+			
+			
+								Discord Server
+			
+		
+														
+			
+			
+								Discussions
+			
+		
+														
+			
+			
+								Forums
+			
+		
+														
+			
+			
+								Recent Blogs
+			
+		
+														
+			
+			
+								Featured Articles
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Help
+				
+							
+			
+					
+													
+			
+			
+								Rules
+							
+			
+				
+											
+			
+			
+								Spoiler Rules
+			
+		
+												
+			
+			
+								Vandalism Rules
+			
+		
+												
+			
+			
+								Forum Rules
+			
+		
+												
+			
+			
+								Discussions, Blogs, and Discord Rules
+			
+		
+										
+			
+		
+														
+			
+			
+								Guidelines
+							
+			
+				
+											
+			
+			
+								Manual of Style
+			
+		
+												
+			
+			
+								Page Layouts
+			
+		
+												
+			
+			
+								Image Guidelines
+			
+		
+												
+			
+			
+								Trivia Guidelines
+			
+		
+										
+			
+		
+														
+			
+			
+								FAQ
+			
+		
+														
+			
+			
+								Referencing Information
+			
+		
+														
+			
+			
+								Administrators
+			
+		
+												
+			
+		
+				
+
+	
+			
+					
+			
+					
+			
+					
+		
+
+
+
+	
+		
+			
+								FANDOM
+			
+
+							
+								
+			
+			
+
+			
+			
+				
+
+	
+	
+	
+
+
+			
+			
+				Fan Central			
+							
+					BETA				
+					
+			
+			
+				
+	
+		
+	
+
+			
+			
+				Games			
+					
+			
+			
+				
+
+	
+
+
+			
+			
+				Anime			
+					
+			
+			
+				
+	
+		
+	
+
+			
+			
+				Movies			
+					
+			
+			
+				
+	
+		
+	
+
+			
+			
+				TV			
+					
+			
+			
+				
+	
+		
+	
+
+			
+			
+				Video			
+					
+	
+			
+			
+				
+					
+
+	
+
+
+				
+				
+					Wikis				
+			
+			
+				
+											
+							
+								Explore Wikis							
+						
+											
+							
+								Community Central							
+						
+									
+			
+		
+	
+			
+			
+							
+			
+				Start a Wiki			
+		
+	
+		
+	
+
+	
+							
+
+	
+		
+					
+	
+	
+		
+
+
+	Don&#039;t have an account?
+
+	Register
+
+
+	Sign In	
+
+			
+
+	
+		
+		
+	
+		
+		Advertisement
+	
+		
+		
+			
+	
+		
+			Sign In		
+		
+						Register		
+	
+			
+	
+					
+				
+			
+				
+			
+				
+					One Piece Wiki				
+											
+			
+				7,138pages			
+			
+			
+					
+			
+					
+			
+					
+		
+		
+		
+
+	
+					
+			
+			
+				
+										Explore
+				
+							
+			
+					
+													
+			
+			
+								Main Page
+			
+		
+														
+			
+			
+								Discuss
+			
+		
+														
+			
+			
+								All Pages
+			
+		
+														
+			
+			
+								Community
+			
+		
+														
+			
+			
+								Interactive Maps
+			
+		
+														
+			
+			
+								Recent Blog Posts
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										World
+				
+							
+			
+					
+													
+			
+			
+								Characters
+							
+			
+				
+											
+			
+			
+								Straw Hat Pirates
+			
+		
+												
+			
+			
+								In Canon
+			
+		
+												
+			
+			
+								Non-Canon
+			
+		
+												
+			
+			
+								Pirates
+			
+		
+												
+			
+			
+								Marines
+			
+		
+												
+			
+			
+								Nobles
+			
+		
+												
+			
+			
+								By Race
+			
+		
+												
+			
+			
+								Antagonists
+			
+		
+										
+			
+		
+														
+			
+			
+								Locations
+							
+			
+				
+											
+			
+			
+								Grand Line
+			
+		
+												
+			
+			
+								East Blue
+			
+		
+												
+			
+			
+								New World
+			
+		
+												
+			
+			
+								Islands
+			
+		
+												
+			
+			
+								Towns and Cities
+			
+		
+										
+			
+		
+														
+			
+			
+								Organizations
+							
+			
+				
+											
+			
+			
+								Marines
+			
+		
+												
+			
+			
+								Pirate Crews
+			
+		
+												
+			
+			
+								Seven Warlords of the Sea
+			
+		
+												
+			
+			
+								Four Emperors
+			
+		
+												
+			
+			
+								World Government
+			
+		
+												
+			
+			
+								Revolutionary Army
+			
+		
+										
+			
+		
+														
+			
+			
+								Society
+							
+			
+				
+											
+			
+			
+								Occupations
+			
+		
+												
+			
+			
+								Races
+			
+		
+												
+			
+			
+								Technology
+			
+		
+												
+			
+			
+								Animal Species
+			
+		
+												
+			
+			
+								Plant and Fungi Species
+			
+		
+										
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Media
+				
+							
+			
+					
+													
+			
+			
+								Manga
+							
+			
+				
+											
+			
+			
+								Chapters and Volumes
+			
+		
+												
+			
+			
+								SBS Corners
+			
+		
+												
+			
+			
+								Story Arcs
+			
+		
+												
+			
+			
+								Cover Stories
+			
+		
+												
+			
+			
+								Volume Intros
+			
+		
+												
+			
+			
+								Books
+			
+		
+										
+			
+		
+														
+			
+			
+								Anime
+							
+			
+				
+											
+			
+			
+								Episode Guide
+			
+		
+												
+			
+			
+								Story Arcs
+			
+		
+												
+			
+			
+								One Piece Movies
+			
+		
+												
+			
+			
+								Filler
+			
+		
+												
+			
+			
+								Music
+			
+		
+										
+			
+		
+														
+			
+			
+								Merchandise
+							
+			
+				
+											
+			
+			
+								Spin-Offs
+			
+		
+												
+			
+			
+								Video Games
+			
+		
+										
+			
+		
+														
+			
+			
+								Other Media
+							
+			
+				
+											
+			
+			
+								Books
+			
+		
+												
+			
+			
+								Magazine
+			
+		
+												
+			
+			
+								Events
+			
+		
+												
+			
+			
+								Live Performances
+			
+		
+												
+			
+			
+								Live-Action Series
+			
+		
+												
+			
+			
+								Variety
+			
+		
+												
+			
+			
+								Mobile Apps
+			
+		
+										
+			
+		
+														
+			
+			
+								Mythbusters
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Community
+				
+							
+			
+					
+													
+			
+			
+								Discord Server
+			
+		
+														
+			
+			
+								Discussions
+			
+		
+														
+			
+			
+								Forums
+			
+		
+														
+			
+			
+								Recent Blogs
+			
+		
+														
+			
+			
+								Featured Articles
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Help
+				
+							
+			
+					
+													
+			
+			
+								Rules
+							
+			
+				
+											
+			
+			
+								Spoiler Rules
+			
+		
+												
+			
+			
+								Vandalism Rules
+			
+		
+												
+			
+			
+								Forum Rules
+			
+		
+												
+			
+			
+								Discussions, Blogs, and Discord Rules
+			
+		
+										
+			
+		
+														
+			
+			
+								Guidelines
+							
+			
+				
+											
+			
+			
+								Manual of Style
+			
+		
+												
+			
+			
+								Page Layouts
+			
+		
+												
+			
+			
+								Image Guidelines
+			
+		
+												
+			
+			
+								Trivia Guidelines
+			
+		
+										
+			
+		
+														
+			
+			
+								FAQ
+			
+		
+														
+			
+			
+								Referencing Information
+			
+		
+														
+			
+			
+								Administrators
+			
+		
+												
+			
+		
+				
+
+	
+
+			
+				
+					
+						
+							
+																																
+															
+																	
+													
+					
+					
+	
+		
+			
+									
+
+	in:
+	Four Emperors Groups, Worst Generation Crews, East Blue Pirate Crews, Super Rookie Crews	
+								
+			
+										
+
+	
+		
+			English		
+		
+			
+									
+						العربية
+					
+									
+						Català
+					
+									
+						Deutsch
+					
+									
+						Español
+					
+									
+						Euskara
+					
+									
+						Français
+					
+									
+						Bahasa Indonesia
+					
+									
+						Italiano
+					
+									
+						Nederlands
+					
+									
+						Polski
+					
+									
+						Português do Brasil
+					
+									
+						Română
+					
+									
+						Русский
+					
+									
+						Türkçe
+					
+									
+						中文
+					
+							
+		
+	
+
+					
+		
+			
+				
+					Straw Hat Pirates				
+																
+			
+				
+				
+									
+												View source					
+				
+				
+									
+						
+													
+						
+							
+																	
+										
+											View history										
+									
+																	
+										
+											Talk (717)										
+									
+															
+						
+					
+											
+		
+			
+					
+													
+    (function () {
+        // we can't use mw.config here because it's too early so we need to pass this data in different way
+        const videoDetails = {
+            mediaId: "sXWp3rZ0",
+            impressionsPerSession: 3,
+            isDedicatedForArticle: false,
+            tier3Mapping: false,
+        };
+        const videoBridgeCountries = ["US","GB","CA","AU","DE","SG","MY","VN","ID","PH","TH","ES","FR","AR","MX","CO","PE","NZ","IN","DE","VN","FR","BR","ES","PL","CL"];
+        const tier3VideoBridgeCountries = ["GB","BE","NL","DE","AU","MX","AR"];
+        let hasVideoOnPage = null;
+
+        function getCookieValue(cookieName) {
+            const cookieSplit = ('; ' + document.cookie).split('; ' + cookieName + '=');
+            return cookieSplit.length === 2 ? cookieSplit.pop().split(';').shift() : null;
+        }
+
+        function hasMaxedOutPlayerImpressionsInWiki() {
+            const impressionsSoFar = Number(getCookieValue('playerImpressionsInWiki')) || 0;
+            const allowedImpressions = Number(videoDetails.impressionsPerSession);
+
+            return impressionsSoFar >= allowedImpressions;
+        }
+
+        function getCountryCode() {
+            try {
+                return JSON.parse(decodeURIComponent(getCookieValue('Geo'))).country.toLowerCase();
+            } catch {
+                return null;
+            }
+        }
+
+        function isVideoBridgeAllowedForCountry() {
+            const countryCode = getCountryCode();
+
+            if (!countryCode) {
+                return false;
+            }
+
+            // Check if the wiki is a tier3 wiki. This value comes back from the ArticleVideo service
+            if (videoDetails && videoDetails.tier3Mapping) {
+              // If the wiki is classified as a tier3 wiki, then check the country whitelist from the tier3VideoBridge whitelist.
+              const allowedCountriesForTier3Wikis = tier3VideoBridgeCountries.map(function (allowedTier3CountryCode) {
+                return allowedTier3CountryCode.toLowerCase();
+              })
+
+              return allowedCountriesForTier3Wikis.indexOf(countryCode) !== -1;
+            } else {
+              // If not a tier3 wiki, then check the country whitelist from the videoBridge whitelist
+              const allowedCountries = videoBridgeCountries.map(function (allowedCountryCode) {
+                return allowedCountryCode.toLowerCase();
+              });
+
+              return allowedCountries.indexOf(countryCode) !== -1;
+            }
+        }
+
+        window.canPlayVideo = function () {
+            if (hasVideoOnPage === null) {
+                hasVideoOnPage =
+                    videoDetails.mediaId && (videoDetails.isDedicatedForArticle || isVideoBridgeAllowedForCountry())
+                    && !hasMaxedOutPlayerImpressionsInWiki();
+            }
+
+            return hasVideoOnPage;
+        };
+
+        if (!window.canPlayVideo()) {
+            document.body.classList.add('no-featured-video');
+        } else {
+	        document.body.classList.add('has-featured-video');
+        }
+    })();
+
+							
+	
+	
+	
+	
+	
+	
+	
+
+																		
+
+
+
+Main
+RecruitmentAlliesActions and Locations VisitedMiscellaneous
+
+
+
+
+
+
+
+Ahoy! This here is the 135th Featured Article.
+
+"Straw Hat Pirates" has been featured, meaning it was chosen as an article of interest.
+
+
+
+Straw Hat Pirates
+
+
+	
+		
+		
+	
+	
+
+
+	Statistics
+
+
+	
+		Japanese Name:
+	
+	麦わらの一味
+
+
+
+	
+		Romanized Name:
+	
+	Mugiwara no Ichimi
+
+
+
+	
+		Official English Name:
+	
+	Straw Hat PiratesStraw Hat Crew (OPCG)
+
+
+
+	
+		First Appearance:
+	
+	Chapter 5; Episode 3[1]
+
+
+
+	
+		Captain:
+	
+	Monkey D. Luffy
+
+
+
+	
+		Main Ship:
+	
+	Going Merry (Deceased: Destroyed)† (Ch.41-430 and Ep.17-312)Thousand Sunny (Ch.436-present and Ep.321-present)
+
+
+
+	
+		Total Bounty:
+	
+	8,816,001,000[bounty 1][2][3]3,161,000,100[bounty 2][4]2,008,000,100[bounty 3][5][6]1,570,000,100[bounty 4][7]800,000,050[bounty 5][8]700,000,050[bounty 6][9]667,000,050[bounty 7][10]239,000,000[bounty 8][11]30,000,000[bounty 9][12]
+
+
+
+
+
+The Straw Hat Pirates, also known as the Mugiwara Pirates, Straw Hat Crew or simply the Straw Hats, are a very infamous and powerful pirate crew that originated from the East Blue.
+The "Straw Hats" are named after Luffy's signature hat that was given to him by "Red-Haired" Shanks and are first referred to as the Straw Hat Pirates by Smoker in the Arabasta Kingdom.[13] The crew sailed on the Going Merry,[14] their first official Straw Hat ship, up until the Water 7 Arc. During the Post-Enies Lobby Arc, Franky and Iceburg built them a new ship which was named the Thousand Sunny by Iceburg, even though the members fought over different names.[15]
+Following the events on the Sabaody Archipelago, all the members were separated from one another by Bartholomew Kuma, a then-Warlord of the Sea and undercover agent of the Revolutionary Army. For two years, they trained in relatively isolated locations, becoming stronger for the sake of helping each other.[16] They then reunited and have since continued to be a dynamic force in the New World, greatly disrupting the balance of the Three Great Powers. After the Raid on Onigashima, with the defeats of Kaidou and Big Mom, their captain officially became one of the new Four Emperors.[17]
+They are the main focus and protagonists of the manga and anime One Piece and are led by the main protagonist Monkey D. Luffy.
+
+Contents
+
+1 Jolly Roger
+
+1.1 Gallery
+
+1.1.1 Luffy's version
+1.1.2 Other Variants
+
+
+
+
+2 Crew Members
+
+2.1 Main Crew
+2.2 Sub-Groups
+2.3 Grand Fleet
+2.4 Non-Canon Members
+
+
+3 Territories
+4 Crew Strength
+
+4.1 Fighting Capabilities
+4.2 Specializations and Teamwork
+4.3 Allies and Subordinates
+4.4 Weaknesses
+
+
+5 Professions and Capabilities
+6 Bounties
+
+6.1 Profile
+
+
+7 Relationships Amongst the Crew
+8 Dreams
+
+8.1 Members' Dreams
+8.2 Former Members' Dreams
+
+
+9 The X Mark
+10 Notes
+11 References
+12 Site Navigation
+
+
+
+Jolly Roger
+The Jolly Roger emblem is a cartoon-like depiction of traditional skull and crossbones, with the skull wearing Luffy's trademark straw hat. Due to Luffy's morbid drawing skills, Usopp was the one who drew the flag. In addition to being on their flag, the Jolly Roger has also been shown on the sails of the Going Merry and the Thousand Sunny.
+
+Gallery
+Luffy's version
+
+The Straw Hats' Jolly Roger drawn by Luffy.
+Laboon's Straw Hats' Jolly Roger.
+
+Other Variants
+
+Straw Hats' Jolly Roger from Ending 14.
+General Franky's Straw Hats' symbol.
+The realistic skull version seen on Luffy's hat on the 20th-anniversary promotions.
+The Straw Hats' Jolly Roger seen during the One Piece x Kyoto art show.
+Oda's rough sketch of the symbol.
+The Jolly Roger as depicted in the Live-Action Series' logo.
+
+Crew Members
+Main Crew
+See also the associated category: Straw Hat Pirates.
+ 	 	 	 		 			 		 		 		 			The members of the Straw Hat Pirates. 		 	 
+The crew currently consists of ten members, being smaller than a typical pirate crew; when he first set sail, Luffy set a goal of gaining ten crewmates. They have one former member, Nefertari Vivi, who sailed with the crew from Reverse Mountain to the Arabasta Kingdom.
+Despite their small size, the Straw Hats are an extremely diverse group possessing a large variety of backgrounds. Their members' origins range from ordinary islanders and workers to bounty hunters, royalty, criminal gang members, and veteran pirates; Jinbe was once part of the renowned Seven Warlords of the Sea while Robin was an active enemy of the crew at one point with Baroque Works. The crew consists of eight humans, one fish-man, and one animal with Devil Fruit-powered human intellect; of the humans, Sanji possesses superhuman modifications given to him at birth, Franky is a cyborg, and Brook possesses a skeleton body after being resurrected by a Devil Fruit power. They range in age from 17 (Chopper) to 90 (Brook); the median age of the crew is 21.
+
+Further information: Straw Hat Pirates/Recruitment
+
+
+[v · e · ?]Straw Hat Pirates
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+ Monkey D. Luffy
+ Roronoa Zoro
+ Nami
+ Usopp
+ Sanji
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+ Tony Tony Chopper
+ Nico Robin
+ Franky
+ Brook
+ Jinbe
+
+
+ 
+
+
+ Nefertari Vivi (Former)‡
+
+
+
+
+Companions
+
+
+ 
+ 
+
+
+ Zeus
+ Karoo (Former)‡
+
+
+
+
+Ships
+
+
+ 
+ 
+
+
+ Going Merry (Deceased: Destroyed)†
+ Thousand Sunny
+
+
+
+
+Allies
+
+
+ 
+ 
+ 
+ 
+
+
+ Ninja-Pirate-Mink-Samurai Alliance (Former)‡
+ Galley-La Company (Former)‡
+ Franky Family (Former)‡
+ Fire Tank Pirates (Former)‡
+
+
+
+
+
+
+
+[Click here to see the legend of the symbols used][Hide the legend]
+
+
+
+ (Deceased)†: the character is deceased.
+ (Unknown status)?: the character's status is unknown.
+ (Non-Canon)≠: the character is non-canon.
+ (Former)‡: the character is no longer part of this group. Hovering the symbol may give further details.
+ (Note)*: other relevant information. Hovering the symbol gives further details.
+
+
+
+Sub-Groups
+During their adventures, the crew members have often split into smaller groups to achieve multiple targets or tasks. Mostly, the group are divided by the common tasks of island exploring (often led by Luffy), ship guarding (often led by Zoro who wishes to nap or by Usopp who is afraid to disembark), and supply gathering (led by Sanji or Nami for food and finance). When encountering enemies, the crew would often fight individually against their rivals, but they sometimes fight in small groups like Usopp and Chopper in Arabasta or during the Davy Back fight.
+They first started splitting into teams during the Skypiea Arc. After realizing that the lost city of Gold was on Upper Yard, they split the crew into the Escape Team (脱出組, Dasshutsu Gumi?) consisting of Sanji, Nami and Usopp, as well as their patient Gan Fall, and the Search Team (探索組, Tansaku Chīmu?, Funimation: Exploration Team) which was made up of Luffy, Zoro, Chopper and Robin.[18] The Exploration Team was assigned to find the city and steal the treasure before making it back to the ship, however they ended up getting split up after running into the giant python Nola. The Escape Team were meant to sail the ship to their rendezvous point at the coast, though Sanji and Usopp ended up getting ambushed by Enel, who stopped by to talk to Gan Fall. The ship eventually made it to the coast thanks to Conis and Pagaya, but Nami (along with Aisa who was picked up by the two) was chased away from the ship by Nola.
+
+The following events are Non-Canon and therefore not considered part of the Canon story.
+
+In the filler G-8 Arc, after the Straw Hats realized that their gold was taken after accidentally landing in Navarone Island, the crew split up into teams. Nami, who had used the waver to escape the ship earlier, was sent with Sanji to get it back as part of the Waver Retrieval Team (ウエイバー回収班, Ueibā Kaishū Han?). The rest of the crew (except for Chopper who was assigned to watch the ship) was sent to find the gold, as the Gold Retrieval Team (黄金奪還班, Ōgon Dakkan Han?) though this ended in failure, as it wasn't located where they thought it would be.[19]
+
+Concludes non-canon section.
+
+During the Dressrosa Arc, the crew temporarily split in half due to the Big Mom Pirates' unexpected attack on the Thousand Sunny, with one group staying to finish business on Dressrosa and the other heading on to Zou in order to protect Caesar Clown and Kozuki Momonosuke.[20] The group heading to Zou (Sanji, Nami, Chopper, and Brook) was referred to as the Curly Hat Crew (ぐるわらの一味, Guruwara no Ichimi?, VIZ/Simulcast: Twirly Hat Pirates), named after Sanji, the de facto leader of the group.[21] This same group forms the core of the Sanji Retrieval Team (サンジ奪還チーム, Sanji Dakkan Chīmu?) during the Whole Cake Island Arc, but with some personnel changes: Luffy has resumed leadership, Sanji was at Whole Cake Island, and the minks Pedro and Carrot accompanied them in their quest to "retrieve Sanji".[22] During their mission, they were joined by Jinbe who would later officially join the Straw Hats.[23]
+
+Grand Fleet
+Further information: Straw Hat Grand Fleet
+At the end of the Dressrosa Arc, the crew becomes the leader of an alliance called the Straw Hat Grand Fleet, which involves seven groups who sided with Luffy in the conflict between himself and Doflamingo, becoming subordinate to the Straw Hats, while maintaining their status as individual crews with their own free will.
+Cavendish, Bartolomeo, Sai, Ideo, Leo, Hajrudin, and Orlumbus asked to become Luffy's subordinates by offering him a cup of sake. Luffy refused but said they would still be bonded by their fight against Doflamingo and they would help each other out at any time. However, the captains decided to drink the sake anyway, pledging to come to Luffy's aid whenever he needed them, while Luffy was not obligated to do the same. The Straw Hat Grand Fleet, consisting of 5640 people, was then formed, and a party ensued as their fleet departed from Dressrosa.
+The newspaper referred to Luffy as the "Senior Captain" (大船長, Dai Senchō?) and his crewmen as the "Senior Officers" (大幹部, Dai Kanbu?) of the Grand Fleet.[24]
+
+Non-Canon Members
+In the anime adaptation of the Long Ring Long Land Arc, the Straw Hats acquired 497 members of the Foxy Pirates, with the exception of 3 members who are Hamburg, Porche and Foxy. In the process, they confiscated the Sexy Foxy. However, they were all immediately kicked out by Luffy and left to pursue their old captain due to the Going Merry not being able to carry 497 more people.[25]
+In the game, Legend of the Rainbow Island, Dias, a young boy, and Atoli, the Princess of Silver Arrow Island, join the crew. However, they leave the crew at the end of the game.
+
+Territories
+While other Emperors were shown to gain territory for the purpose of gaining something for the price of their protection like Big Mom with sweets or Kaidou and Blackbeard for military might and intel, the Straw Hats only claimed to protect their islands of their friends and allies.
+
+Fish-Man Island - the ruling royal family had shown interest in wanting to declare their island a territory of the Straw Hat Pirates[26] and after news of their fight against Big Mom was made public, they decided to declare the island as being under their protection.[27]
+Wano Country - Luffy announced to Momonosuke that if anyone ever gave them any trouble, just show them his flag and let them know they’re picking a fight with the Straw Hats as well, implying that Luffy is declaring that Wano Country is under his protection.[28]
+Non-canonically, Tongari Island[29]
+Furthermore, the Straw Hat Grand Fleet second division representative, Bartolomeo took over an island which was under "Red-Haired" Shanks' protection.[30][31]
+
+Crew Strength
+
+
+ 
+  “
+  The Straw Hat crew has left nothing but sheer miracles in its wake.
+  ”
+ 
+
+
+ 
+  — Trafalgar Law remarking on the crew's aptitude to overcome any challenge.[32]
+  
+ 
+
+
+
+Despite having a small number of members, the Straw Hats are an extremely powerful crew with great potential, as stated by Kuzan when he first met them, eventually growing to the point of being capable of challenging and surpassing Warlord organizations like Baroque Works,[13] the Thriller Bark Pirates, and the Donquixote Pirates,[33] and later crews captained by the Four Emperors like the Beasts Pirates and Big Mom Pirates. As their captain Monkey D. Luffy is now an Emperor, they are recognized as one of the four strongest pirate crews in the world.[17] It should be noted that this accomplishment, level of strength and infamy has been achieved in just over 2 years from the start of their voyage.
+The crew itself has done things which most would think impossible and were dubbed completely insane for even trying to but have succeeded nearly every time. They have entered and attacked the most hostile territories without fear in order to accomplish their objectives; this includes invading World Government stronghold Enies Lobby and defeating their superhuman assassin force CP9,[34] infiltrating Big Mom' territory of Totto Land and participating in an assassination attempt against her, and assaulting the Beasts Pirates' stronghold of Onigashima in the closed-off nation of Wano to defeat both Kaidou and his forces as well as Big Mom. In all of these expeditions, they did battle with military forces numbering in the tens of thousands as well as vast fleets including the Marines' Buster Call, an attack force designed to annihilate entire islands. Their campaigns against the Seven Warlords and Four Emperors have attracted the attention of the Five Elders who publicly rule the World Government and have caused them to be labeled as threats to the balance of the world;[35][36][37] following their victory over Kaidou and Big Mom, they plunged the world into a level of chaos of very little to no precedent.[38]
+Good fortune has also played a role in the Straw Hats' successes up to this point, though said fortune is not always due to pure coincidence; on some occasions, the Straw Hats have been aided by the arrival of an unexpected connection, or they have unwittingly done things in the past that help them in the future. An example of the former was when the Warlord Bartholomew Kuma saved them from certain defeat on Sabaody by transporting them to different islands,[39] while an example of the latter was when the Straw Hats unwittingly caused an explosive-laden Tamatebako to be sent to Big Mom;[40] the chest would go on to explode while the Sanji retrieval team was surrounded by the Big Mom Pirates, thus enabling them to escape.[41] Another example of inexplicable fortune occurring was when the Going Merry arrived at Enies Lobby, seemingly on its own, to help the Straw Hats escape the Marine Buster Call in its final voyage.[42]
+A testament to the crew's reputation across the world is that Demaro Black and the Fake Straw Hat Crew were able to successfully use the crew's name and image to accumulate a large number of powerful followers which included Super Rookies, and their actions instantly attracted the attention of the Marines.[43] Upon realizing that the crew was composed of impostors, Sentomaru derided the strength of Black and his men in comparison to the Straw Hats, showing a level of respect for the crew despite his enmity with them.[44]
+One of the most prominent testaments to their strength is that they are the only known crew where every single member has a bounty on their head. The Straw Hats' combined bounties across their ten members equal 8,816,001,000, proving how dangerous the World Government sees them.
+The Straw Hats currently have at least five Poneglyph rubbings, three of which are Road Poneglyphs. This makes them the closest to reaching Laugh Tale since the Roger Pirates. Furthermore, Robin has discovered the location of two of the Ancient Weapons thanks to the poneglyphs she read in Arabasta and Shandora.
+
+Fighting Capabilities
+Despite their small crew size, the Straw Hat members are all accomplished fighters to various degrees, each member possessing notable accomplishments and victories over infamously powerful opponents. They have fought against multiple armies numbering in the thousands and have typically dominated the grunt troopers of these armies, as shown in their battles on Enies Lobby (vs. 10,000 Marines),[45] Fish-Man Island (vs. 100,000 New Fish-Man Pirates),[46] and Onigashima (vs. 30,000 Beasts Pirates).[47]
+
+ 	 	 	 		 			 		 		 		 			The Monster Trio fighting a Pacifista. 		 	 
+Three of the top fighters of the crew Luffy, Zoro, and Sanji, are called the Monster Trio (怪物3人組, Kaibutsu San-ningumi?) due to their immense strength,[48][49] with Zoro and Sanji in particular being referred as the Pirates King's Wings (海賊王の両翼, Kaizoku-ō no ryōyoku?) to Luffy, showing their dynamic.[50][51][52] The Monster Trio typically act as the vanguard against powerful enemies and protect the other crew members in dangerous situations.[53][54][55] During major battles, they tend to fight the strongest enemies on the opponent's side.
+Among the Monster Trio, Luffy has received individual distinction for his fighting capabilities and is generally recognized to be the crew's top fighting asset by himself, the Straw Hats, and those familiar with him. He has stated that his primary role in the crew, aside from being their leader, is to beat their opponents.[56] On Enies Lobby while fighting Rob Lucci, the most powerful member of CP9, Luffy directly acknowledged that if he could not defeat Lucci, the assassin would kill the other members of his crew without issue.[57] In instances where Luffy has been rendered unable to fight against the primary opponent, his comrades have stood up to face the threat with the mindset of buying time for Luffy to return, believing only he would be able to attain victory in the end.[58] Luffy has been primarily responsible for defeating the captains of the crews, leaders of organizations or any other powerful opponent the Straw Hats fight, including the three Warlords (Crocodile, Gecko Moria, and Donquixote Doflamingo) he has also beaten Hody Jones, the captain of the New Fish-Man Pirates, the tyrant Enel of Skypiea, the infamous assassin Rob Lucci of CP9, two of the Big Mom Pirates top officers, Sweet Commanders Charlotte Cracker and Charlotte Katakuri and the fierce Emperor of the Sea Kaidou. Zoro and Sanji, meanwhile, have generally fought the top subordinates of enemy captains and other opposing foes; Zoro has also defeated formidable opponents on the opposing side such as Daz Bonez, Kaku, and Pica; Sanji has too defeated very powerful, high-ranking officers of enemies such as Bon Clay and Jabra. These two have most recently defeated King and Queen, who are two of the Beasts Pirates' top executives known as the All-Stars.[59][60] 
+While not part of the Monster Trio, Jinbe has been recognized as another top combatant of the crew, established by his experience as a veteran pirate and former Warlord of the Sea. He was able to overpower Gecko Moria, another Warlord, during the Summit War of Marineford,[61] briefly overthrow Big Mom in two instances with his own strength, and defeat Who's-Who, a former CP9 agent and a member of the Tobiroppo.[62] Robin, Franky, and Brook have not been recognized as members of the strongest or weakest subgroups of the crew, with the three of them each demonstrating themselves to be powerful combatants capable of easily defeating groups of grunt fighters and challenging lower-ranking officers of enemy groups. Robin, Franky, have singlehandedly defeated members of the Tobiroppo (Black Maria, and Sasaki respectively).[63][64] Other notable feats performed by this group include Brook challenging Big Mom in single combat and, though falling, being recognized for putting up a determined fight,[65] and some of these members have even defeated multiple officers and underlings of powerful like Senor Pink against Franky and Yama against Robin. 
+
+ 	 	 	 		 			 		 		 		 			The Weakling Trio avoiding combat. 		 	 
+The lower three fighters, Nami, Usopp, and Chopper are called the Weakling Trio (弱少トリオ, Jakushō Torio?).[66] By contrast to the Monster Trio, the Weakling Trio are often the most hesitant to partake in combat and collectively voice their fear in the face of frightening places or foes, unless their hand is forced, or they consider their enemies' actions or words unforgivable enough to want to take action.[67][68] Despite this, they have often factored into the Straw Hats' greatest battles with enemy groups, with Nami having defeated Baroque Works officer agent Miss Doublefinger,[69] CP9 agent Kalifa,[70] and Tobiroppo Ulti (besting the former two singlehandedly),[71] Usopp defeating the Thriller Bark Pirates Mysterious Four member Perona[72] and Donquixote Pirates Special Officer Sugar,[73] Chopper beating CP9 agent Kumadori,[74] and Usopp and Chopper together beating officer agents Mr. 4 and Miss Merry Christmas;[75] Chopper has even taken on the All-Star Queen and managed to physically challenge him for a brief period.[76]
+All members of the Monster Trio possess Haki, with Luffy and Zoro possessing all three types and achieving advanced applications. Jinbe also possesses Busoshoku and Kenbunshoku Haki which he is quite proficient in, and despite his placement in the Weakling Trio, Usopp has awakened Kenbunshoku Haki which he has used to aid in his sniping.
+
+
+
+ 
+  “
+  Each time we've passed an island, we've gotten stronger. And each time he's been on an island, he's cheated death. No one who dies easily would still be with us!!
+  ”
+ 
+
+
+ 
+  — Zoro's speech to Nami and Chopper about Usopp.[77]
+  
+ 
+
+
+
+The Straw Hats' growth in strength throughout their journey has often been marked by their constant innovation of their abilities and tools as they develop new techniques to better challenge the steadily stronger opponents they meet. Four members of the crew possess Devil Fruit abilities: Luffy, Chopper, Robin, and Brook. Luffy has awakened his fruit and has used its alteration of his body in a massive variety of creative ways to adopt new forms which increase his power and fighting capabilities. Chopper has used his scientific intellect to go beyond the standard three forms of a Zoan user, shifting his body into numerous different fighting forms. Robin and Brook have both demonstrated significant advanced development of their Paramecia abilities, with Brook discovering methods of using his fruit in battle when it was previously thought to have no fighting capabilities. Nami, Usopp, and Franky, who use special weapons and machinery in combat, have constantly upgraded their tools in order to unleash more powerful, effective, and creative techniques.
+
+Specializations and Teamwork
+
+
+ 
+  “
+  I'll do whatever you cannot do. And you do whatever I cannot do!!!
+  ”
+ 
+
+
+ 
+  — Part of Sanji's speech to Usopp.[78]
+  
+ 
+
+
+
+Another notable feature of the Straw Hats is that each of their members possesses a specific and unique position in the crew which maximizes their talents, and each member has been recognized for having a significant level of competency in their role.
+
+Luffy, the captain, has been highly regarded for his leadership by numerous people not in the crew, as evidenced by the massive number of allies and pledges of servitude he has unwillingly attracted;[79] he has recently been recognized as one of the Four Emperors.
+Zoro, the combatant, has almost never lost a fight with the crew and has commanded great respect and fear for his fighting skills even before joining; his combat skills have evoked the image of a pirate captain to some onlookers.[80]
+Nami, the navigator, possesses advanced knowledge in geographic science which has aided in her navigation and cartography work; her cartography skills were coveted by the infamous pirate Arlong even going back to her childhood,[81] and had greatly aided the Straw Hat crew during their journey throughout the Grand Line.
+Usopp, the sniper, has consistently demonstrated remarkable sharpshooting skill since the beginning, to the point of pulling off nearly physically impossible feats.[82]
+Sanji, the cook, has a vast culinary knowledge and repertoire; he currently knows how to prepare the okama Attack Cuisine and was able to lead a team in making a wedding cake in just hours (when it took days previously) that its consumer, Big Mom, enjoyed in a way she has never done for a wedding cake before.[83][84]
+Chopper, the doctor, is well-versed in treating a litany of injuries and illnesses; one of his most notable accomplishments was developing a cure for the devastating man-made virus Ice Oni in less than an hour's time.[85]
+Robin, the archaeologist, possesses the extremely rare knowledge of how to read the Poneglyphs, a skill vital to reaching Laugh Tale.[86]
+Franky, the shipwright, constructed the Straw Hats' current ship the Thousand Sunny which has traversed extremely treacherous waters while sustaining little damage overall. He also possesses highly advanced technology developed by the world's greatest scientist Vegapunk, which he has been able to develop and use to suit his interests.[87]
+Brook, the musician, has demonstrated the ability to weaponize his music during combat situations,[88] in addition to its entertainment value which led to him becoming a worldwide celebrity during the timeskip.[89]
+Jinbe, the helmsman, was noted during the Straw Hats' escape from Totto Land to "know all there is to know" about the ocean's waves and currents, which he utilized to outpace the Big Mom Pirates' fleet and frustrate them.[90]
+The Straw Hats are very familiar with what strengths each of their crewmates possess and have been consistently willing to defer situations to the person most well-suited for them without issue or intervene with issues involving a crewmate they know is not suited for them.[78] This intimate familiarity with each other's abilities has made the Straw Hats able to achieve great results when teaming up in combat, including performing effective tag-team attacks as well as instances of one member using their abilities to weaken an opponent and thus aid another member in attacking them. A notable example of successful teamwork occurred when Nami, Chopper, Brook, and Jinbe were able to put together an effective counterattack against Big Mom herself when she attacked the Sunny, keeping the Emperor at bay for a considerable period of time despite the vast difference in power between the two sides.[91]
+
+Allies and Subordinates
+Further information: Straw Hat Pirates/Allies
+The Straw Hats have formed numerous alliances, both official and unofficial, across the world in nearly every location they have visited, giving them a vast network spanning just about all of the world's organizations and social classes.[92] These allies range from other infamous pirates, to citizens, and even to royalty and other influential government members; they have even managed to win the favor of Marine soldiers, although such collaborations have typically been limited and temporary. Luffy is considered to be the primary factor in their accumulation of allies, being noted by onlookers to have a unique gift for turning just about anyone he meets into an ally.[79] These allies have assisted the Straw Hats in the majority of their large-scale battles, namely in Enies Lobby, Punk Hazard, Dressrosa, Whole Cake Island, and Wano Country.
+Out of admiration for Luffy's actions and leadership during the Dressrosa conflict, seven groups which fought alongside the Straw Hats decided to serve under them, forming the Straw Hat Grand Fleet. This fleet consists of 5640 total members across the seven crews, with most of the crews being led by infamous rising New World pirates who defeated officers of the Donquixote Pirates in single combat. The crews are also diverse, containing giants, dwarves, longarms, and longlegs in their ranks.[93]
+What has made the Straw Hats' current command over subordinates and territory special is that they have never actively sought to obtain them, as noted by the circumstances of Fish-Man Island becoming their territory. In fact, Luffy actively rejected the Straw Hat Grand Fleet's request to serve under him, as he believes that having subordinates would restrict his freedom. In spite of this rejection, the Grand Fleet's admiration of him was so great that they declared their allegiance to Luffy anyways, being willing to serve him whenever he should call on them.[93]
+
+Weaknesses
+Though they have performed numerous unlikely feats, the Straw Hats are not invincible and have not always come out victorious in the battles they instigate. The crew splits up very frequently during their expeditions, which causes their already small numbers to be stretched even thinner and leaves them more vulnerable to concentrated enemy attacks.[94][95][96][97][98] Given the disparity in strength amongst their members, this may result in weaker members ending up in one-on-one mismatches with members of more balanced enemy groups.[99][100][101] Additionally, their small size has resulted in them being vulnerable against enemy reinforcements following victories against their initial foes, which tend to leave them weakened.[102][103] The Straw Hats' worst defeat came on the Sabaody Archipelago, where they were left almost completely spent after defeating a single Pacifista, only to be confronted by more Pacifistas, Sentomaru, and Marine Admiral Kizaru.[104] It was this total defeat that ultimately led them decide to train for two years to become stronger, and they have generally done well at recognizing the need to progress their abilities for coming conflicts which has allowed them to remain active and grow in power despite the extremely dangerous situations they get into.
+The majority of the Straw Hats, particularly Luffy, tend to be very trusting and sometimes gullible which has led to them being trapped on occasion.[105] One such instance came on Whisky Peak, where they were very nearly captured by Baroque Works after unquestioningly accepting their hospitality; only Zoro taking measures to catch this trap saved the rest of the crew.[106]
+
+Professions and Capabilities
+
+
+
+Name
+
+Age
+
+Profession
+
+Capabilities
+
+Epithet
+
+
+Monkey D. Luffy
+
+17 (debut);19 (post-timeskip)
+
+Captain
+
+
+Gomu Gomu no Mi (Awakened)
+All three forms of Haki (Advanced)
+Poison Resistance
+Voice of All Things
+Free-Fighting Style
+
+"Straw Hat" (麦わら, Mugiwara?)
+
+
+Roronoa Zoro
+
+19 (debut);21 (post-timeskip)
+
+Swordsman;Combatant
+
+
+Swordsmanship:
+Three Sword Style
+King of Hell Three Sword Style
+Two Sword Style
+One Sword Style
+Nine Sword Style
+No Sword Style
+Foxfire Style
+All three forms of Haki (Advanced Haoshoku Haki)
+
+"Pirate Hunter" (海賊狩り, Kaizoku Gari?)
+
+
+Nami
+
+18 (debut);20 (post-timeskip)
+
+Navigator
+
+
+Cartographer
+Art of Weather
+Sorcery Clima-Tact
+Zeus
+Bo Staff Fighter
+
+"Cat Burglar" (泥棒猫, Dorobō Neko?)
+
+
+Usopp
+
+17 (debut);19 (post-timeskip)
+
+Sniper
+
+
+Weapon Arsenal
+Kuro Kabuto
+Pop Green Ammunition
+Weapon Inventor
+Kenbunshoku Haki
+
+"Sogeking" (そげキング, Sogekingu?)"God" (ゴッド, Goddo?)
+
+
+Sanji
+
+19 (debut);21 (post-timeskip)
+
+Cook
+
+
+Black Leg Style:
+Diable Jambe
+Ifrit Jambe
+Kenbunshoku &amp; Busoshoku Haki
+Modified Human
+Attack Cuisine
+
+
+"Black Leg" (黒脚, Kuro Ashi?)
+
+
+
+Tony Tony Chopper
+
+15 (debut);17 (post-timeskip)
+
+Doctor
+
+
+Hito Hito no Mi
+Drug, Medicine, and Virus Inventor
+Zoolingualism
+Hand-to-Hand Combatant
+
+"Cotton Candy Lover" (わたあめ大好き, Wataame Daisuki?)
+
+
+Nico Robin
+
+28 (debut);30 (post-timeskip)
+
+Archaeologist
+
+
+Hana Hana no Mi
+Fish-Man Karate
+Poneglyph reader
+Assassination
+
+"Devil Child" (悪魔の子, Akuma no Ko?)
+
+
+Franky
+
+34 (debut);36 (post-timeskip)
+
+Shipwright
+
+
+Cyborg Modifications
+Ship and Vehicle Construction
+Battle Frankies Arsenal
+General Franky
+Franken Swordsmanship
+Boxing
+Laser Technology
+
+"Cyborg" (鉄人, Saibōgu?)"Iron Man"  (鉄人, Tetsujin?)
+
+
+Brook
+
+88 (debut);90 (post-timeskip)
+
+Musician
+
+
+Soul Solid
+Yomi Yomi no Mi
+Music-based combat
+Skeletal body
+Former Royal Guard
+
+"Humming" (鼻唄, Hanauta?)"Soul-King" (ソウルキング, Souru Kingu?)
+
+
+Jinbe
+
+44 (debut);46 (post-timeskip)
+
+Helmsman
+
+
+Fish-Man traits
+Communication with Marine Life
+Former Royal Guard
+Fish-Man Karate
+Fish-Man Jujutsu
+Busoshoku &amp; Kenbunshoku Haki
+
+"Knight of the Sea" (海侠, Kaikyō?)
+
+
+Nefertari Vivi (former)
+
+16 (debut);18 (post-timeskip)
+
+N/A
+
+
+Peacock Slashers
+Royalty
+Pet Owner
+
+N/A
+
+Bounties
+
+
+ 
+  “
+  We'd never have tried anything here... if you hadn't attacked us first!!
+  ”
+ 
+
+
+ 
+  — Usopp as he prepares to fight Neptune and his soldiers.
+  
+ 
+
+
+
+Though they are pirates in name, the Straw Hat Pirates do not engage in the stereotypical activities of pirates. They are all kindhearted for the most part and only fight in self-defense or vengeance for their friends. In fact, before the Enies Lobby Arc, when CP9 initiated the conflict by blackmailing Nico Robin and detaining her, the Straw Hats mostly fought only other pirates (except for Luffy and Zoro, who took down the dreaded Axe Hand Morgan and several of his unwilling subordinates,[107] Sanji, who beat up Fullbody and possibly some other unfortunate Marines before becoming an official Straw Hat,[108] and Jinbe, who had numerous skirmishes during his time as a member of the Sun Pirates). It seems they were considered dangerous to the World Government and given bounties simply because they called themselves pirates.
+They are considered villains by the World Government and the general public who are not familiar with them, making this is a hassle for them at times. Like most other pirates, the majority of the Straw Hats see their bounties as a form of achievement, a sign of how much fame and recognition their actions have produced. Nami notes that, as pirates, they are used to taking the blame and being portrayed as the villains. Their current bounties now total up to 8,816,001,000.
+
+Profile
+
+
+
+
+
+
+
+"Straw Hat" Monkey D. Luffy[109]
+
+
+
+First bounty: 30,000,000 for defeating the three top pirates of East Blue; Buggy, Don Krieg, and Arlong. Usopp was also in the picture, but only the back of his head was seen.[110][111]
+Second bounty: 100,000,000 for defeating Crocodile of the Seven Warlords of the Sea and exposing his plans to conquer the kingdom, thus greatly disrupting the balance of the Three Great Powers.[11]
+Third bounty: 300,000,000 for leading the assault on Enies Lobby, declaring war against the World Government, defeating both Blueno and Rob Lucci of CP9, and for ultimately rescuing Nico Robin from government custody.[10] Furthermore, as a result of this bounty, Luffy was officially recognized as part of the Worst Generation.
+Fourth bounty: 400,000,000 for some or all of the following: defeating Gecko Moria of the Seven Warlords of the Sea, punching Saint Charlos of the World Nobles, breaking into and out of Impel Down along with 241 prisoners, participating in the Summit War of Marineford against the Marines in-order to save Portgas D. Ace, ringing the Ox Bell (which was taken as an act of war), and being publicly recognized as Ace's adoptive brother, grandson of the legendary Marine Vice Admiral Garp and finally as the son of the Revolutionary Dragon.[8]
+Fifth bounty: 500,000,000 for defeating both the rouge scientist Caesar Clown and Donquixote Doflamingo of the Seven Warlords of the Sea as well as forming an alliance with the Heart Pirates.[7] His picture was also updated to match his post-timeskip appearance.
+Sixth bounty: 1,500,000,000 for infiltrating the territory of Big Mom of the Four Emperors, participating in the plot to assassinate her, destroying her castle, defeating two of her Sweet Commanders, Cracker and Katakuri, and being publicly recognized as the sworn brother of the Revolutionary Army's Chief of Staff, Sabo as well as the leader of the Straw Hat Grand Fleet.[112]
+Seventh bounty: 3,000,000,000 for leading the Raid on Onigashima, defeating Kaidou of the Four Emperors, and driving the Beasts Pirates out of Wano. As a result of this victory, Luffy himself came to be recognized officially by the world as one of the Four Emperors. Furthermore, to the dismay of the Five Elders, not only did the marines not receive the order to remove the "D" in his name, but Luffy's picture was updated to show his awakened form to the whole world.[2]
+
+
+
+
+
+
+
+
+"Pirate Hunter" Roronoa Zoro[10]
+
+
+
+First bounty: 60,000,000 for defeating Daz Bonez of Baroque Works, as well as defeating 100 bounty hunters in Whisky Peak.[11]
+Second bounty: 120,000,000 for his involvement in the Enies Lobby Incident and for defeating CP9 agent Kaku.[10] With this bounty, he was recognized as a member of the Worst Generation alongside Luffy.
+Third bounty: 320,000,000 for his involvement with helping take down ex-Warlord of the Sea Donquixote Doflamingo and for defeating elite officer Pica of the Donquixote Pirates.[7] His picture was also updated to match his post-timeskip appearance.
+Fourth bounty: 1,111,000,000 for his involvement in the Raid on Onigashima and for defeating All-Star King of the Beasts Pirates. Furthermore, as his captain was officially recognized as one of the Four Emperors, Zoro was named as one of Luffy's nine commanders.[113]
+
+
+
+
+
+
+
+
+"Cat Burglar" Nami[10]
+
+
+
+First bounty: 16,000,000 for her involvement in the Enies Lobby Incident and for defeating CP9 agent Kalifa. While most of the other Straw Hats are impressed at having bounties, Her picture was taken under the false pretense of a reporter wanting to take her picture for a magazine, hence the suggestive pose.
+Second bounty: 66,000,000 for her affiliation with the Straw Hat Pirates after the defeat of Donquixote Doflamingo. Her picture was updated to match her post-timeskip appearance.[7]
+Third bounty: 366,000,000 for her involvement in the Raid on Onigashima and for defeating Ulti of the Beasts Pirates' Tobiroppo. Furthermore, as her captain was officially recognized as one of the Four Emperors, Nami was named as one of Luffy's nine commanders.
+
+
+
+
+
+
+
+
+"God" Usopp[7]
+
+
+
+First bounty: 30,000,000 for his involvement in the Enies Lobby incident and for shooting down the World Government flag and sniping off marines on the Bridge of Hesitation. However, because Usopp spent the battle disguised under the alias of "Sogeking", his bounty is attributed to the name Sogeking and the picture on his bounty poster shows Usopp with his mask on.
+Second bounty: 200,000,000 for his involvement in the defeat of Donquixote Doflamingo and for defeating officer Sugar of the Donquixote Pirates, freeing the enslaved toys throughout Dressrosa by turning them back into people and earning him the epithet of "God" as a result. His bounty poster was updated to include his real name and face unlike with his prior bounty.
+Third bounty: 500,000,000 for his involvement in the Raid on Onigashima and the defeat of the Beasts Pirates. Furthermore, as his captain was officially recognized as one of the Four Emperors, Usopp was named as one of Luffy's nine commanders.
+
+
+
+
+
+
+
+
+"Black Leg" Vinsmoke Sanji[10]
+
+
+
+First bounty: 77,000,000 for his involvement in the Enies Lobby Incident and for defeating CP9 agent Jabra.[10] However, a proper picture was not taken because the photographer forgot to remove the lens cap. As a result, crude drawing of a person that barely looks like him was substituted.
+Second bounty: 177,000,000 for his affiliation with the Straw Hat Pirates after the events of Dressrosa. His picture was also updated to match with his post-timeskip appearance. However, at the instigation of his father, the condition for redeeming his bounty was changed to "Only Alive".[7]
+Third bounty: 330,000,000 for his involvement in the Big Mom assassination plot and for his relation to the Vinsmoke Family and Germa 66 being made public. His name has updated to "Vinsmoke Sanji," (much to his disappointment) and the condition for redeeming his bounty was changed back to "Dead or Alive."[114]
+Fourth bounty: 1,032,000,000 for his involvement in the Raid on Onigashima and for defeating All-Star Queen of the Beasts Pirates. Furthermore, as his captain was officially recognized as one of the Four Emperors, Sanji was named as one of Luffy's nine commanders. Like his first bounty poster, it uses a sketch instead of a picture, though the details of why are unknown.
+
+
+
+
+
+
+
+
+"Cotton Candy Lover" Tony Tony Chopper[10]
+
+
+
+First bounty: 50 for his involvement in the Enies Lobby Incident and for defeating CP9 agent Kumadori.[10] The low bounty amount is due to Chopper being mistaken as a pet, and thus he is not considered a significant threat by the World Government.
+Second bounty: 100 for his affiliation with the Straw Hat Pirates after the events of Dressrosa. Chopper's picture was updated to match his post-timeskip appearance.[7]
+Third bounty: 1,000 for his involvement in the Raid on Onigashima. He is also now officially recognized as the ship doctor and was named as one of the nine commanders of the Straw Hat Pirates after Luffy was recognized as one of the Four Emperors, but he still retains his status as a pet.
+
+
+
+
+
+
+
+
+"Devil Child" Nico Robin[115]
+
+
+
+First bounty: 79,000,000 for being able to read and understand the Poneglyphs. However, the government falsely reported that she destroyed six Marine battleships as a child in order to justify the bounty.[116]
+Second bounty: 80,000,000 for her involvement in the Enies Lobby incident. Her picture was also updated to match her appearance as an adult.[10]
+Third bounty: 130,000,000 for her involvement in helping to defeat Donquixote Doflamingo and the Donquixote Pirates.[7] Her bounty picture was updated to match her post-timeskip appearance.
+Fourth bounty: 930,000,000 for her involvement in the Raid on Onigashima, defeating Black Maria of the Beasts Pirates' Tobiroppo, and for the increased threat her knowledge of the Poneglyphs has now. Furthermore, as her captain was officially recognized as one of the Four Emperors, Robin was named as one of Luffy's nine commanders.
+
+
+
+
+
+
+
+
+"Iron Man" Franky[7]
+
+
+
+First bounty: 44,000,000 for his involvement in the Enies Lobby incident and for defeating CP9 agent Fukurou, as well as for burning the blueprints for Pluton.[10]
+Second bounty: 94,000,000 for his involvement in helping to take down Donquixote Doflamingo, and for defeating officer Senor Pink of the Donquixote Pirates. However, his previous picture has been replaced with a photo of the General Franky.[7]
+Third bounty: 394,000,000 for his involvement in the Raid on Onigashima and for defeating Sasaki of the Beasts Pirates' Tobiroppo. Furthermore, as his captain was officially recognized as one of the Four Emperors, Franky was named as one of Luffy's nine commanders. However, Franky's bounty picture was replaced with a photo of the Thousand Sunny's figurehead.
+
+
+
+
+
+
+
+
+"Soul King" Brook[7]
+
+
+
+First bounty: 33,000,000 for his acts of piracy in his previous life. However, this bounty and the picture accompanying it were issued fifty years ago. and until the Marines managed to connect his skeletal appearance to his original bounty poster following his retirement from his rock star life after the timeskip. As a result, Brook's bounty has become active once again after fifty years, and he has been publicly outed to the world once as a pirate.[117][118]
+Second bounty: 83,000,000 for his affiliation with the Straw Hat Pirates after the events of Dressrosa.  Also, Brook's new poster is now officially under the title of his stage name, "Soul King" Brook, and one of his concert photos was reused to as his current picture.[7]
+Third bounty: 383,000,000 for his involvement in the Raid on Onigashima and helping to defeat the Beasts Pirates as well as helping prevent CP0 from capturing his crewmate, Robin. Furthermore, as his captain was officially recognized as one of the Four Emperors, Brook was named as one of Luffy's nine commanders.
+
+
+
+
+
+
+
+
+"Knight of the Sea" Jinbe[119]
+
+
+
+First bounty: 76,000,000 for being a member of the Sun Pirates under Fisher Tiger.[120]
+Second bounty: 250,000,000 for his tenure as the new captain of the Sun Pirates after Fisher Tiger's death. This bounty was later frozen upon Jinbe joining the Seven Warlords of the Sea.[119]
+Third Bounty: 438,000,000 for disobeying the World Government's summons orders for the Seven Warlords, participating in the mass breakout of Impel Down, fighting on the side of the Whitebeard Pirates during the Summit War of Marineford against the Marines, and for ultimately resigning from the Seven Warlords, causing the government to reinstate and increase his bounty.[121][122]
+Fourth Bounty: 1,100,000,000 for his involvement in the Raid on Onigashima and for defeating Who's-Who of the Beasts Pirates' Tobiroppo, as well as for officially joining the Straw Hat Pirates. Furthermore, as his captain was officially recognized as one of the Four Emperors, Jinbe was named as one of Luffy's nine commanders.
+
+
+Relationships Amongst the Crew
+
+
+ 
+  “
+  Don't you dare insult my captain in front of me. He would never think about betraying us! No matter how much easier it would make things! (...) But no matter what he has to do...what hardships he has to overcome...he puts his absolute faith in us...and we reciprocate in kind! So we gladly risk our lives, since he does the same without a second thought!
+  ”
+ 
+
+
+ 
+  — Usopp about Luffy and their crew's conviction.
+  
+ 
+
+
+
+
+ 	 	 	 		 			 		 		 		 			The Straw Hats are very much like a close-knit family. 		 	 
+Each member of the crew values their friendships very highly. Despite their usual comic annoyance with each other from time to time, they very much love being together as well as being a member of the crew. So much so, that they tend to forget their worries and burdens, as shown with Nami, Robin, Franky, and Brook.
+One of the major themes of the series is how committed they are to each other, to the point where they are willing to give up what is important to them, such as their lives, and even their dreams, for one of their crew members. If one single member is hurt by an outside force (physically or emotionally), the other members will become enraged and take drastic action to avenge their friends. Previously, they have gone as far as to take on an entire organization, make enemies with the World Government, and even attack the World Nobles.
+Examples of their camaraderie include: During their fight with Bartholomew Kuma, Sanji, Zoro, and Brook threw themselves in front of their friends to keep Kuma from getting to them. After Luffy was overwhelmed with grief over Ace's death, not only was he able to overcome his pain by remembering that he still had his crew, but the others struggled to return to him for support when they realized how hurt Luffy would be. Upon receiving his message to wait two years, they all reminisced on how Luffy changed their lives for the better and resolved to use that time to hone their skills in order to be more useful to him and protect each other better from any danger.
+If any of them encounter a person that the crew dislikes either because of a past event or simply because that member is against what that person is doing, then the rest of the crew will hold a deep grudge against that person and will express the desire to attack them and will not show them any mercy. When Vivi (despite not being a crew member) showed her hatred of Crocodile, the rest of the crew, especially Luffy, all had the intention of taking him down without even knowing him. When Brook told the Straw Hats of how Moria stole his shadow, Luffy immediately asked where he was so he could get Brook's shadow back despite just meeting the skeleton, while the others were all behind him.
+A common trait shared among the crew is that they all enjoy beating up their enemies and refuse to show mercy no matter how much they apologize. This trait seems to be the strongest for Luffy. Even after beating up the person, they despise, they still hold a very deep grudge against them and refuse to show any empathy or kindness towards them, even if they claim to have changed or if they have tried to do anything to make up for what they have done. The most notable example of this is how every member of the Straw Hats show a very deep hate-filled grudge against Caesar for what he did back at Punk Hazard and even after Luffy defeated him, they all still abused him by punching, kicking, and yelling at him for as so much as talking back at them, showing how merciless the crew can be. A notable exception to this is Bentham, a major antagonist of the Arabasta Arc who battles against Sanji. After fleeing from Arabasta, he steals Going Merry, only to tell the Straw Hats he was keeping it safe from the Marines. He later acts as a decoy so the Straw Hats can escape from the Marines after being moved by their wish to see their friend Vivi again. Later in Impel Down, Luffy meets up with Bentham and their friendship reaches new heights, with Bentham screaming for three days straight to support Luffy's recovery, before again staying behind to open the gates so Luffy and the other prisoners can escape.
+However, there have also been occasions when the Straw Hats argue amongst themselves for various reasons. Most prominently, such confrontations take place between Zoro and Sanji (mainly caused by their frequent dislike towards various aspects of one another), and are relatively comic in nature. However, there have also been occasions when other crew members have experienced major conflicts between each other, which have been known to end in tragedy and heartbreak. One notable example is Usopp's fury at Luffy opting to abandon the Going Merry in favor of another ship at Water 7. As a result, Usopp seemingly left the crew, heartbroken and angry at Luffy's apparent disregard for Merry. However, these conflicts, though indeterminate in length, rarely ever last - Usopp nonetheless accompanied the crew in his guise as Sogeking, before formally rejoining them as they set off on their new ship, the Thousand Sunny. In addition to this, the likes of Sanji and Zoro will often put aside their rivalry to accomplish a common goal, though this ranges from their having a mutual enemy to outright competing against each other.
+As such, the Straw Hats are a group that works towards their personal morals and convictions, with each member of the crew being ready and willing to help out the other, often putting aside all misgivings. For example, when Nami and Chopper both expressed their wish to help out the kidnapped children on Punk Hazard, and the poison gas victims on Zou, though the others did warn them of potential troubles that may occur if they do so, they unhesitatingly helped them regardless. However, if one crew member acted out against the wishes of the rest, the others will do everything in their power to steer them back towards themselves, just like how they went out of their way to rescue Robin, after she attempted to sacrifice herself for the Straw Hats without their consent in the Water 7 Saga.
+
+Dreams
+Each member of the Straw Hats has a dream they want to achieve. These dreams are their reasons for joining Luffy's crew, and essentially the driving force behind their lives. Most crew member's dream was inspired by tragedies (often deaths) in their childhoods that involved at least one person they idolized and cared for deeply.
+Some, like Zoro, Nami, Usopp, Chopper, Franky, and Jinbe are fulfilling their dreams by accumulating knowledge and/or achieving a certain task while sailing the Grand Line. Others, like Sanji, Robin, and Brook are searching for a person, place or thing that can only be found on the Grand Line.
+Whatever the reason, each of the Straw Hat's dreams involves traveling the Grand Line, and each Straw Hat member refuses to die before achieving their dreams. However, their determination does not extend to sacrificing or abandoning their comrades for the fulfillment of their dreams.
+So far, only Luffy's dream isn't entirely known, apart from a select few.
+
+Members' Dreams
+Luffy's dream is known to only a few people: his crew, sworn brothers Ace and Sabo, and role model Shanks, and indirectly Yamato and Momonosuke, and it is said to be the same original goal of Gol D. Roger. In order to achieve it he decides to become the Pirate King and gather his own pirate crew to back him up. To become the Pirate King, he must find Roger's famed treasure, One Piece, which is implied to be on Laugh Tale. As for a crew, he has brought together nine people so far who have caught his attention. Luffy is also looking to meet up with Shanks again and return his straw hat to him but will only do this after his crew has surpassed Shanks' crew in strength.
+Zoro's dream, shared with Kuina, is to become the world's greatest swordsman. To fulfill this dream, he must surpass every swordsman in the world, including the world's current greatest swordsman, Dracule Mihawk.[123] Zoro nearly gave up his dream in an attempt to convince the Warlord of the Sea, Bartholomew Kuma to refrain from killing Luffy despite that the first time they met Zoro threatened to kill Luffy if he got in the way of his dream, proving his loyalty towards his captain as well as the rest of the crew, as he believes that he cannot be the world's strongest swordsman if he cannot protect his captain's dream (Luffy, likewise, believes that the Pirate King should have the best swordsman on his side).
+Nami's dream is to draw a map of the entire world. She has already mapped all the areas that she has traveled, and it can be assumed that she will create a world map once the story is over. Also, at the beginning of the story, she was also trying to get 100,000,000 in order to buy and save her hometown, Cocoyasi Village, from the clutches of the Fish-Man pirate Arlong; while her savings were confiscated after stealing 93,000,000, in the process of stealing from pirates, she met Luffy, who defeated Arlong and freed the village.
+Usopp's dream is to become a brave warrior of the sea like his father, Yasopp. Although he implies that he has accomplished this dream (before he leaves the crew), but eventually realizes on his confrontation with Luffy that he has yet to achieve it, Usopp has a second dream. After the Little Garden Arc he hopes to visit Elbaf and see the warrior giants he idolizes, and during the Post-War Arc Usopp develops yet another dream, to be the true Sniper King, after he got Luffy's message to get stronger in two years.
+Sanji's dream, shared with Zeff, is to find the All Blue, a legendary ocean. It is assumed to be in the Grand Line, a place where all waters from all over the four seas gather, bringing fish from all over the globe. During the early-Arlong Arc, Sanji had stated that he wanted to visit Fish-Man Island someday to see a Mermaid, which has been fulfilled; sure enough, the chef broke down crying upon seeing all the mermaids and implied that meeting the mermaids was on an equivalent level to finding the All-Blue. He also wished to consume the Suke Suke no Mi but unfortunately for him, Absalom destroyed that dream as he had already eaten it. However, upon seeing Absalom's detestable actions, Sanji changed his mind about his desire to consume it. Ironically, because of his recently acquired Raid Suit and its power of invisibility, Sanji's childhood dream of turning invisible has been restored and fulfilled through the Germa technology he hated. Sanji nearly gave up on his dream of locating All Blue when he prioritized protecting Zeff from the death threats of his father and the Big Mom Pirates.
+Chopper's dream is to become a great doctor that can cure any disease, much like his father figure Dr. Hiriluk's ambition, as well as to travel across the world, exploring with his friends, and expanding his horizons.
+Robin's dream is to find the Rio Poneglyph which tells the True History of the One Piece world including the Void Century, continuing the research of her mother Nico Olvia and her old mentor Clover. Robin had an opportunity to learn about the Void Century after talking to Silvers Rayleigh but decided to continue her journey. Recently, she learned about the Road Poneglyphs, which point to Laugh Tale and the Rio Poneglyph.
+Franky's dream is to build and travel on a ship which would experience countless battles, can overcome extreme hardships and can reach the end of the Grand Line just like the Oro Jackson, the ship built by Franky's mentor Tom for Gol D. Roger, did. He has designed and built the ship which the Straw Hats are riding and it's his task to keep it in good condition. Previously, one of his dreams was to beat Spandam to pieces. Fortunately, this was fulfilled toward the end of the Enies Lobby Arc.
+Brook's dream is to return to Laboon, whom his former crew, the Rumbar Pirates, had left behind at Reverse Mountain for his safety, with the promise to return after crossing the Grand Line. He wishes to fulfill that promise to Laboon, as well as that of his former crewmates, who died at their journey, to deliver their final song recorded in a tone dial before their death.
+Jinbe's dream, which he inherited from his former captain, Fisher Tiger, is the coexistence of humans and the undersea dwellers. He initially resigned from Neptune's Royal Guards to join Tiger in his quest for equality, and then allied himself with the World Government by becoming a Warlord of the Sea, and with two Emperors (Edward Newgate and Charlotte Linlin) in order to protect the citizens of Fish-Man Island from being attacked. However, as stated by the Sun Pirates, those actions were mostly for the benefit of others, as they encouraged him to follow his new desire to help Luffy become the next Pirate King.
+Former Members' Dreams
+Vivi's dream was to save her home country, the kingdom of Arabasta, from the coup planned by then Warlord of the Sea, Crocodile and his secret organization, Baroque Works. After her cover as a member of the group was revealed, she enlisted the Straw Hats' help, initially as a business arrangement, though it later became a matter of friendship. After the crew stopped Crocodile's plan and her dream achieved, she decided to stay behind to rebuild her home and repair the damage caused by Baroque Works, both physical and social.
+The Going Merry's dream as the crew's ship was to sail with the Straw Hats forever which it revealed to the crew upon its demise. Due to its destruction, the Going Merry's dream appeared to go unfulfilled. However, Merry's spirit seems to inhabit the Straw Hats' new ship, the Thousand Sunny, and therefore its dream can live on through it.
+The X Mark
+ 	 	 	 		 			 		 		 		 			The Straw Hats show Vivi their 'X' marks as a silent farewell and a sign of camaraderie to her. 		 	 
+The X Mark is something the first seven Straw Hats (Luffy to Chopper), as well as Karoo, had on their left forearms.
+During the Arabasta Arc, they had to face a very tricky opponent, Mr. 2, with his Devil Fruit Power, which can make him look like any one of them. Zoro came up with an idea to counteract this power.
+They made a black X mark on their left arms, as a symbol of their belonging to the Straw Hats. To prevent this being copied by Mr. 2, it was covered by a bandage and only revealed as proof of identity. The intention being that the band appeared to be proof, but in fact, concealed the true sign. Luffy then stated that the X mark was a symbol of their friendship.
+The X mark came into play three times in Arabasta:
+
+When Karoo reached Alubarna to deliver a message to Vivi's father, Nefertari Cobra, Chaka noticed his bandage and, thinking Karoo was wounded, tried to examine it. Karoo promptly slapped his hand away.
+When Vivi is heading toward Alubarna, the capital city of the Arabasta Kingdom, she met Usopp but she was not sure if he was him or not. As she asked him to show their recognizing symbol, he showed the bandage, but without uncovering the X mark. Vivi understood that he was Mr. 2 disguised as Usopp and ran away.
+When the Straw Hats were leaving Arabasta, they could not say goodbye to Vivi in a proper way, to avoid the princess being recognized by the marines as their crewmate. So, they stand with their backs facing Vivi, raising their left hands and showing their X mark. Vivi and Karoo replied in the same way too, as a symbol of their unbreakable friendship.
+Notes
+
+↑ Monkey D. Luffy - 3,000,000,000Roronoa Zoro - 1,111,000,000Nami - 366,000,000Usopp - 500,000,000Sanji - 1,032,000,000Tony Tony Chopper - 1,000Nico Robin - 930,000,000Franky - 394,000,000Brook - 383,000,000Jinbe - 1,100,000,000
+
+↑ Monkey D. Luffy - 1,500,000,000Roronoa Zoro - 320,000,000Nami - 66,000,000Usopp - 200,000,000Sanji - 330,000,000Tony Tony Chopper - 100Nico Robin - 130,000,000Franky - 94,000,000Brook - 83,000,000Jinbe - 438,000,000
+
+↑ Monkey D. Luffy - 500,000,000Roronoa Zoro - 320,000,000Nami - 66,000,000Usopp - 200,000,000Sanji - 177,000,000Tony Tony Chopper - 100Nico Robin - 130,000,000Franky - 94,000,000Brook - 83,000,000Jinbe - 438,000,000
+
+↑ Monkey D. Luffy - 500,000,000Roronoa Zoro - 320,000,000Nami - 66,000,000Usopp - 200,000,000Sanji - 177,000,000Tony Tony Chopper - 100Nico Robin - 130,000,000Franky - 94,000,000Brook - 83,000,000
+
+↑ Monkey D. Luffy - 400,000,000Roronoa Zoro - 120,000,000Nami - 16,000,000Usopp - 30,000,000Sanji - 77,000,000Tony Tony Chopper - 50Nico Robin - 80,000,000Franky - 44,000,000Brook - 33,000,000
+
+↑ Monkey D. Luffy - 300,000,000Roronoa Zoro - 120,000,000Nami - 16,000,000Usopp - 30,000,000Sanji - 77,000,000Tony Tony Chopper - 50Nico Robin - 80,000,000Franky - 44,000,000Brook - 33,000,000
+
+↑ Monkey D. Luffy - 300,000,000Roronoa Zoro - 120,000,000Nami - 16,000,000Usopp - 30,000,000Sanji - 77,000,000Tony Tony Chopper - 50Nico Robin - 80,000,000Franky - 44,000,000
+
+↑ Monkey D. Luffy - 100,000,000Roronoa Zoro - 60,000,000Nico Robin - 79,000,000
+
+↑ Monkey D. Luffy - 30,000,000
+
+
+References
+
+
+↑ One Piece Manga and Anime — Vol. 1 Chapter 5 (p. 19) and Episode 3, Zoro agrees to become Luffy's crewmate.
+
+↑ 2.0 2.1 One Piece Manga and Anime — Vol. 104 Chapter 1053 (p. 4-5) and Episode 1080, Luffy's bounty as one of the new Four Emperors.
+
+↑ One Piece Manga and Anime — Vol. 105 Chapter 1058 (p. 3-5) and Episode 1086, The Straw Hat Pirates' bounties post-Wano Country.
+
+↑ One Piece Manga and Anime — Vol. 90 Chapter 903 (p. 4-5, 16-17) and Episodes 878–879, Luffy and Sanji get new bounties.
+
+↑ One Piece Manga and Anime — Vol. 90 Chapter 901 (p. 13) and Episode 876, Luffy proclaims that he is Jinbe's captain.
+
+↑ Vivre Card - One Piece Visual Dictionary (Card #0010).
+
+↑ 7.00 7.01 7.02 7.03 7.04 7.05 7.06 7.07 7.08 7.09 7.10 7.11 One Piece Manga and Anime — Vol. 80 Chapter 801 (p. 15-17) and Episode 746, The Straw Hats are given new bounties after Dressrosa.
+
+↑ 8.0 8.1 One Piece Manga and Anime — Vol. 61 Chapter 601 (p. 12) and Episode 521, Luffy's fourth bounty.
+
+↑ One Piece Manga and Anime — Vol. 50 Chapter 489 (p. 6-7,12) and Episode 381, Brook joins the crew.
+
+↑ 10.00 10.01 10.02 10.03 10.04 10.05 10.06 10.07 10.08 10.09 10.10 One Piece Manga and Anime — Vol. 45 Chapter 435 (p. 16-17) and Episode 320, The crew members' bounties for attacking Enies Lobby are revealed.
+
+↑ 11.0 11.1 11.2 One Piece Manga and Anime — Vol. 23 Chapter 213 (p. 22) and Episode 128, Luffy's and Zoro's bounties after Arabasta.
+
+↑ One Piece Manga and Anime — Vol. 11 Chapter 96 (p. 6) and Episode 45, Luffy's first bounty is put by Brannew in the wanted list.
+
+↑ 13.0 13.1 One Piece Manga and Anime — Vol. 23 Chapter 212 (p. 18) and Episode 127, Smoker reveals to the Government that the Straw Hats defeated the Baroque Works.
+
+↑ One Piece Manga and Anime — Vol. 5 Chapter 41 and Episode 17, The Going Merry is given to Luffy and crew.
+
+↑ One Piece Manga and Anime — Vol. 45 Chapter 436 and Episode 321, Iceburg reveals the Thousand Sunny to the Straw Hats.
+
+↑ One Piece Manga and Anime — Vol. 52–61 Chapters 512–597 and Episodes 404–516, Straw Hats training during the point between the two eras.
+
+↑ 17.0 17.1 One Piece Manga and Anime — Vol. 104 Chapter 1053 (p. 17) and Episode 1080, Luffy became recognized as one of the Four Emperors.
+
+↑ One Piece Manga and Anime — Vol. 27 Chapter 254 (p. 17-19) and Episode 167, The Straw Hats split up on Upper Yard.
+
+↑ One Piece Anime — Episode 204, The Straw Hats split up in Navarone.
+
+↑ One Piece Manga and Anime — Vol. 73 Chapter 730 (p. 17-19) and Episode 662, The Straw Hat crew splits up.
+
+↑ One Piece Manga and Anime — Vol. 79 Chapter 795 (p. 4) and Episode 739, Oda refers to Sanji's group as the Curly Hat Crew.
+
+↑ One Piece Manga and Anime — Vol. 82 Chapter 822 (p. 17) and Episode 776, The narration boxes at the chapter's end refer to the team as Luffy's "Sanji Retrieval Team".
+
+↑ One Piece Manga and Anime — Vol. 86 Chapter 863 (p. 15-19) and Episode 833, Jinbe leaves the Big Mom Pirates in favor of joining the Straw Hats.
+
+↑ One Piece Manga and Anime — Vol. 105 Chapter 1058 (p. 3) and Episode 1086.
+
+↑ One Piece Anime — Episode 219, Luffy wins the final game of the second Davy Back Fight.
+
+↑ One Piece Manga and Anime — Vol. 66 Chapter 652 (p. 4) and Episode 572.
+
+↑ One Piece Manga and Anime — Vol. 90 Chapter 903 (p. 6) and Episode 878.
+
+↑ One Piece Manga and Anime — Vol. 105 Chapter 1057 (p. 9) and Episode 1085.
+
+↑ One Piece Color Walk 9 Tiger (p. 49).
+
+↑ One Piece Manga and Anime — Vol. 87
+      Chapter 875, cover story: The Stories of the Self-Proclaimed Straw Hat Grand Fleet Vol. 10 and Episode 1081.
+
+↑ One Piece Manga and Anime — Vol. 104 Chapter 1054 (p. 13) and Episode 1081, The Red Hair Pirates talk about Bartolomeo.
+
+↑ One Piece Manga and Anime — Vol. 78 Chapter 780 (p. 5) and Episode 721, Law speaks highly of the Straw Hat Pirates.
+
+↑ One Piece Manga and Anime — Vol. 79 Chapter 793 (p. 6) and Episode 736.
+
+↑ One Piece Manga and Anime — Vol. 44 Chapter 426 (p. 6) and Episode 309.
+
+↑ One Piece Manga and Anime — Vol. 25 Chapter 233 (p. 18) and Episode 151.
+
+↑ One Piece Manga and Anime — Vol. 60 Chapter 594 (p. 2) and Episode 511.
+
+↑ One Piece Manga and Anime — Vol. 103 Chapter 1041 (p. 9-10) and Episode 1068.
+
+↑ One Piece Manga and Anime — Vol. 104 Chapter 1053 (p. 4-5) and Episode 1080.
+
+↑ One Piece Manga and Anime — Vol. 61 Chapter 603 (p. 13-17) and Episode 523.
+
+↑ One Piece Manga and Anime — Vol. 66 Chapter 652 (p. 5-6) and Episode 572.
+
+↑ One Piece Manga and Anime — Vol. 87 Chapter 871 (p. 16-17) and Episode 842.
+
+↑ One Piece Manga and Anime — Vol. 44 Chapter 428 (p. 17-19) and Episode 310.
+
+↑ One Piece Manga and Anime — Vol. 61 Chapter 598 and Episode 517.
+
+↑ One Piece Manga and Anime — Vol. 61 Chapter 601 (p. 10) and Episode 521.
+
+↑ One Piece Manga and Anime — Vol. 39 Chapter 377 (p. 19) and Episode 265.
+
+↑ One Piece Manga and Anime — Vol. 64 Chapter 635 (p. 2) and Episode 555.
+
+↑ One Piece Manga and Anime — Vol. 99 Chapter 1003 (p. 13-15) and Episode 1018.
+
+↑ One Piece Manga and Anime — Vol. 47 Chapter 455 (p. 14) and Episode 349, Nami refers to the "Monster Trio"
+
+↑ One Piece Manga and Anime — Vol. 62 Chapter 606 (p. 5) and Episode 525, Caribou refers to the "Monster Trio"
+
+↑ SBS One Piece Manga — Vol. 73 (p. 162).
+
+↑ One Piece Manga and Anime — Vol. 101 Chapter 1020 (p. 15) and Episode 1043, Robin stands up for Sanji against Black Maria.
+
+↑ One Piece Manga — Vol. 101 Chapter 1022 (p. 16-17), The end of chapter tag calls both Zoro and Sanji 'wings'.
+
+↑ One Piece Manga and Anime — Vol. 18 Chapter 162 (p. 12-13) and Episode 97, Luffy, Zoro and Sanji easily defeat a giant Sandora Lizard.
+
+↑ One Piece Manga and Anime — Vol. 52 Chapter 509 (p. 3-5) and Episode 402, Luffy, Zoro and Sanji fight a Pacifista.
+
+↑ One Piece Manga and Anime — Vol. 62 Chapter 605 (p. 7-8) and Episode 524.
+
+↑ One Piece Manga and Anime — Vol. 10 Chapter 90 (p. 15) and Episode 42.
+
+↑ One Piece Manga and Anime — Vol. 44 Chapter 421 (p. 9) and Episode 304.
+
+↑ One Piece Manga and Anime — Vol. 101 Chapter 1016 (p. 15) and Episode 1038.
+
+↑ One Piece Manga and Anime — Vol. 102 Chapters 1034–1035 (p. 13-15, 2-3) and Episode 1061.
+
+↑ One Piece Manga and Anime — Vol. 102–103 Chapters 1035–1036 (p. 16-17, 3-5) and Episode 1062.
+
+↑ One Piece Manga and Anime — Vol. 57 Chapter 559 (p. 10-11) and Episode 468.
+
+↑ One Piece Manga and Anime — Vol. 101 Chapter 1018 (p. 16-17) and Episode 1040.
+
+↑ One Piece Manga and Anime — Vol. 101 Chapter 1019 (p. 16-17) and Episode 1042.
+
+↑ One Piece Manga and Anime — Vol. 101 Chapter 1021 (p. 12-13) and Episode 1044.
+
+↑ One Piece Manga and Anime — Vol. 85 Chapter 853 (p. 2-3) and Episode 820.
+
+↑ One Piece Manga and Anime — Vol. 61 Chapter 598 (p. 15) and Episode 517, Usopp refers to Nami, Chopper, and himself as the "Weakling Trio"
+
+↑ One Piece Manga and Anime — Vol. 46 Chapter 444 (p. 3) and Episode 339, Usopp, Nami and Chopper afraid of Thriller Bark.
+
+↑ One Piece Manga and Anime — Vol. 97 Chapter 977 (p. 10) and Episode 981, Usopp, Nami and Chopper stay back while the others fight.
+
+↑ One Piece Manga and Anime — Vol. 21 Chapter 193 (p. 2-9) and Episode 118.
+
+↑ One Piece Manga and Anime — Vol. 43 Chapter 412 (p. 2-11) and Episode 296.
+
+↑ One Piece Manga and Anime — Vol. 101 Chapter 1016 (p. 10-12) and Episode 1038.
+
+↑ One Piece Manga and Anime — Vol. 48 Chapter 466 (p. 2-12) and Episode 361.
+
+↑ One Piece Manga and Anime — Vol. 76 Chapter 758 (p. 11-14) and Episode 697.
+
+↑ One Piece Manga and Anime — Vol. 42 Chapter 408 (p. 10-15) and Episode 293.
+
+↑ One Piece Manga and Anime — Vol. 20 Chapter 186 (p. 6-19) and Episode 115.
+
+↑ One Piece Manga and Anime — Vol. 100 Chapter 1007 (p. 12-13) and Episode 1023.
+
+↑ One Piece Manga and Anime — Vol. 40 Chapter 383 (p. 16) and Episode 270.
+
+↑ 78.0 78.1 One Piece Manga and Anime — Vol. 43 Chapter 414 (p. 9) and Episode 297.
+
+↑ 79.0 79.1 One Piece Manga and Anime — Vol. 57 Chapter 561 and Episode 470, Mihawk takes note of Luffy's ability to attract allies and followers.
+
+↑ One Piece Manga and Anime — Vol. 40 Chapter 387 (p. 4-8) and Episode 273.
+
+↑ One Piece Manga and Anime — Vol. 11 Chapter 92 (p. 17-18) and Episode 42.
+
+↑ One Piece Manga and Anime — Vol. 76 Chapter 758 and Episode 697, Usopp snipes Sugar from a great distance away.
+
+↑ One Piece Manga and Anime — Vol. 88 Chapter 880 and Episode 852.
+
+↑ One Piece Manga and Anime — Vol. 89 Chapter 900 and Episode 875.
+
+↑ One Piece Manga and Anime — Vol. 100 Chapter 1007 (p. 7-10) and Episode 1023.
+
+↑ One Piece Manga and Anime — Vol. 82 Chapter 818 (p. 4-7) and Episode 769.
+
+↑ One Piece Manga and Anime — Vol. 67 Chapter 658 (p. 12) and Episode 582, Caesar says that laser technology was supposed to be unique to Vegapunk, and is surprised that Franky was able to reproduce it.
+
+↑ One Piece Manga and Anime — Vol. 64 Chapter 635 (p. 5-6) and Episode 555.
+
+↑ One Piece Manga and Anime — Vol. 61 Chapter 598 (p. 7-8) and Episode 517.
+
+↑ One Piece Manga and Anime — Vol. 88 Chapter 888 (p. 5) and Episode 862.
+
+↑ One Piece Manga and Anime — Vol. 89 Chapter 890 and Episode 864.
+
+↑ One Piece Manga and Anime — Vol. 90 Chapter 906 (p. 8-14) and Episodes 884–885.
+
+↑ 93.0 93.1 One Piece Manga and Anime — Vol. 80 Chapter 800 and Episode 745.
+
+↑ One Piece Manga and Anime — Vol. 27 Chapter 248 and Episode 162, Shura attacks Chopper while the rest of the crew is elsewhere.
+
+↑ One Piece Manga and Anime — Vol. 46 Chapter 444 and Episode 339, The Straw Hats face danger on multiple fronts at Thriller Bark.
+
+↑ One Piece Manga and Anime — Vol. 63 Chapter 619 and Episode 538, Zoro, Usopp, and Brook end up overwhemed and captured by Hody Jones' forces.
+
+↑ One Piece Manga and Anime — Vol. 73 Chapter 724 and Episode 655, Doflamingo attacks the Curly Hat Crew.
+
+↑ One Piece Manga and Anime — Vol. 74 Chapter 742 and Episode 676, The Straw Hats outflanked and overwhelmed by the Donquixote Pirates and Marines.
+
+↑ One Piece Manga and Anime — Vol. 29 Chapter 266 and Episode 175, Chopper vs. Ohm.
+
+↑ One Piece Manga and Anime — Vol. 42 Chapter 401 (p. 12-17) and Episode 286, Usopp vs. Jabra.
+
+↑ One Piece Manga and Anime — Vol. 99 Chapter 995 (p. 13-17) and Episode 1008, Nami and Usopp vs. Ulti and Page One.
+
+↑ One Piece Manga and Anime — Vol. 50 Chapter 484 and Episode 376, The Straw Hats overwhelmed by Kuma following their taxing victory over Gecko Moria.
+
+↑ One Piece Manga and Anime — Vol. 84 Chapter 846 (p. 2-8) and Episode 811, Luffy and Nami defeated by Big Mom's army after their battles with Cracker and Sanji.
+
+↑ One Piece Manga and Anime — Vol. 52 Chapter 511 and Episode 403.
+
+↑ One Piece Manga and Anime — Vol. 19 Chapter 169 (p. 6-8) and Episode 106.
+
+↑ One Piece Manga and Anime — Vol. 12 Chapter 107 and Episode 64.
+
+↑ One Piece Manga and Anime — Vol. 1 Chapter 6 (p. 8-9, 21-22) and Episode 3, Luffy and Zoro take down Axe Hand Morgan, Helmeppo, and several unwilling subordinates.
+
+↑ One Piece Manga and Anime — Vol. 5 Chapter 43 (p. 17-19) and Episode 20, Sanji beats up Fullbody for wasting food.
+
+↑ One Piece Manga and Anime — Vol. 18 Chapter 158 (p. 9) and Episode 94, Luffy is first nicknamed by Smoker as "Straw Hat" after his straw hat.
+
+↑ One Piece Manga and Anime — Vol. 11 Chapter 94 (p. 16-17) and Episode 43, Luffy's first bounty is printed and taken out by Nezumi.
+
+↑ One Piece Manga and Anime — Vol. 11 Chapter 96 (p. 6) and Episode 45, Luffy's first bounty is put by Brannew in the wanted list.
+
+↑ One Piece Manga and Anime — Vol. 90 Chapter 903 (p. 16-17) and Episode 879, Luffy's bounty increases to 1.5 billion.
+
+↑ One Piece Manga and Anime — Vol. 105 Chapter 1058 (p. 4-5) and Episode 1086, The Straw Hats' new bounties after the Raid on Onigashima are shown.
+
+↑ One Piece Manga and Anime — Vol. 90 Chapter 903 (p. 4, 16-17) and Episodes 878–879, Luffy and Sanji get new bounties.
+
+↑ One Piece Manga and Anime — Vol. 41 Chapter 398 (p. 4) and Episode 278, Robin gets a bounty.
+
+↑ One Piece Manga and Anime — Vol. 41 Chapter 398 (p. 4) and Episode 278.
+
+↑ One Piece Manga and Anime — Vol. 50 Chapter 489 (p. 12) and Episode 381, Brook reveals that he was the leader of the battle convoy of a certain kingdom before joining the Rumbar Pirates, and then his bounty as a pirate.
+
+↑ One Piece Manga and Anime — Vol. 61 Chapter 600 (p. 13) and Episode 520, Brook is revealed to the world as a member of the Straw Hat Pirates. He is also confirmed to be the second captain of the Rumbar Pirates from 50 years ago and his bounty is still considered active.
+
+↑ 119.0 119.1 One Piece Manga and Anime — Vol. 54 Chapter 528 (p. 16-19) and Episode 430.
+
+↑ One Piece Manga and Anime — Vol. 63 Chapter 622 (p. 14) and Episode 541, Jinbe's first bounty seen on his wanted poster.
+
+↑ Vivre Card - One Piece Visual Dictionary (Card #0010), Jinbe's Bounty after his resignation from the Seven Warlords of the Sea.
+
+↑ One Piece Manga and Anime — Vol. 97 Chapter 976 (p. 19) and Episode 980, Jinbe's current bounty seen in his infobox.
+
+↑ One Piece Manga and Anime — Vol. 6 Chapter 49 (p. 6) and Episode 23, Zoro states who his end goal is.
+
+
+
+Site Navigation
+[v · e · ?]Straw Hat PiratesCrew:
+Monkey D. Luffy
+Roronoa Zoro
+Nami
+Usopp
+Sanji
+Tony Tony Chopper
+Nico Robin
+Franky
+Brook
+Jinbe
+Nefertari Vivi (Former)‡
+Companions:
+Zeus
+Karoo (Former)‡
+Main Ships:
+Going Merry (Deceased: Destroyed)†
+Thousand Sunny
+Soldier Dock System:
+Shiro Mokuba I
+Mini Merry II
+Shark Submerge III
+Kurosai FR-U IV
+Brachio Tank V
+Other Ships:
+Shimashima Shopping (Deceased: Destroyed)†
+Karasumaru (Former)‡
+Taru Tiger (Former)‡
+Tarumanma (Non-Canon)≠ (Deceased: Destroyed)†
+Ma Ikkada (Non-Canon)≠ (Deceased: Destroyed)†
+Sexy Foxy (Non-Canon)≠ (Former)‡
+AbilitiesDevil Fruit Based:
+Gomu Gomu no Mi (Main Techniques
+Gear 2
+Gear 3
+Gear 4
+Gear 5)
+Hito Hito no Mi (Rumble Ball)
+Hana Hana no Mi
+Yomi Yomi no Mi
+Fighting Style Based:
+Haki (Kenbunshoku
+Busoshoku
+Haoshoku)
+No Sword Style
+Black Leg Style (Diable Jambe
+Ifrit Jambe)
+Fish-Man Karate
+Fish-Man Jujutsu
+Weapon Based:
+Three Sword Style (One Sword Style
+Two Sword Style
+Nine Sword Style) (Wado Ichimonji
+Sandai Kitetsu
+Enma
+Yubashiri (Deceased: Destroyed)†
+Shusui (Former)‡)
+Foxfire Style
+Art of Weather (Zeus)
+Usopp Tactics (Pop Green)
+Franken
+Soul Solid
+Raid Suit (Deceased: Destroyed)†
+Nidai Kitetsu (Former)‡
+Peacock Slashers (Former)‡
+Creations:
+Kuro Kabuto
+Chopperphage
+Armored Me
+General Franky
+Clima-Tact (Former)‡
+Perfect Clima-Tact (Former)‡
+Standard Sorcery Clima-Tact (Former)‡
+Grow Up Sorcery Clima-Tact (Former)‡
+Ginga Pachinko (Former)‡
+Kabuto (Former)‡
+Cyborg Tactics (Former)‡
+Omni-Cannon (Non-Canon)≠
+Support:
+Wapometal
+Voice of All Things
+Related ArticlesAssociated Locations:
+Goa Kingdom (Foosha Village
+Mt. Colubo)
+Rusukaina
+Shimotsuki Village
+Kuraigana Island
+Oykot Kingdom
+Conomi Islands (Cocoyasi Village
+Arlong Park)
+Weatheria
+Gecko Islands (Syrup Village)
+Boin Archipelago
+Germa Kingdom
+Baratie
+Momoiro Island
+Drum Island (Sakura Kingdom)
+Torino Kingdom
+Ohara
+Arabasta Kingdom
+Baltigo
+Water 7
+Karakuri Island
+Florian Triangle
+Kenzan Island
+Fish-Man Island
+Tongari Island (Non-Canon)≠
+Former Memberships:
+Dadan Family
+Impel Down
+Arlong Pirates
+Usopp Pirates
+Germa 66 (Vinsmoke Family)
+Foxy Pirates
+Baroque Works
+Revolutionary Army
+Tom's Workers
+Franky Family
+Rumbar Pirates
+Ammo Knights
+Sun Pirates
+Seven Warlords of the Sea
+Big Mom Pirates
+Instigated Events:
+Davy Back Fight
+Celestial Dragon Hit-and-Run Incident
+Impel Down Great Escape Incident
+Nightmare of Baldimore
+Legend of the Sacred Burning Beast of Baldimore
+Operation SOP
+Raid on Onigashima
+Egghead Incident
+Operation TSO (Non-Canon)≠
+Other:
+Super Rookie
+Worst Generation
+Will of D.
+Inherited Will
+Straw Hat
+Straw Hat Grand Fleet
+Ninja-Pirate-Mink-Samurai Alliance
+Four Emperors
+
+[v · e · ?]Straw Hat Pirates' AlliesCanon AlliesIndividuals:
+Shanks
+Koby
+Rika
+Boodle
+Chouchou
+Gaimon
+Kaya and Merry
+Johnny and Yosaku
+Gin
+Nojiko and Genzo
+Igaram
+Dorry and Brogy
+Dalton and Kureha
+Portgas D. Ace (Deceased)†
+Matsuge
+Hasami
+Pell
+Nefertari Cobra (Deceased)†
+Bentham
+Gan Fall and Pierre
+Conis, Su and Pagaya
+Aisa and Wyper
+Nola
+Kokoro, Chimney, and Gonbe
+Yokozuna
+Oimo and Kashii
+Camie, Pappag, and Hatchan
+Shakuyaku
+Silvers Rayleigh
+Boa Hancock
+Haredas
+Heracles
+Perona
+Buggy (Former)‡ and Galdino (Former)‡
+Emporio Ivankov
+Inazuma
+Crocodile (Former)‡ and Daz Bonez (Former)‡
+Bartholomew Kuma (Former)‡
+Trafalgar D. Water Law
+Dracule Mihawk
+Surume
+Chadros Higelyges
+Mocha
+Kin'emon
+Kozuki Momonosuke
+Ucy
+Rebecca
+Sabo, Koala, and Hack
+Elizabello II and Dagama
+Gatz
+Bellamy
+Pedro (Deceased)† and Carrot
+Pekoms (Unknown status)?
+Vinsmoke Reiju
+Pound
+Capone Bege
+Charlotte Chiffon
+Charlotte Pudding
+Gama Pyonnosuke
+Kurozumi Tama and Komachiyo
+Kozuki Sukiyaki
+Tsurujo
+Shinobu
+Hyogoro
+O-Lin (Former)‡
+Marco
+Yamato
+Jewelry Bonney
+Vegapunk (Shaka (Deceased)†
+Lilith
+Edison
+Pythagoras (Deceased)†
+Atlas)
+Stussy
+Sentomaru
+Organizations:
+Red Hair Pirates
+Usopp Pirates
+Baratie Staff
+Saruyama Alliance
+Galley-La Company
+Franky Family
+Thriller Bark Victim's Association (Rolling Pirates)
+Rosy Life Riders
+Kuja Pirates
+Kamabakka Kingdom
+Prison Escape Team (Newkama Land)
+Whitebeard Pirates and Subordinates
+Revolutionary Army
+Ryugu Kingdom (Neptune Family)
+G-5 (Former)‡
+Tontatta Kingdom
+Chinjao Family
+Dressrosa (Corrida Colosseum
+Riku Family)
+Straw Hat Grand Fleet (Beautiful Pirates
+Barto Club
+Happo Navy
+Ideo Pirates
+Tontatta Pirates
+New Giant Warrior Pirates
+Yonta Maria Grand Fleet)
+Ninja-Pirate-Mink-Samurai Alliance (Heart Pirates  (Former)‡
+Kozuki Family
+Mokomo Dukedom)
+Fire Tank Pirates (Former)‡
+Sun Pirates
+Germa 66 (Vinsmoke Family)
+WCI 31
+Kid Pirates (Former)‡
+Beasts Pirates Defectors
+Bonney Pirates
+Non-Canon AlliesOne-Shots:
+Silk
+Ann and Balloon
+Dragon Team
+Toriko and his allies
+Specials:
+Medaka, Herring, and Skid
+Meroie and Hamu
+Maccus, Bonney, Amanda, Milia, and Holy
+Randolph Theater members
+Toriko and his allies
+Dragon Team
+Diego and Regis
+Foxy Pirates
+Kinoconda
+Myskina Olga, Myskina Acier, Elizabeth, and Chavez
+Movies:
+Ganzo and Tobio
+Akisu and Borodo
+Mobambi and Karasuke
+Adelle and Shuraiya Bascùd
+Maya
+Izaya
+Lacos
+Brief
+Tearoom Pirates
+Roba and Gonzo
+Billy
+Schneider and Buzz
+Kuzan
+Mobston and Gari
+Z
+Carina
+Raise Max
+Rikka
+Worst Generation's Super Rookies
+Smoker
+Buggy
+Boa Hancock
+Sabo
+Crocodile
+Filler Arcs:
+Apis and Ryu
+Tajio
+Kodama
+Zenny Pirates
+Pumpkin Pirates
+Mekao and Kobato
+Foxy, Porche, and Hamburg
+Phoenix Pirates
+Sayo, Lina, and Nukky
+Yoko and Boss
+Little East Blue residents
+Panz Fry and Lily Enstomach
+Sea Animal Pirates
+Desire
+Games:
+Gejitsu Pirates
+Atoli and Dias
+Laotour Bandits and Otsu
+Popora
+Gaburi
+Pato
+Yadoya
+Jeanne
+John
+Events:
+Dragon Team and Astro Boy and his team
+Dragon Team and Kankichi Ryotsu
+Hakuto
+Toratsugu
+Igaram Jr.
+Ann
+Lance and Taylor
+
+[v · e · ?]Straw Hat Grand FleetSenior Captain:
+Monkey D. Luffy
+Senior Officers:
+Roronoa Zoro
+Nami
+Usopp
+Sanji
+Tony Tony Chopper
+Nico Robin
+Franky
+Brook
+Jinbe
+Representatives:
+Cavendish
+Bartolomeo
+Sai
+Ideo
+Leo
+Hajrudin
+Orlumbus
+Crews:
+Beautiful Pirates
+Barto Club
+Happo Navy
+Ideo Pirates
+Tontatta Pirates
+New Giant Warrior Pirates
+Yonta Maria Grand Fleet
+Ships:
+Thousand Sunny
+Sleeping White Horse of the Forest
+Going Luffy-senpai
+Happosai (Ipposai)
+Usoland
+Naglfar
+Yonta Maria (Santa Maria
+Nita Maria)
+AbilitiesDevil Fruit Based:
+Gomu Gomu no Mi
+Hito Hito no Mi
+Hana Hana no Mi
+Yomi Yomi no Mi
+Bari Bari no Mi
+Buki Buki no Mi
+Nui Nui no Mi
+Mushi Mushi no Mi, Model: Kabutomushi
+Mushi Mushi no Mi, Model: Suzumebachi
+Fighting Style Based:
+Art of Weather (Zeus)
+Armored Me
+Black Leg Style
+Fish-Man Karate
+Fish-Man Jujutsu
+Foxfire Style
+General Franky
+Haki
+Hasshoken
+Jao Kun Do
+Nine Sword Style
+No Sword Style
+One Sword Style
+Soul Solid
+Three Sword Style
+Tontatta Combat
+Two Sword Style
+Usopp Tactics (Pop Green)
+Weapon Based:
+Durandal
+Enma
+Sandai Kitetsu
+Wado Ichimonji
+Related ArticlesStory Arcs:
+Dressrosa Arc
+Zou Arc
+Levely Arc
+Cover Stories:
+The Stories of the Self-Proclaimed Straw Hat Grand Fleet
+Locations:
+Bourgeois Kingdom
+Loguetown
+Kano Country
+Jewel Ice Sheet
+Green Bit (Tontatta Kingdom)
+Elbaf
+Standing Kingdom
+Dressrosa
+Other:
+Straw Hat Pirates
+Super Rookie
+Corrida Colosseum
+Chinjao Family
+Longarm Tribe
+Longleg Tribe
+Dwarves
+Giants
+
+[v · e · ?]Ninja-Pirate-Mink-Samurai AllianceFounders:
+Monkey D. Luffy
+Trafalgar D. Water Law
+Kozuki Momonosuke
+Inuarashi
+Nekomamushi
+Groups:
+Straw Hat Pirates (Straw Hat Grand Fleet)
+Heart Pirates
+Kozuki Family (Nine Red Scabbards (minus Kanjuro)*
+Mt. Atama Thieves
+Jibuemon
+Kagero
+Tabuhachiro
+Kurosawa
+Ukon
+Hidayu
+Monjiro
+Jujiro
+Kyoshiro Family)
+Mokomo Dukedom (Inuarashi Musketeer Squad
+Guardians)
+Other Members:
+Yakuza
+Kid Pirates (Unknown status)?
+Marco
+Izou (Deceased)†
+Yamato
+Kurozumi Tama (Komachiyo
+Hihimaru
+Gifters (Speed
+Babanuki
+Gazelleman
+Daifugo
+Briscola
+Mizerka
+Poker
+Hamlet
+Armored Division))
+X Drake
+Fuga
+Indirect Allies:
+Kozuki Sukiyaki
+Caribou
+Toko
+Tsurujo
+Shimotsuki Yasuie (Deceased)†
+Ships:
+Thousand Sunny
+Polar Tang (Deceased: Destroyed)†
+Victoria Punk (Deceased: Destroyed)†
+AbilitiesDevil Fruit Based:
+Gomu Gomu no Mi
+Ope Ope no Mi
+Hana Hana no Mi
+Hito Hito no Mi
+Yomi Yomi no Mi
+Artificial Devil Fruit (SMILE)
+Fuku Fuku no Mi
+Fude Fude no Mi (Former)‡
+Juku Juku no Mi
+Maki Maki no Mi
+Numa Numa no Mi
+Jiki Jiki no Mi
+Tori Tori no Mi, Model: Phoenix
+Kibi Kibi no Mi
+Ryu Ryu no Mi, Model: Allosaurus
+Inu Inu no Mi, Model: Okuchi no Makami
+Fighting Style Based:
+Haki
+Black Leg Style
+Fish-Man Karate
+Fish-Man Jujutsu
+Electro
+Ninjutsu
+Sulong
+Weapon Based:
+Three Sword Style (Wado Ichimonji
+Sandai Kitetsu
+Shusui (Former)‡
+Enma)
+Sorcery Clima-Tact
+Kuro Kabuto
+Raid Suit
+BF-37
+Soul Solid
+Kikoku
+Foxfire Style
+Kappa Style (Soto Muso)
+Oden Two Sword Style (Ame no Habakiri (Former)‡)
+One Sword Style of the Flower
+Related ArticlesStory Arcs:
+Punk Hazard Arc
+Dressrosa Arc
+Zou Arc
+Wano Country Arc
+Locations:
+Wano Country (Flower Capital
+Kuri
+Udon
+Ringo
+Hakumai)
+Punk Hazard
+Dressrosa (SMILE Factory)
+Zou
+Other:
+Super Rookie
+Worst Generation
+Will of D.
+Samurai
+Voice of All Things
+Operation SOP
+Fire Festival
+Raid on Onigashima
+
+[v · e · ?]Heart PiratesCrew:
+Trafalgar D. Water Law
+Bepo
+Penguin (Unknown status)?
+Shachi (Unknown status)?
+Jean Bart (Unknown status)?
+Ikkaku (Unknown status)?
+Uni (Unknown status)?
+Clione (Unknown status)?
+Hakugan (Unknown status)?
+Ship:
+Polar Tang (Deceased: Destroyed)†
+Allies and Affiliates:
+Wolf
+Seven Warlords of the Sea (Former)‡
+Caesar Clown (Former)‡
+Ninja-Pirate-Mink-Samurai Alliance (Straw Hat Pirates
+Kozuki Family
+Mink Tribe)
+AbilitiesDevil Fruit Based:
+Ope Ope no Mi
+Weapon Based:
+Kikoku
+Fighting Style Based:
+Haki
+Sulong
+Related ArticlesStory Arcs:
+Sabaody Archipelago Arc
+Marineford Arc
+Post-War Arc
+Punk Hazard Arc
+Dressrosa Arc
+Zou Arc
+Wano Country Arc
+Egghead Arc
+One Piece novel Law
+Movies:
+One Piece: Stampede
+One Piece Film: Red
+Locations:
+Flevance
+Swallow Island
+Sabaody Archipelago (Human Auctioning House)
+Punk Hazard
+Dressrosa
+Zou
+Wano Country
+Winner Island
+Others:
+Super Rookie
+Worst Generation
+Rocky Port Incident
+Will of D.
+Donquixote Rosinante
+Guardians
+Raid on Onigashima
+
+[v · e · ?]Bonney PiratesMembers:
+Jewelry Bonney
+Gyogyo
+Ship:
+Jewelry Margherita (Unknown status)?
+Allies:
+Revolutionary Army
+Straw Hat Pirates
+SSG
+AbilitiesDevil Fruit-Based:
+Toshi Toshi no Mi
+Related ArticlesStory Arcs:
+Sabaody Archipelago Arc
+Marineford Arc
+Post-War Arc
+Punk Hazard Arc
+Dressrosa Arc
+Levely Arc
+Egghead Arc
+Movies:
+One Piece: Stampede
+Locations:
+Sorbet Kingdom
+Sabaody Archipelago
+Mary Geoise
+Egghead
+Others:
+Worst Generation
+Super Rookie
+Egghead Incident
+
+[v · e · ?]Pirate CrewsFour BluesEast Blue:
+Straw Hat Pirates
+Buggy Pirates
+Black Cat Pirates
+Krieg Pirates
+Yes Pirates
+Bluejam Pirates
+Barto Club
+Gally Pirates
+West Blue:
+Thriller Bark Pirates
+Fire Tank Pirates
+Happo Navy
+North Blue:
+Masira Pirates
+Hawkins Pirates
+Drake Pirates
+Heart Pirates
+Caribou Pirates
+South Blue:
+Shoujou Pirates
+Foxy Pirates
+Bonney Pirates
+Gyro Pirates
+Grand LineParadise:
+Bliking Pirates
+Saruyama Alliance
+Macro Pirates
+Fallen Monk Pirates
+On Air Pirates
+Golden Lion Pirates
+Candy Pirates
+New World:
+Red Hair Pirates
+Giant Warrior Pirates
+Blackbeard Pirates
+Rolling Pirates
+Maelstrom Spider Pirates
+Little Pirates
+Sun Pirates
+Beautiful Pirates
+A O Pirates
+Takotopus Pirates
+Ideo Pirates
+Tontatta Pirates
+New Giant Warrior Pirates
+Yonta Maria Grand Fleet
+Big Mom Pirates
+Peachbeard Pirates
+Bourgeois Pirates
+Puddle Pirates
+Social Club
+Calm Belt:
+Kuja Pirates
+FormerDisbanded:
+Roger Pirates
+Alvida Pirates
+Whitebeard Pirates
+Brownbeard Pirates
+Fake Straw Hat Crew
+New Fish-Man Pirates
+Flying Pirates
+Bellamy Pirates
+Nox Pirates
+Rocks Pirates
+Arrested:
+Arlong Pirates
+Tulip Pirates
+Donquixote Pirates
+Beasts Pirates
+Absorbed:
+Spade Pirates
+Sasaki Pirates
+Who's-Who Pirates
+Destroyed:
+Cook Pirates
+Rumbar Pirates
+Eraser Pirates
+Barrels Pirates
+Gecko Pirates
+Kid Pirates
+OthersOrigin Unknown:
+Roshio Pirates
+Hokahoka Pirates
+Fanged Toad Pirates
+Big Helmet Pirates
+Acumate Pirates
+Space Pirates
+Niho Navy
+Germ Pirates
+Pretend Groups:
+Usopp Pirates
+Non-CanonAnime:
+Barbar Pirates
+Zenny Pirates
+Pumpkin Pirates (Pretend Group)* (Former: Disbanded)‡
+Wetton Pirates (Former: Arrested)‡
+Phoenix Pirates
+Amigo Pirates
+Naguri Pirates
+Sea Animal Pirates
+Breed Pirates
+Silver Pirate Alliance
+Sweet Pirates
+Movies, Specials&amp; OVAs:
+Ganzack Pirates
+Eldoraggo Pirates
+Trump Pirates
+Gasparde Pirates
+Bayan Pirates
+Tearoom Pirates
+Mustache Pirates
+Red Arrows Pirates (Deceased)†
+Schneider Pirates
+World Pirates
+Treasure Pirates
+Long Long Pirates
+Festival Pirates
+Jellyfish Pirates
+Video Games:
+Gejitsu Pirates
+Banzai Pirates
+Drayke Pirates
+Simon Pirates
+Amber Pirates
+Hunger Pirates
+Mussel Pirates
+Bull's Eye Hit Pirates
+Dance Pirates
+Spicy Spice Pirates
+Opera Pirates
+Insect Pirates
+Bounty Pirates
+Premier Shows:
+BIG Pirates
+Bounties Pirates
+Other:
+Fischer's Pirates
+Otearai Pirates
+Makiguso Pirates (Former: Disbanded)‡
+
+[v · e · ?]Will of D.Monkey Family:
+Monkey D. Garp (Unknown status)?
+Monkey D. Dragon
+Monkey D. Luffy
+Gol/Portgas Family:
+Gol D. Roger (Deceased)†
+Portgas D. Rouge (Deceased)†
+Portgas D. Ace (Deceased)†
+Nefertari Family:
+Nefertari Vivi
+Nefertari Cobra (Deceased)†
+Nefertari D. Lili (Deceased)†
+Other Carriers:
+Marshall D. Teach
+Jaguar D. Saul
+Trafalgar D. Water Law
+Rocks D. Xebec (Deceased)†
+AbilitiesDevil Fruit Based:
+Gomu Gomu no Mi
+Mera Mera no Mi (Deceased: Returned to Circulation)†
+Yami Yami no Mi
+Ope Ope no Mi
+Gura Gura no Mi
+Fighting Style Based:
+Haki
+Weapons:
+Kikoku
+Firearm
+Ace
+Support:
+Voice of All Things
+Related ArticlesOrganizations:
+Straw Hat Pirates
+Whitebeard Pirates
+Revolutionary Army
+Marines
+Roger Pirates
+Blackbeard Pirates
+Spade Pirates
+Heart Pirates
+Donquixote Pirates
+Ninja-Pirate-Mink-Samurai Alliance
+Rocks Pirates
+Freedom Fighters (Former)‡
+Others:
+Grand Times
+
+[v · e · ?]Worst GenerationMembers:
+Monkey D. Luffy
+Roronoa Zoro
+Capone Bege
+Jewelry Bonney
+Basil Hawkins (Unknown status)?
+Scratchmen Apoo
+Eustass Kid (Unknown status)?
+X Drake (Unknown status)?
+Urouge
+Killer (Unknown status)?
+Trafalgar D. Water Law
+Marshall D. Teach
+Crews:
+Straw Hat Pirates
+Fire Tank Pirates
+Bonney Pirates
+Hawkins Pirates
+On Air Pirates
+Kid Pirates (Unknown status)?
+Drake Pirates
+Fallen Monk Pirates
+Heart Pirates
+Blackbeard Pirates
+Ships:
+Thousand Sunny  (Shiro Mokuba I
+Mini Merry II
+Shark Submerge III)
+Nostra Castello (Deceased: Destroyed)†
+Jewelry Margherita (Unknown status)?
+Grudge Dolph
+Stay Tune
+Victoria Punk (Deceased: Destroyed)†
+Liberal Hind
+Hanjomaru
+Polar Tang (Deceased: Destroyed)†
+Saber of Xebec
+AbilitiesDevil Fruit Based:
+Gomu Gomu no Mi
+Shiro Shiro no Mi
+Toshi Toshi no Mi
+Wara Wara no Mi
+Oto Oto no Mi
+Jiki Jiki no Mi
+Ryu Ryu no Mi, Model: Allosaurus
+SMILE
+Ope Ope no Mi
+Yami Yami no Mi
+Gura Gura no Mi
+Sword Based:
+Wado Ichimonji
+Sandai Kitetsu
+Shusui (Former)‡
+Enma
+Warabide Sword
+Saber
+Kikoku
+Projectile Weapon Based:
+Firearms
+KX Launcher
+Other Weapon Based:
+Punishers
+Four-Bladed Axe
+Seastone Spear
+Fighting Style Based:
+Three Sword Style/Nine Sword Style
+Foxfire Style
+Haki
+Related ArticlesRelated Groups:
+Four Emperors
+Seven Warlords of the Sea (Former)‡
+Ninja-Pirate-Mink-Samurai Alliance (Former: Disbanded)‡
+Kid-On Air-Hawkins Alliance (Former: Disbanded)‡
+Straw Hat Grand Fleet
+Beasts Pirates
+Big Mom Pirates (Former)‡
+Sanji Retrieval Team-Fire Tank Alliance (Former: Disbanded)‡
+Story Arcs:
+Sea of Survival: Super Rookies Saga (Sabaody Archipelago Arc
+Marineford Arc
+Post-War Arc)
+Return to Sabaody Arc
+Fish-Man Island Arc
+Punk Hazard Arc
+Dressrosa Arc
+Zou Arc
+Whole Cake Island Arc
+Levely Arc
+Wano Country Arc
+Egghead Arc
+Cover Stories:
+Caribou's Kehihihihi in the New World
+"Gang" Bege's Oh My Family
+Movies:
+One Piece: Stampede
+Others:
+Pirate
+Super Rookie
+Bounties
+Duel at Banaro Island
+Sabaody Archipelago
+Celestial Dragon Hit-and-Run Incident
+Summit War of Marineford
+Will of D.
+Rocky Port Incident
+Payback War
+Wano Country
+Egghead Incident
+
+[v · e · ?]Super RookieMembers:
+Worst Generation (Monkey D. Luffy
+Roronoa Zoro
+Capone Bege
+Jewelry Bonney
+Basil Hawkins (Unknown status)?
+Scratchmen Apoo
+Eustass Kid (Unknown status)?
+X Drake (Unknown status)?
+Urouge
+Killer (Unknown status)?
+Trafalgar D. Water Law)
+Portgas D. Ace (Deceased)†
+Cavendish
+Caribou
+Coribou
+Bartolomeo
+Crews:
+Worst Generation (Straw Hat Pirates
+Fire Tank Pirates
+Bonney Pirates
+Hawkins Pirates
+On Air Pirates
+Kid Pirates (Unknown status)?
+Drake Pirates
+Fallen Monk Pirates
+Heart Pirates)
+Spade Pirates
+Caribou Pirates
+Beautiful Pirates
+Barto Club
+Ships:
+Thousand Sunny  (Shiro Mokuba I
+Mini Merry II
+Shark Submerge III)
+Nostra Castello (Deceased: Destroyed)†
+Jewelry Margherita (Unknown status)?
+Grudge Dolph
+Stay Tune
+Victoria Punk (Deceased: Destroyed)†
+Liberal Hind
+Hanjomaru
+Polar Tang (Deceased: Destroyed)†
+Piece of Spadille (Deceased: Destroyed)† (Striker)
+Numabou (Deceased: Destroyed)†
+Sleeping White Horse of the Forest
+Going Luffy-senpai
+AbilitiesDevil Fruit Based:
+Gomu Gomu no Mi
+Shiro Shiro no Mi
+Wara Wara no Mi
+Oto Oto no Mi
+Jiki Jiki no Mi
+Ryu Ryu no Mi, Model: Allosaurus
+SMILE
+Ope Ope no Mi
+Mera Mera no Mi
+Numa Numa no Mi
+Bari Bari no Mi
+Sword Based:
+Wado Ichimonji
+Sandai Kitetsu
+Yubashiri (Deceased: Destroyed)†
+Shusui (Former)‡
+Enma
+Warabide Sword
+Saber
+Kikoku
+Durandal
+Projectile Weapon Based:
+Firearms
+KX Launcher
+Other Weapon Based:
+Punishers
+Four-Bladed Axe
+Seastone Spear
+Fighting Style Based:
+Three Sword Style/Nine Sword Style
+Foxfire Style
+Haki
+Related ArticlesRelated Groups:
+Four Emperors
+Seven Warlords of the Sea (Former)‡
+Whitebeard Pirates
+Ninja-Pirate-Mink-Samurai Alliance (Former: Disbanded)‡
+Kid-On Air-Hawkins Alliance (Former: Disbanded)‡
+Straw Hat Grand Fleet
+Beasts Pirates
+Big Mom Pirates (Former)‡
+Sanji Retrieval Team-Fire Tank Alliance (Former: Disbanded)‡
+Story Arcs:
+Sea of Survival: Super Rookies Saga (Sabaody Archipelago Arc
+Marineford Arc
+Post-War Arc)
+Return to Sabaody Arc
+Fish-Man Island Arc
+Punk Hazard Arc
+Caesar Retrieval Arc (Non-Canon)≠
+Dressrosa Arc
+Silver Mine Arc (Non-Canon)≠
+Zou Arc
+Whole Cake Island Arc
+Wano Country Arc
+Egghead Arc
+Cover Stories:
+Caribou's Kehihihihi in the New World
+The Stories of the Self-Proclaimed Straw Hat Grand Fleet
+"Gang" Bege's Oh My Family
+Movies:
+One Piece: Stampede
+Others:
+Pirate
+Bounties
+Duel at Banaro Island
+Sabaody Archipelago
+Celestial Dragon Hit-and-Run Incident
+Summit War of Marineford
+Will of D.
+Rocky Port Incident
+Wano Country
+Egghead Incident
+
+[v · e · ?]Davy Back FightCanon Participants:
+Foxy
+Porche
+Hamburg
+Kibagaeru
+Fanged Toad Pirate Crewmembers
+Capote
+Monda
+Pickles
+Big Pan
+Nami
+Usopp
+Tony Tony Chopper
+Nico Robin
+Roronoa Zoro
+Sanji
+Monkey D. Luffy
+Announcers:
+Itomimizu
+Chuchun
+Civilians:
+Tonjit
+Shelly
+Anime Only Participants:
+Mashikaku
+Chiqicheetah
+Jube
+Girarin
+Komei
+Dojaku
+Kansho
+Franky
+Brook (Expelled before participating)*
+Other:
+Rokuroshi (Head Referee) (Non-Canon)≠
+AbilitiesDevil Fruit Based:
+Noro Noro no Mi
+Gomu Gomu no Mi
+Hito Hito no Mi
+Hana Hana no Mi
+Fighting Style Based:
+Fish-Man Karate
+No Sword Style
+Afro
+Gorilla Puncher
+Gorilla Puncher 13
+Gorilla Puncher 18 (Non-Canon)≠
+Related ArticlesStory Arcs:
+Long Ring Long Land Arc
+Adventure of Nebulandia (Non-Canon)≠
+Locations:
+Pirate Island
+Long Ring Long Land
+Kinoko Island (Non-Canon)≠
+Locomotions:
+Sexy Foxy
+Fanged Toad Pirates' ship
+Cutie Wagon
+Going Merry
+Taru Tiger
+Harem No Tango (Non-Canon)≠
+Kani Crane (Non-Canon)≠
+Kaji King (Non-Canon)≠
+Oyakata Bune (Non-Canon)≠
+Look Special (Non-Canon)≠
+Mother Ship Coaster (Non-Canon)≠
+Tarumanma (Non-Canon)≠
+Ma Ikkada (Non-Canon)≠
+Others:
+Pirate
+Jolly Roger
+
+[v · e · ?]Fake Straw Hat CrewMain Members:
+Demaro Black
+Manjaro
+Chocolat
+Mounblutain
+Drip
+Nora Gitsune
+Cocoa
+Turco
+Recruits:
+Caribou Pirates (Caribou
+Coribou)
+Albion
+Lip Doughty
+Associated People:
+Trip (Non-Canon)≠
+AbilitiesWeapon Based:
+Flintlock
+Devil Fruit Based:
+Numa Numa no Mi
+Related ArticlesStory Arcs:
+Return to Sabaody Arc
+Others:
+Straw Hat Pirates
+
+[v · e · ?]Corrida ColosseumParticipantsDonquixote Family:
+Diamante
+Senor Pink (Former: Absent)‡
+Dellinger (Former: Absent)‡
+Lao G (Former: Absent)‡
+Machvise (Former: Absent)‡
+A Block:
+Jesus Burgess (Winner)*
+Miko Miko (Non-Canon)≠
+CD Miyamo-To (Non-Canon)≠
+Yosi Takas (Non-Canon)≠
+Cherry Cherry P Sakuruda (Non-Canon)≠
+Tera (Non-Canon)≠
+Rimotaro (Non-Canon)≠
+Komaking (Non-Canon)≠
+B Block:
+Bartolomeo (Winner)*
+Bellamy
+Elizabello II
+Dagama
+Abdullah
+Jeet
+Blue Gilly
+Tank Lepanto
+Ricky
+Hack
+Capman (Former: Absent)‡
+C Block:
+Lucy (Winner and Champion)* (Monkey D. Luffy → Sabo)
+Chinjao
+Sai
+Boo
+Bobby Funk
+Kelly Funk
+Hajrudin
+Jean Ango
+Ideo
+Ucy
+D Block:
+Rebecca (Winner)*
+Cavendish
+Suleiman
+Orlumbus
+Mummy
+Meadows
+Agyo
+Damask
+Rolling Logan
+Acilia
+Gardoa (Non-Canon)≠
+Unknown Block:
+Spartan (Former: Disqualified)‡
+Hera
+Gambia (Former: Absent)‡
+Inchikin (Non-Canon)≠
+Justy (Non-Canon)≠
+Former Participants:
+Kyros (Former: Retired)‡
+Zenran (Non-Canon)≠
+Biezom (Non-Canon)≠
+OthersStaff:
+Gatz
+Spectators:
+Franky
+Issho
+Aremo Ganmi
+Mukkashimi Tower
+Animals:
+Fighting Fish
+AbilitiesDevil Fruit Based:
+Gomu Gomu no Mi
+Bane Bane no Mi
+Bari Bari no Mi
+Jake Jake no Mi
+Sui Sui no Mi
+Hira Hira no Mi
+Ton Ton no Mi
+Fighting Style Based:
+Haki
+Fish-Man Karate
+Jao Kun Do
+Hasshoken
+Ryusoken
+Jio-Ken
+Weapons Based:
+Durandal
+MiscellaneousLocations:
+Dressrosa
+Kano Country
+Mogaro Kingdom
+Prodence Kingdom
+Rommel Kingdom
+Majiatsuka Kingdom
+Crews:
+Donquixote Pirates
+Blackbeard Pirates
+Straw Hat Pirates
+Barto Club
+Beautiful Pirates
+Happo Navy
+New Giant Warrior Pirates
+Organizations:
+Revolutionary Army
+Marines
+Yonta Maria Grand Fleet
+Story Arcs:
+Dressrosa Arc
+
+[v · e · ?]Tontatta KingdomTontatta TribeRoyalty:
+Gancho
+Mansherry
+Tonta Corps:
+Leo
+Bomba
+Rampo
+Bian
+Kabu
+Inhel
+Cotton
+Wicca
+Baxcon
+Daikon
+Flapper
+Bobomba
+Maujii
+Nubon
+Pellini
+Chao
+Eikon
+Chicory
+Other Dwarves:
+Grabar
+Tarara
+AbilitiesDevil Fruits Based:
+Chiyu Chiyu no Mi
+Nui Nui no Mi
+Mushi Mushi no Mi, Model: Kabutomushi
+Mushi Mushi no Mi, Model: Suzumebachi
+Fighting Style Based:
+Tontatta Combat
+Related ArticlesLocations:
+Green Bit
+Dressrosa
+Story Arcs:
+Dressrosa Arc
+Levely Arc
+Cover Stories:
+The Stories of the Self-Proclaimed Straw Hat Grand Fleet
+Allies:
+Riku Family
+Thunder Soldier
+Straw Hat Pirates
+Straw Hat Grand Fleet
+Others:
+Dwarves
+SMILE
+Toys
+Operation SOP
+Mont Blanc Noland
+Donquixote Family
+
+[v · e · ?]Dead End RaceParticipants:
+Straw Hat Pirates
+Gasparde Pirates
+Willy
+Bobby and Pogo
+Bigalo
+A A A
+Ships:
+Going Merry
+Salamander
+Web Panic
+Big Runner
+Rokuron Dokuron
+Locations:
+Hannabal (Starting Point)*
+Partia (Finish Line)*
+AbilitiesDevil Fruit Based:
+Gomu Gomu no Mi
+Hito Hito no Mi
+Hana Hana no Mi
+Ame Ame no Mi
+Fighting Style Based:
+Black Leg Style
+Weapon Based:
+Three Sword Style
+Art of Weather
+Usopp Tactics
+Related ArticlesMovies:
+Dead End Adventure
+Other:
+Pirate
+
+[v · e · ?]Pirates FestivalSP Guest:
+Buena Festa
+Douglas Bullet
+Donald Moderate
+Ann
+Tabi
+AttendeesWorst Generation:
+Straw Hat Pirates
+Heart Pirates
+Kid Pirates (Unknown status)?
+On Air Pirates
+Hawkins Pirates
+Fire Tank Pirates
+Drake Pirates
+Bonney Pirates
+Fallen Monk Pirates
+Seven Warlords of the Sea:
+Kuja Pirates
+Buggy's Delivery
+Dracule Mihawk
+Other Pirates:
+Beautiful Pirates
+Barto Club
+Foxy Pirates
+Bliking Pirates
+Macro Pirates
+Schneider Pirates
+Crocodile
+Daz Bonez
+Risky Brothers
+Perona
+Brief
+Nora Gitsune
+Desan and Croquis
+Captain Seven
+Marines:
+Sakazuki
+Borsalino
+Issho
+Momonga
+Bastille
+Smoker
+Maynard
+Hina
+Tashigi
+Koby
+Helmeppo
+Sentomaru
+Pacifista
+All-Hunt Grount
+Ant De Bonham
+Shimoi Zappa
+Jango
+Fullbody
+Marron
+Horo
+Revolutionary Army:
+Sabo
+Koala
+Hack
+Karasu
+Belo Betty
+Morley
+Lindbergh
+CP0:
+Rob Lucci
+Hattori
+Kaku
+Stussy
+Others:
+Cidre Guild (Former)‡
+Black Drum Kingdom
+Takoyaki 8
+Rosy Life Riders
+Carina
+Miss Monday
+Mr. 9
+Aisa
+Conis
+Acilia
+Mikita
+Gem
+Chimney
+Gonbe
+Kokoro
+Paulie
+Peepley Lulu
+Tilestone
+Zambai
+Kiev
+Schollzo
+Kop
+Mozu
+Kiwi
+Michael
+Hoichael
+Apis
+Xiao
+Billy
+Tibany
+Pandaman
+Carmen
+Rice Rice
+Ratchet
+Spoil
+Doran
+Gedatsu
+Goro
+Baccarat
+Minokoala
+Minozebra
+Attach
+Pascia
+Moodie
+Related ArticlesMovies:
+One Piece: Stampede
+Story Arcs:
+Cidre Guild Arc
+Other:
+Pirate
+Galzburg (Douglas Gray
+Galzforce
+Tragedy of Galzburg)
+Delta Island
+Catapult
+Gol D. Roger
+
+[v · e · ?]Four EmperorsCurrent Members:
+Shanks
+Marshall D. Teach
+Monkey D. Luffy
+Buggy
+Former Members:
+Edward Newgate (Deceased)†
+Charlotte Linlin (Unknown status)?
+Kaidou (Unknown status)?
+Groups:
+Red Hair Pirates
+Blackbeard Pirates
+Straw Hat Pirates (Straw Hat Grand Fleet)
+Cross Guild (Buggy Pirates
+Buggy's Delivery)
+Whitebeard Pirates (Former)‡
+Big Mom Pirates (Former)‡
+Beasts Pirates (Former)‡
+Ships:
+Red Force
+Saber of Xebec
+Thousand Sunny
+Big Top
+Moby Dick (Deceased: Destroyed)†
+Queen Mama Chanter (Former)‡
+AbilitiesDevil Fruit Based:
+Yami Yami no Mi
+Gura Gura no Mi
+Gomu Gomu no Mi
+Bara Bara no Mi
+Soru Soru no Mi (Former)‡
+Uo Uo no Mi, Model: Seiryu (Former)‡
+Fighting Style Based:
+Haki
+Weapon Based:
+Gryphon
+Firearms
+Buggy Balls
+Murakumogiri (Former)‡
+Napoleon (Former)‡
+Prometheus (Former)‡
+Zeus (Former)‡
+Hera (Former)‡
+Hassaikai (Former)‡
+Related ArticlesLocations:
+New World (Yukiryu Island
+Foodvalten (Unknown status)?
+Hachinosu
+Karai Bari Island
+Totto Land (Whole Cake Island) (Former)‡
+Wano Country (Onigashima) (Former)‡
+Sphinx (Former)‡)
+Fish-Man Island
+Story Arcs:
+Loguetown Arc
+Jaya Arc
+Post-Enies Lobby Arc
+Thriller Bark Arc
+Marineford Arc
+Post-War Arc
+Fish-Man Island Arc
+Punk Hazard Arc
+Dressrosa Arc
+Zou Arc
+Whole Cake Island Arc
+Levely Arc
+Wano Country Arc
+Egghead Arc
+Cover Stories:
+From the Decks of the World: The 500,000,000 Man Arc
+Others:
+Pirate
+Bounties
+Three Great Powers
+Summit War of Marineford
+Rocky Port Incident
+Payback War
+Raid on Onigashima
+New Onigashima Project
+Will of D.
+Egghead Incident
+
+
+
+
+
+					
+					
+						
+	
+		
+			Categories					
+		
+							
+
+	
+		
+			Categories: 
+						
+	Four Emperors Groups
+	
+
+			
+	Worst Generation Crews
+	
+
+			
+	East Blue Pirate Crews
+	
+
+			
+	Super Rookie Crews
+	
+
+	
+					
+			
+	
+					
+	
+							
+		
+			Languages					
+		
+							العربية
+							Català
+							Deutsch
+							Español
+							Euskara
+							Français
+							Bahasa Indonesia
+							Italiano
+							Nederlands
+							Polski
+							Português do Brasil
+							Română
+							Русский
+							Türkçe
+							中文
+					
+	
+
+														
+		Community content is available under CC-BY-SA unless otherwise noted.	
+						
+						
+	
+	
+		More Fandoms
+	
+	
+		
+			Fantasy
+		
+	
+
+
+
+					
+				
+									
+
+		
+
+	
+				
+		
+
+
+							
+			
+	
+		
+		Advertisement
+	
+			
+
+	
+		
+			Fan Feed			
+			
+				
+											
+							
+								More One Piece Wiki
+							
+							
+																	
+										
+											1
+											Story Arcs
+										
+									
+																	
+										
+											2
+											Monkey D. Luffy
+										
+									
+																	
+										
+											3
+											Straw Hat Pirates
+										
+									
+															
+						
+										
+					
+				
+
+				
+					
+					
+					
+				
+
+				
+					
+					
+					
+				
+			
+		
+	
+
+		
+					
+	
+		
+			
+				
+					
+				
+			
+			
+			Explore properties
+	
+	
+	
+			
+							
+					
+													Fandom											
+				
+							
+					
+													Muthead											
+				
+							
+					
+													Fanatical											
+				
+					
+	
+			
+			Follow Us
+	
+	
+	
+			
+							
+					
+																								
+				
+							
+					
+																								
+				
+							
+					
+																								
+				
+							
+					
+																								
+				
+							
+					
+																								
+				
+					
+	
+		
+		
+			
+			Overview
+	
+	
+	
+			
+							
+					
+													What is Fandom?											
+				
+							
+					
+													About											
+				
+							
+					
+													Careers											
+				
+							
+					
+													Press											
+				
+							
+					
+													Contact											
+				
+							
+					
+													Terms of Use											
+				
+							
+					
+													Privacy Policy											
+				
+							
+					
+													Global Sitemap											
+				
+							
+					
+													Local Sitemap											
+				
+					
+	
+		
+		
+			
+			Community
+	
+	
+	
+			
+							
+					
+													Community Central											
+				
+							
+					
+													Support											
+				
+							
+					
+													Help											
+				
+							
+					
+													Do Not Sell or Share My Personal Information											
+				
+					
+	
+			
+			Advertise
+	
+	
+	
+			
+							
+					
+													Media Kit											
+				
+							
+					
+													Contact											
+				
+					
+	
+		
+		
+			
+			Fandom Apps
+	
+			Take your favorite fandoms with you and never miss a beat.	
+	
+	
+			
+	
+	
+			
+	
+			
+							
+					
+													
+											
+				
+							
+					
+													
+											
+				
+					
+	
+		
+	
+	
+					One Piece Wiki is a FANDOM Anime Community.
+							
+				
+					View Mobile Site				
+			
+			
+
+			
+
+	
+		window.RLQ = window.RLQ || [];
+		window.RLQ.push(() => {
+			mw.config.set('wgPageActions', {"3":{"class":false,"text":"View history","href":"\/wiki\/Straw_Hat_Pirates?action=history","id":"ca-history","accesskey":"h","data-tracking":"ca-history-dropdown"},"11":{"class":"","text":"Talk (717)","href":"\/wiki\/Talk:Straw_Hat_Pirates","exists":true,"primary":true,"context":"talk","rel":"discussion","id":"ca-talk","accesskey":"t","data-tracking":"ca-talk-dropdown"}});
+		})
+	
+
+	
+		
+				
+		Follow on IG
+	
+	
+		TikTok
+	
+	
+		Join Fan Lab
+	
+
+			
+							
+		
+	
+
+	
+		
+			
+				
+					
+				
+				
+					
+						
+					
+				
+			
+		
+	
+
+
+window.fandomContext = {"site":{"categories":["ent","comics","anime"],"directedAtChildren":false,"siteName":"onepiece","top1000":true,"tags":{"tv":["netflix","adult swim","amazon","cn","funimation","hulu","crunchyroll","fox"],"sex":["m","f"],"bundles":["sensitive","apple_sea_bundle","obi_wan_kenobi_bundle","alc21_bundle","video_tier_1_and_2_bundle","onepiece_franchise","25_bundle","21_bundle"],"fran":["one_piece"],"theme":["pirates","mecha","humor","military","monster","sword","japan","supernatural","gangster","robots"],"gnre":["hackandslash","live-action","rpg","openworld","storytelling","adventure","lightnovel","manga","thriller","shonen","anime","fantasy","drama","action","racing","comedy","fighting"],"media":["cards","tv","movies","games","anime","comics","lightnovel","books"],"pub":["namco","bandainamco"],"age":["35-44","teen","13-17","18-34","kids","45-54","yadult","25-34","under18","18-24"],"pform":["psp","pc","ps3","xboxone","psvita","mobile","ds","wii","3ds","ps2","ps4","switch"]},"taxonomy":["ent","anime"]},"page":{"articleId":1439,"lang":"en","pageId":1439,"pageName":"Straw_Hat_Pirates","pageType":"article","tags":{"tv":["netflix","crunchyroll","amazon","funimation"],"gnre":["anime","manga","thriller","shonen","fighting"],"theme":["sword","pirates","gangster","japan"],"media":["lightnovel"],"pub":["bandainamco","namco"],"pform":["xboxone","psvita"]},"wordCount":15287}}
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"3.217","walltime":"3.417","ppvisitednodes":{"value":117244,"limit":1000000},"postexpandincludesize":{"value":776225,"limit":2097152},"templateargumentsize":{"value":187587,"limit":2097152},"expansiondepth":{"value":28,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":88237,"limit":5000000},"timingprofile":["100.00% 2140.903      1 -total"," 77.55% 1660.376    154 Template:Qref"," 70.01% 1498.845    154 Template:Qref/contents"," 60.28% 1290.536    361 Template:Which_volume"," 10.64%  227.744      1 Template:Straw_Hat_Pirates_Tabs_Top","  9.79%  209.517      1 Template:Crew_Box","  8.54%  182.923      1 Template:Straw_Hat_Pirates_Tabs_Bottom","  6.84%  146.457     17 Template:Navbox","  3.58%   76.606    188 Template:Status","  3.40%   72.843      1 Template:Straw_Hat_Pirates_Gallery"]},"scribunto":{"limitreport-timeusage":{"value":"0.041","limit":"7.000"},"limitreport-memusage":{"value":1449661,"limit":52428800}},"cachereport":{"timestamp":"20231206160702","ttl":1209600,"transientcontent":false}}});});
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":272});});
+</body>

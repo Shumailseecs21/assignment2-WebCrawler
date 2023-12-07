@@ -13,6 +13,7 @@ function isValidUrl($url) {
     if ($filteredUrl === false) {
         return false; // Not a valid URL
     }
+    
 
     // Check if the URL ends with .css or .js
     return !preg_match('/\.(css|js)$/i', $url);
@@ -116,7 +117,15 @@ class UrlQueue {
                 }
             }
             
-            
+            $conn=new mysqli("localhost","root","12345678","webassignment2");
+                if ($conn->connect_error) { 
+                    die("Connection failed: ". $conn->connect_error);
+                }else{
+                    echo "Connected successfully";
+                }
+            $sql=$conn->prepare("INSERT INTO urlTable(file_name,url,content) VALUES(?,?,?)");
+            $sql->bind_param("sss",$connFileName,$connUrl,$connContent);
+
             
             // Fetch the content of the page
             $htmlContent = file_get_contents($url);
@@ -147,8 +156,16 @@ class UrlQueue {
             // Save the content to a file
             file_put_contents($filenameHtml, "URL: $url"."\n\n".$textContent);
             
+            $connFileName=$filenameHtml;
+            $connUrl=$url;
+            $connContent=$textContent;
+
             echo "Crawled<br>";
-            
+
+            $sql->execute();
+            $sql->close();
+            echo "Stored in db<br>";
+            $conn->close();
             $urls = [];
             
             // Load modified HTML content into DOMDocument

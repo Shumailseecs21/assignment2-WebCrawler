@@ -1,0 +1,1718 @@
+URL: https://onepiece.fandom.com/wiki/Special:AllMaps
+
+
+
+
+
+Interactive Maps | One Piece Wiki | Fandom
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":true,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"c6e9e8d4820050cbba1c1be0647cdf09","wgCSPNonce":false,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"AllMaps","wgNamespaceNumber":-1,"wgPageName":"Special:AllMaps","wgTitle":"AllMaps","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Special:AllMaps","wgRelevantArticleId":0,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgNoExternals":false,"wgArticleInterlangList":[],"wikiaPageType":"special","wgReadOnly":null,"isDarkTheme":false,
+"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"egMapsScriptPath":"/extensions-ucp/mw139/Maps/","egMapsDebugJS":false,"egMapsAvailableServices":["leaflet","googlemaps3"],"egMapsLeafletLayersApiKeys":{"MapBox":"","MapQuestOpen":"","Thunderforest":"","GeoportailFrance":""},"wgIsTestModeEnabled":false,"wgEnableLightboxExt":true,"wgDisableCMSNotifications":false,"wgEditSubmitButtonLabelPublish":false,"mwAuthBaseUrl":"https://auth.fandom.com","wgPerformanceMonitoringSamplingFactor":10,"wgPerformanceMonitoringEndpointUrl":"https://beacon.wikia-services.com/__track/special/performance_metrics?w=1081\u0026lc=en\u0026d=onepiece\u0026s=ucp_desktop\u0026u=0\u0026i=sjc-prod\u0026a=0","wgSoftwareVersion":"release-719@release-719.002","wgFandomQuizzesEnabled":false,"wgFandomQuizzesOnFepoEnabled":false,"wgFandomQuizzesGenAiQuizzesOnArticlesEnabled":false,
+"wgFandomQuizzesCommunityQuizzesOnArticlesEnabled":false,"wgDisableAnonymousEditing":true,"comscoreKeyword":"wikiacsid_anime","quantcastLabels":"Genre.hackandslash,Genre.live-action,Genre.rpg,Genre.openworld,Genre.storytelling,Genre.adventure,Genre.lightnovel,Genre.manga,Genre.thriller,Genre.shonen,Genre.anime,Genre.fantasy,Genre.drama,Genre.action,Genre.racing,Genre.comedy,Genre.fighting,Media.cards,Media.tv,Media.movies,Media.games,Media.anime,Media.comics,Media.lightnovel,Media.books,Theme.pirates,Theme.mecha,Theme.humor,Theme.military,Theme.monster,Theme.sword,Theme.japan,Theme.supernatural,Theme.gangster,Theme.robots,TV.netflix,TV.adult swim,TV.amazon,TV.cn,TV.funimation,TV.hulu,TV.crunchyroll,TV.fox","wgEnableDiscussions":true,"viewTrackURL":"https://beacon.wikia-services.com/__track/view?a=0\u0026n=-1\u0026env=prod\u0026c=1081\u0026lc=en\u0026lid=75\u0026x=onepiece\u0026s=ucp_desktop\u0026mobile_theme=fandom-light\u0026rollout_tracking=mw139","viewTrackUrlPrefix":
+"https://beacon.wikia-services.com/__track/view?a=0\u0026n=-1\u0026env=prod\u0026c=1081\u0026lc=en\u0026lid=75\u0026x=onepiece\u0026s=ucp_desktop\u0026mobile_theme=fandom-light\u0026rollout_tracking=mw139","wgEnableHydraFeatures":false,"wgAmplitudeApiKey":"6765a55f49a353467fec981090f1ab6a","wgUserIdForTracking":-1,"wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["de","en","es","fr"],"wgRequestInWikiContext":true,"wgIsFancentralWiki":false};RLSTATE={"site.styles":"ready","user.styles":"ready","user.options":"loading","ext.fandom.InteractiveMaps.allmaps.css":"ready","mediawiki.pager.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.staffSig.css":"ready","ext.fandom.bannerNotifications.desktop.css":"ready","ext.fandom.quickBar.css":"ready","ext.fandom.Uncrawlable.css":"ready","ext.fandom.CreatePage.css":"ready","ext.fandom.Thumbnails.css":"ready","ext.fandom.ThumbnailsViewImage.css":"ready",
+"skin.fandomdesktop.SpecialPagesLists.css":"ready","skin.fandomdesktop.Math.css":"ready","skin.fandomdesktop.CargoTables-ext.css":"ready","ext.fandom.FandomEmbedVideo.css":"ready","ext.fandom.ArticleInterlang.css":"ready","ext.fandom.HighlightToAction.css":"ready","skin.fandomdesktop.styles":"ready","ext.fandomVideo.css":"ready","ext.fandom.GlobalComponents.GlobalNavigationTheme.light.css":"ready","ext.fandom.GlobalComponents.GlobalComponentsTheme.light.css":"ready","ext.fandom.GlobalComponents.GlobalNavigation.css":"ready","ext.fandom.GlobalComponents.GlobalFooter.css":"ready","ext.fandom.GlobalComponents.CommunityHeader.css":"ready","ext.fandom.GlobalComponents.StickyNavigation.css":"ready","ext.fandom.GlobalComponents.CommunityHeaderBackground.css":"ready","ext.fandom.GlobalComponents.RegistrationButtons.css":"ready"};RLPAGEMODULES=["ext.fandom.InteractiveMaps.allmaps.js","site","mediawiki.page.ready","ext.fandom.mediaWikiMigrationHooks.js",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.fandom.performanceMonitoring.js","ext.fandom.Optimizely.js","ext.fandom.ae.babTracking.js","ext.fandom.ae.consentQueue.js","ext.fandom.AnalyticsEngine.comscore.js","ext.fandom.AnalyticsEngine.quantcast.js","ext.fandom.bannerNotifications.js","ext.fandom.bannerNotifications.messages","ext.fandom.Track.js","ext.fandom.wikiaBar.js","ext.fandom.ContentReview.legacyLoaders.js","ext.fandom.ContentReview.jsReload.js","ext.fandom.site","ext.fandom.ImportJs","ext.fandom.ContentReviewTestModeMessages","ext.fandom.UncrawlableUrl.anchors.js","ext.fandom.CreatePage.js","ext.fandom.TimeAgoMessaging.js","ext.fandom.ImageGalleryIconModuleInit.js","ext.fandom.Thumbnails.js","ext.fandom.Thumbnails.messages","ext.fandom.FandomEmbedVideo.js","ext.fandom.HighlightToAction.js","ext.fandom.HighlightToAction.messages","skin.fandomdesktop.js","skin.fandomdesktop.messages","ext.fandom.GlobalComponents.SearchModal.messages",
+"ext.fandom.GlobalComponents.GlobalNavigationAnon.js","ext.fandom.GlobalComponents.GlobalFooter.js","ext.fandom.GlobalComponents.CommunityHeader.js","ext.fandom.GlobalComponents.StickyNavigation.js","ext.fandom.GlobalComponents.RegistrationButtons.js","ext.fandom.nositenotice.js","ext.fandom.Lightbox.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	const useMaxDefaultContentWidth = Boolean();
+
+	const defaultContentWidth = useMaxDefaultContentWidth ? 'expanded' : 'collapsed';
+
+	let contentWidthPreference;
+
+	try {
+		contentWidthPreference = localStorage.getItem('contentwidth') || defaultContentWidth;
+	} catch (e) {
+		contentWidthPreference = defaultContentWidth;
+	}
+
+	if ( contentWidthPreference === 'expanded' ) {
+		document.documentElement.classList.add('is-content-expanded');
+	}
+
+
+
+
+var _userId=0;
+var _plc={"p":"mw","pVar":"fandomdesktop","pCat":"anime","pId":"1081","pg":"special","pgId":"0","pgLang":"en","adTags":{"tv":["netflix","adult swim","amazon","cn","funimation","hulu","crunchyroll","fox"],"sex":["m","f"],"bundles":["sensitive","apple_sea_bundle","obi_wan_kenobi_bundle","alc21_bundle","video_tier_1_and_2_bundle","onepiece_franchise","25_bundle","21_bundle"],"fran":["one_piece"],"theme":["pirates","mecha","humor","military","monster","sword","japan","supernatural","gangster","robots"],"gnre":["hackandslash","live-action","rpg","openworld","storytelling","adventure","lightnovel","manga","thriller","shonen","anime","fantasy","drama","action","racing","comedy","fighting"],"media":["cards","tv","movies","games","anime","comics","lightnovel","books"],"pub":["namco","bandainamco"],"age":["35-44","teen","13-17","18-34","kids","45-54","yadult","25-34","under18","18-24"],"pform":["psp","pc","ps3","xboxone","psvita","mobile","ds","wii","3ds","ps2","ps4","switch"]},"time":0}; var _ulc={"id":"0","lang":"en"}; _plc.time=Date.now();
+
+
+var ads={"context":{"opts":{"enableNativeAds":true,"pageType":"all_ads","platformName":"fandomdesktop","noAdsReasons":["no_ads_page"]},"targeting":{"enablePageCategories":true,"isUcp":true,"mappedVerticalName":"ent","newWikiCategories":["ent","comics","anime"],"pageName":"Special:AllMaps","pageType":"special","wikiDbName":"onepiece","wikiId":1081,"wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"anime","adTagManagerTags":{"tv":["netflix","adult swim","amazon","cn","funimation","hulu","crunchyroll","fox"],"sex":["m","f"],"bundles":["sensitive","apple_sea_bundle","obi_wan_kenobi_bundle","alc21_bundle","video_tier_1_and_2_bundle","onepiece_franchise","25_bundle","21_bundle"],"fran":["one_piece"],"theme":["pirates","mecha","humor","military","monster","sword","japan","supernatural","gangster","robots"],"gnre":["hackandslash","live-action","rpg","openworld","storytelling","adventure","lightnovel","manga","thriller","shonen","anime","fantasy","drama","action","racing","comedy","fighting"],"media":["cards","tv","movies","games","anime","comics","lightnovel","books"],"pub":["namco","bandainamco"],"age":["35-44","teen","13-17","18-34","kids","45-54","yadult","25-34","under18","18-24"],"pform":["psp","pc","ps3","xboxone","psvita","mobile","ds","wii","3ds","ps2","ps4","switch"]}}},"consentQueue":[]};
+
+	// Install temporary stub until full CMP will be ready
+	if (typeof window.__tcfapi === 'undefined') {
+		// @iabtcf/stub v1.3.1
+		"use strict";function _typeof(t){return(_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t})(t)}!function(){var t=function(){var t,e,o="__tcfapiLocator",n=[],r=window,a=r;for(;a;){try{if(a.frames[o]){t=a;break}}catch(t){}if(a===r.top)break;a=r.parent}t||(!function t(){var e=r.document,n=!!r.frames[o];if(!n)if(e.body){var a=e.createElement("iframe");a.style.cssText="display:none",a.name=o,e.body.appendChild(a)}else setTimeout(t,5);return!n}(),r.__tcfapi=function(){for(var t=arguments.length,o=new Array(t),r=0;r3&&2===parseInt(o[1],10)&&"boolean"==typeof o[3]&&(e=o[3],"function"==typeof o[2]&&o[2]("set",!0)):"ping"===o[0]?"function"==typeof o[2]&&o[2]({gdprApplies:e,cmpLoaded:!1,cmpStatus:"stub"}):n.push(o)},r.addEventListener("message",(function(t){var e="string"==typeof t.data,o={};if(e)try{o=JSON.parse(t.data)}catch(t){}else o=t.data;var n="object"===_typeof(o)?o.__tcfapiCall:null;n&&window.__tcfapi(n.command,n.version,(function(o,r){var a={__tcfapiReturn:{returnValue:o,success:r,callId:n.callId}};t&&t.source&&t.source.postMessage&&t.source.postMessage(e?JSON.stringify(a):a,"*")}),n.parameter)}),!1))};"undefined"!=typeof module?module.exports=t:t()}();
+	}
+
+
+
+
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-AllMaps page-Special_AllMaps rootpage-Special_AllMaps skin-fandomdesktop action-view ooui-theme-fandomooui wiki-onepiece theme-fandomdesktop-light">
+	
+				
+			
+	
+
+		
+	
+
+		One Piece Wiki
+	
+
+	
+					
+			
+			
+				
+										Explore
+				
+							
+			
+					
+													
+			
+			
+								Main Page
+			
+		
+														
+			
+			
+								Discuss
+			
+		
+														
+			
+			
+								All Pages
+			
+		
+														
+			
+			
+								Community
+			
+		
+														
+			
+			
+								Interactive Maps
+			
+		
+														
+			
+			
+								Recent Blog Posts
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										World
+				
+							
+			
+					
+													
+			
+			
+								Characters
+							
+			
+				
+											
+			
+			
+								Straw Hat Pirates
+			
+		
+												
+			
+			
+								In Canon
+			
+		
+												
+			
+			
+								Non-Canon
+			
+		
+												
+			
+			
+								Pirates
+			
+		
+												
+			
+			
+								Marines
+			
+		
+												
+			
+			
+								Nobles
+			
+		
+												
+			
+			
+								By Race
+			
+		
+												
+			
+			
+								Antagonists
+			
+		
+										
+			
+		
+														
+			
+			
+								Locations
+							
+			
+				
+											
+			
+			
+								Grand Line
+			
+		
+												
+			
+			
+								East Blue
+			
+		
+												
+			
+			
+								New World
+			
+		
+												
+			
+			
+								Islands
+			
+		
+												
+			
+			
+								Towns and Cities
+			
+		
+										
+			
+		
+														
+			
+			
+								Organizations
+							
+			
+				
+											
+			
+			
+								Marines
+			
+		
+												
+			
+			
+								Pirate Crews
+			
+		
+												
+			
+			
+								Seven Warlords of the Sea
+			
+		
+												
+			
+			
+								Four Emperors
+			
+		
+												
+			
+			
+								World Government
+			
+		
+												
+			
+			
+								Revolutionary Army
+			
+		
+										
+			
+		
+														
+			
+			
+								Society
+							
+			
+				
+											
+			
+			
+								Occupations
+			
+		
+												
+			
+			
+								Races
+			
+		
+												
+			
+			
+								Technology
+			
+		
+												
+			
+			
+								Animal Species
+			
+		
+												
+			
+			
+								Plant and Fungi Species
+			
+		
+										
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Media
+				
+							
+			
+					
+													
+			
+			
+								Manga
+							
+			
+				
+											
+			
+			
+								Chapters and Volumes
+			
+		
+												
+			
+			
+								SBS Corners
+			
+		
+												
+			
+			
+								Story Arcs
+			
+		
+												
+			
+			
+								Cover Stories
+			
+		
+												
+			
+			
+								Volume Intros
+			
+		
+												
+			
+			
+								Books
+			
+		
+										
+			
+		
+														
+			
+			
+								Anime
+							
+			
+				
+											
+			
+			
+								Episode Guide
+			
+		
+												
+			
+			
+								Story Arcs
+			
+		
+												
+			
+			
+								One Piece Movies
+			
+		
+												
+			
+			
+								Filler
+			
+		
+												
+			
+			
+								Music
+			
+		
+										
+			
+		
+														
+			
+			
+								Merchandise
+							
+			
+				
+											
+			
+			
+								Spin-Offs
+			
+		
+												
+			
+			
+								Video Games
+			
+		
+										
+			
+		
+														
+			
+			
+								Other Media
+							
+			
+				
+											
+			
+			
+								Books
+			
+		
+												
+			
+			
+								Magazine
+			
+		
+												
+			
+			
+								Events
+			
+		
+												
+			
+			
+								Live Performances
+			
+		
+												
+			
+			
+								Live-Action Series
+			
+		
+												
+			
+			
+								Variety
+			
+		
+												
+			
+			
+								Mobile Apps
+			
+		
+										
+			
+		
+														
+			
+			
+								Mythbusters
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Community
+				
+							
+			
+					
+													
+			
+			
+								Discord Server
+			
+		
+														
+			
+			
+								Discussions
+			
+		
+														
+			
+			
+								Forums
+			
+		
+														
+			
+			
+								Recent Blogs
+			
+		
+														
+			
+			
+								Featured Articles
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Help
+				
+							
+			
+					
+													
+			
+			
+								Rules
+							
+			
+				
+											
+			
+			
+								Spoiler Rules
+			
+		
+												
+			
+			
+								Vandalism Rules
+			
+		
+												
+			
+			
+								Forum Rules
+			
+		
+												
+			
+			
+								Discussions, Blogs, and Discord Rules
+			
+		
+										
+			
+		
+														
+			
+			
+								Guidelines
+							
+			
+				
+											
+			
+			
+								Manual of Style
+			
+		
+												
+			
+			
+								Page Layouts
+			
+		
+												
+			
+			
+								Image Guidelines
+			
+		
+												
+			
+			
+								Trivia Guidelines
+			
+		
+										
+			
+		
+														
+			
+			
+								FAQ
+			
+		
+														
+			
+			
+								Referencing Information
+			
+		
+														
+			
+			
+								Administrators
+			
+		
+												
+			
+		
+				
+
+	
+			
+					
+			
+					
+			
+					
+		
+
+
+
+	
+		
+			
+								FANDOM
+			
+
+							
+								
+			
+			
+
+			
+			
+				
+
+	
+	
+	
+
+
+			
+			
+				Fan Central			
+							
+					BETA				
+					
+			
+			
+				
+	
+		
+	
+
+			
+			
+				Games			
+					
+			
+			
+				
+
+	
+
+
+			
+			
+				Anime			
+					
+			
+			
+				
+	
+		
+	
+
+			
+			
+				Movies			
+					
+			
+			
+				
+	
+		
+	
+
+			
+			
+				TV			
+					
+			
+			
+				
+	
+		
+	
+
+			
+			
+				Video			
+					
+	
+			
+			
+				
+					
+
+	
+
+
+				
+				
+					Wikis				
+			
+			
+				
+											
+							
+								Explore Wikis							
+						
+											
+							
+								Community Central							
+						
+									
+			
+		
+	
+			
+			
+							
+			
+				Start a Wiki			
+		
+	
+		
+	
+
+	
+							
+
+	
+		
+					
+	
+	
+		
+
+
+	Don&#039;t have an account?
+
+	Register
+
+
+	Sign In	
+
+			
+
+	
+		
+		
+	
+		
+		
+			
+	
+		
+			Sign In		
+		
+						Register		
+	
+			
+	
+					
+				
+			
+				
+			
+				
+					One Piece Wiki				
+											
+			
+				7,138pages			
+			
+			
+					
+			
+					
+			
+					
+		
+		
+		
+
+	
+					
+			
+			
+				
+										Explore
+				
+							
+			
+					
+													
+			
+			
+								Main Page
+			
+		
+														
+			
+			
+								Discuss
+			
+		
+														
+			
+			
+								All Pages
+			
+		
+														
+			
+			
+								Community
+			
+		
+														
+			
+			
+								Interactive Maps
+			
+		
+														
+			
+			
+								Recent Blog Posts
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										World
+				
+							
+			
+					
+													
+			
+			
+								Characters
+							
+			
+				
+											
+			
+			
+								Straw Hat Pirates
+			
+		
+												
+			
+			
+								In Canon
+			
+		
+												
+			
+			
+								Non-Canon
+			
+		
+												
+			
+			
+								Pirates
+			
+		
+												
+			
+			
+								Marines
+			
+		
+												
+			
+			
+								Nobles
+			
+		
+												
+			
+			
+								By Race
+			
+		
+												
+			
+			
+								Antagonists
+			
+		
+										
+			
+		
+														
+			
+			
+								Locations
+							
+			
+				
+											
+			
+			
+								Grand Line
+			
+		
+												
+			
+			
+								East Blue
+			
+		
+												
+			
+			
+								New World
+			
+		
+												
+			
+			
+								Islands
+			
+		
+												
+			
+			
+								Towns and Cities
+			
+		
+										
+			
+		
+														
+			
+			
+								Organizations
+							
+			
+				
+											
+			
+			
+								Marines
+			
+		
+												
+			
+			
+								Pirate Crews
+			
+		
+												
+			
+			
+								Seven Warlords of the Sea
+			
+		
+												
+			
+			
+								Four Emperors
+			
+		
+												
+			
+			
+								World Government
+			
+		
+												
+			
+			
+								Revolutionary Army
+			
+		
+										
+			
+		
+														
+			
+			
+								Society
+							
+			
+				
+											
+			
+			
+								Occupations
+			
+		
+												
+			
+			
+								Races
+			
+		
+												
+			
+			
+								Technology
+			
+		
+												
+			
+			
+								Animal Species
+			
+		
+												
+			
+			
+								Plant and Fungi Species
+			
+		
+										
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Media
+				
+							
+			
+					
+													
+			
+			
+								Manga
+							
+			
+				
+											
+			
+			
+								Chapters and Volumes
+			
+		
+												
+			
+			
+								SBS Corners
+			
+		
+												
+			
+			
+								Story Arcs
+			
+		
+												
+			
+			
+								Cover Stories
+			
+		
+												
+			
+			
+								Volume Intros
+			
+		
+												
+			
+			
+								Books
+			
+		
+										
+			
+		
+														
+			
+			
+								Anime
+							
+			
+				
+											
+			
+			
+								Episode Guide
+			
+		
+												
+			
+			
+								Story Arcs
+			
+		
+												
+			
+			
+								One Piece Movies
+			
+		
+												
+			
+			
+								Filler
+			
+		
+												
+			
+			
+								Music
+			
+		
+										
+			
+		
+														
+			
+			
+								Merchandise
+							
+			
+				
+											
+			
+			
+								Spin-Offs
+			
+		
+												
+			
+			
+								Video Games
+			
+		
+										
+			
+		
+														
+			
+			
+								Other Media
+							
+			
+				
+											
+			
+			
+								Books
+			
+		
+												
+			
+			
+								Magazine
+			
+		
+												
+			
+			
+								Events
+			
+		
+												
+			
+			
+								Live Performances
+			
+		
+												
+			
+			
+								Live-Action Series
+			
+		
+												
+			
+			
+								Variety
+			
+		
+												
+			
+			
+								Mobile Apps
+			
+		
+										
+			
+		
+														
+			
+			
+								Mythbusters
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Community
+				
+							
+			
+					
+													
+			
+			
+								Discord Server
+			
+		
+														
+			
+			
+								Discussions
+			
+		
+														
+			
+			
+								Forums
+			
+		
+														
+			
+			
+								Recent Blogs
+			
+		
+														
+			
+			
+								Featured Articles
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Help
+				
+							
+			
+					
+													
+			
+			
+								Rules
+							
+			
+				
+											
+			
+			
+								Spoiler Rules
+			
+		
+												
+			
+			
+								Vandalism Rules
+			
+		
+												
+			
+			
+								Forum Rules
+			
+		
+												
+			
+			
+								Discussions, Blogs, and Discord Rules
+			
+		
+										
+			
+		
+														
+			
+			
+								Guidelines
+							
+			
+				
+											
+			
+			
+								Manual of Style
+			
+		
+												
+			
+			
+								Page Layouts
+			
+		
+												
+			
+			
+								Image Guidelines
+			
+		
+												
+			
+			
+								Trivia Guidelines
+			
+		
+										
+			
+		
+														
+			
+			
+								FAQ
+			
+		
+														
+			
+			
+								Referencing Information
+			
+		
+														
+			
+			
+								Administrators
+			
+		
+												
+			
+		
+				
+
+	
+
+			
+				
+					
+						
+							
+																																
+													
+					
+					
+	
+		
+			
+								
+			
+								
+		
+			
+				
+					Interactive Maps				
+															Special page
+											
+												
+			
+				
+				
+				
+				
+											
+		
+					
+	
+				Help
+	
+
+			
+					
+																		
+
+
+
+	Browse custom interactive maps inspired by a world featured in your favorite fandom. Explore and visualize locations, items, and more!
+			
+			
+								Create Map
+			
+		
+		
+		
+			
+	
+					
+			
+	Arabasta Kingdom Map
+	Last edited 4 August
+
+
+	
+					
+			
+	Chapter 863
+	Last edited 10 August
+
+
+	
+					
+			
+	Entire World
+	Last edited 4 August
+
+
+	
+					
+			
+	Wano Country Map
+	Last edited 2 October
+
+
+	
+					
+			
+	Young Marines
+	Last edited 6 August
+
+		
+			
+
+					
+					
+						
+						
+														
+		Community content is available under CC-BY-SA unless otherwise noted.	
+						
+											
+				
+							
+			
+	
+					
+					
+	
+		
+			
+				
+					
+				
+			
+			
+			Explore properties
+	
+	
+	
+			
+							
+					
+													Fandom											
+				
+							
+					
+													Muthead											
+				
+							
+					
+													Fanatical											
+				
+					
+	
+			
+			Follow Us
+	
+	
+	
+			
+							
+					
+																								
+				
+							
+					
+																								
+				
+							
+					
+																								
+				
+							
+					
+																								
+				
+							
+					
+																								
+				
+					
+	
+		
+		
+			
+			Overview
+	
+	
+	
+			
+							
+					
+													What is Fandom?											
+				
+							
+					
+													About											
+				
+							
+					
+													Careers											
+				
+							
+					
+													Press											
+				
+							
+					
+													Contact											
+				
+							
+					
+													Terms of Use											
+				
+							
+					
+													Privacy Policy											
+				
+							
+					
+													Global Sitemap											
+				
+							
+					
+													Local Sitemap											
+				
+					
+	
+		
+		
+			
+			Community
+	
+	
+	
+			
+							
+					
+													Community Central											
+				
+							
+					
+													Support											
+				
+							
+					
+													Help											
+				
+							
+					
+													Do Not Sell or Share My Personal Information											
+				
+					
+	
+			
+			Advertise
+	
+	
+	
+			
+							
+					
+													Media Kit											
+				
+							
+					
+													Contact											
+				
+					
+	
+		
+		
+			
+			Fandom Apps
+	
+			Take your favorite fandoms with you and never miss a beat.	
+	
+	
+			
+	
+	
+			
+	
+			
+							
+					
+													
+											
+				
+							
+					
+													
+											
+				
+					
+	
+		
+	
+	
+					One Piece Wiki is a FANDOM Anime Community.
+							
+				
+					View Mobile Site				
+			
+			
+
+			
+
+
+	
+		
+				
+		Follow on IG
+	
+	
+		TikTok
+	
+	
+		Join Fan Lab
+	
+
+			
+							
+		
+	
+
+	
+		
+			
+				
+					
+				
+				
+					
+						
+					
+				
+			
+		
+	
+
+
+window.fandomContext = {"site":{"categories":["ent","comics","anime"],"directedAtChildren":false,"siteName":"onepiece","top1000":true,"tags":{"tv":["netflix","adult swim","amazon","cn","funimation","hulu","crunchyroll","fox"],"sex":["m","f"],"bundles":["sensitive","apple_sea_bundle","obi_wan_kenobi_bundle","alc21_bundle","video_tier_1_and_2_bundle","onepiece_franchise","25_bundle","21_bundle"],"fran":["one_piece"],"theme":["pirates","mecha","humor","military","monster","sword","japan","supernatural","gangster","robots"],"gnre":["hackandslash","live-action","rpg","openworld","storytelling","adventure","lightnovel","manga","thriller","shonen","anime","fantasy","drama","action","racing","comedy","fighting"],"media":["cards","tv","movies","games","anime","comics","lightnovel","books"],"pub":["namco","bandainamco"],"age":["35-44","teen","13-17","18-34","kids","45-54","yadult","25-34","under18","18-24"],"pform":["psp","pc","ps3","xboxone","psvita","mobile","ds","wii","3ds","ps2","ps4","switch"]},"taxonomy":["ent","anime"]},"page":{"articleId":0,"lang":"en","pageId":0,"pageName":"Special:AllMaps","pageType":"special","tags":null,"wordCount":48}}
+
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":111});});
+</body>
